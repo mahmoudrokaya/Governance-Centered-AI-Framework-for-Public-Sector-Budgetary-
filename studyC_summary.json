@@ -1,0 +1,15 @@
+{
+    "script": "06C_governance_metric_statistical_validation.py",
+    "objective": "Statistically validate governance metrics against fiscal anomaly labels without training prediction models.",
+    "dataset_path": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels\\panel_governance_labeled_dataset.csv",
+    "leakage_audit_path": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\leakage_feature_audit.csv",
+    "output_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\06C_governance_metric_statistical_validation",
+    "observations": 803,
+    "positive_anomalies": 201,
+    "negative_anomalies": 602,
+    "governance_metric_count": 9,
+    "fdr_significant_metric_count": 2,
+    "moderate_or_strong_validity_metric_count": 2,
+    "top_metric": "panel_traceability_index_0_1",
+    "top_metric_evidence_strength": "moderate empirical validity evidence"
+}

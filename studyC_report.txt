@@ -1,0 +1,27 @@
+06C GOVERNANCE METRIC STATISTICAL VALIDATION
+================================================================================
+Dataset: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\04C_define_panel_governance_metrics_and_labels\panel_governance_labeled_dataset.csv
+Leakage audit: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\05B_leakage_audit_and_feature_purity_analysis\leakage_feature_audit.csv
+Results directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\06C_governance_metric_statistical_validation
+--------------------------------------------------------------------------------
+Observations: 803
+Positive anomalies: 201
+Negative anomalies: 602
+Governance metrics evaluated: 9
+FDR-significant metrics: 2
+Moderate/strong validity metrics: 2
+
+Metric validity ranking:
+ rank                               metric  mean_difference_anomaly_minus_non  mannwhitney_fdr_p   cohen_d cohen_d_magnitude  cliffs_delta cliffs_delta_magnitude  spearman_r  mutual_information                      evidence_strength
+    1         panel_traceability_index_0_1                          -0.036128           0.000881 -0.366051             small     -0.169584                  small   -0.133093            0.040199   moderate empirical validity evidence
+    2     panel_temporal_support_index_0_1                           0.054259           0.000881  0.202083             small      0.129436             negligible    0.131522            0.031723   moderate empirical validity evidence
+    3      panel_audit_readiness_index_0_1                           0.009730           0.183268  0.150604        negligible      0.033223             negligible    0.066149            0.017989 weak or no empirical validity evidence
+    4 panel_governance_alignment_index_0_1                          -0.000694           0.200984 -0.007906        negligible     -0.079742             negligible   -0.059999            0.032382 weak or no empirical validity evidence
+    5   panel_decision_usability_index_0_1                           0.016035           0.542282  0.178060        negligible     -0.042834             negligible   -0.032227            0.042437 weak or no empirical validity evidence
+    6   panel_decision_usability_score_1_5                           0.064138           0.542282  0.178060        negligible     -0.042834             negligible   -0.032227            0.042437 weak or no empirical validity evidence
+    7     panel_interpretability_score_1_5                           0.103215           0.743753  0.158422        negligible      0.020264             negligible    0.015486            0.002316 weak or no empirical validity evidence
+    8     panel_interpretability_index_0_1                           0.025804           0.743753  0.158422        negligible      0.020264             negligible    0.015486            0.002316 weak or no empirical validity evidence
+    9   panel_risk_signal_completeness_0_1                           0.000000           1.000000       NaN         undefined      0.000000             negligible         NaN            0.012207 weak or no empirical validity evidence
+
+Reviewer-facing interpretation:
+Study C evaluates construct-level empirical validity of the governance metrics without relying on predictive model training. Metrics that show FDR-significant group differences, non-trivial effect sizes, and stable bootstrap confidence intervals can be defended as empirically meaningful governance indicators. Metrics with weak or non-significant evidence should be reported as descriptive governance documentation indicators or removed from the predictive governance model.
