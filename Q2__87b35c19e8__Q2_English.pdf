@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <title>وزارة المالية - المملكة العربية السعودية</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" type="image/x-icon" href="/_layouts/15/MofInternet/404/ar/images/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=1.0, user-scalable=no" />
+    <link id="MofCustomStyle" href="/_layouts/15/MofInternet/404/ar/css/404.css" rel="stylesheet" type="text/css">
+    <link id="MofCustomStyle" href="/_layouts/15/MofInternet/404/ar/css/fonts.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+   <div class="page-wrap">
+  
+  <div class="top_area">
+        <div class="header">
+            <a href="https://www.mof.gov.sa/Pages/default.aspx" title="الصفحة الرئيسية"><img alt="" src='/_layouts/15/MofInternet/404/ar/images/header_logo.png' class="header_logo" /></a>
+        </div>
+    </div>
+
+    <div class="int_body_404">
+        <div class="error">404</div>
+        <div class="pnf">الصفحة غير موجودة</div>
+        <div class="homelink">عذراً ... الصفحة التي تحاول الوصول إليها غير موجودة ... <a href="/">الصفحة الرئيسية</a></div>
+    </div>
+</div>
+
+<footer class="site-footer">
+                 وزارة المالية - المملكة العربية السعودية © <script type="text/javascript">document.write((new Date()).getFullYear())</script>
+</footer>
+    
+   
+</body>
+</html>
