@@ -1,0 +1,40 @@
+{
+  "run_time": "2026-06-14T06:49:36",
+  "data_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Data",
+  "results_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\02_extract_and_standardize_mof_tables",
+  "tabular_files_scanned": 16,
+  "sheets_scanned": 150,
+  "sheets_with_long_records": 105,
+  "long_records_extracted": 3818,
+  "years_detected": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "periods_detected": [
+    "End-Year/Annual",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4"
+  ],
+  "categories_detected": [
+    "Debt",
+    "Expenditure",
+    "Non-oil revenue",
+    "Oil revenue",
+    "Other",
+    "Revenue",
+    "Surplus/Deficit"
+  ],
+  "outputs": {
+    "raw_sheet_profiles": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\02_extract_and_standardize_mof_tables\\raw_sheet_profiles.csv",
+    "detected_headers": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\02_extract_and_standardize_mof_tables\\detected_headers.csv",
+    "standardized_long_dataset": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\02_extract_and_standardize_mof_tables\\standardized_long_dataset.csv",
+    "wide_clean_tables": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\02_extract_and_standardize_mof_tables\\wide_clean_tables.xlsx",
+    "variable_dictionary": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\02_extract_and_standardize_mof_tables\\variable_dictionary.csv",
+    "data_quality_report": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\02_extract_and_standardize_mof_tables\\data_quality_report.csv",
+    "extraction_report": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\02_extract_and_standardize_mof_tables\\extraction_report.txt"
+  }
+}

@@ -1,0 +1,11 @@
+﻿check,value,interpretation
+total_long_records,3818,Number of numeric observations extracted into the standardized long dataset.
+unique_source_files,15,Number of Excel/CSV files contributing data.
+unique_sheets,105,Number of source sheets contributing data.
+unique_years,4,Number of detected fiscal years.
+year_range,2021 to 2024,Detected year range after extraction.
+unique_periods,5,Number of detected fiscal periods.
+records_missing_year,0,Records where year could not be inferred.
+records_missing_period,1305,Records where period could not be inferred.
+unique_categories,7,Number of inferred fiscal indicator categories.
+duplicate_source_label_value_records,135,Possible duplicate extracted records.
