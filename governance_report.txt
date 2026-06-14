@@ -1,0 +1,55 @@
+GOVERNANCE METRICS AND LABELS REPORT
+================================================================================
+Run time: 2026-06-14T07:10:23
+Input directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\03_build_long_format_budget_dataset
+Results directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\04_define_governance_metrics_and_labels
+
+1. Observation set
+--------------------------------------------------------------------------------
+Input model-ready observations: 48
+Valid reporting-period observations retained: 16
+Excluded non-standard period observations: 32
+Years retained: [2021, 2022, 2023, 2024]
+Periods retained: ['Q1', 'Q2', 'Q3', 'Q4', 'End-Year/Annual']
+
+2. Target labels
+--------------------------------------------------------------------------------
+Main anomaly threshold quantile: 0.75
+Main anomaly threshold value: 20.332875
+Positive anomaly observations: 4
+Negative anomaly observations: 12
+
+3. Core fiscal column mapping
+--------------------------------------------------------------------------------
+revenue: non_oil_revenue_total_revenue__value_mean
+oil_revenue: non_oil_revenue_total_revenue__value_mean
+non_oil_revenue: non_oil_revenue_total_revenue__value_mean
+expenditure: expenditure_total_expenditure__value_mean
+surplus_deficit: surplus_deficit_surplus_deficit__value_mean
+debt: debt_public_debt__value_mean
+
+4. Metric summary
+--------------------------------------------------------------------------------
+fiscal_risk_score_0_100: n=16, mean=11.329711943787949, std=9.411721326795568, min=0.0, median=6.3021895323038475, max=25.53293343199559
+traceability_index_0_1: n=16, mean=0.4470588235294118, std=0.22945826577486944, min=0.0, median=0.46029411764705885, max=0.75
+interpretability_score_0_1: n=16, mean=0.917774946425938, std=0.028072284365966996, min=0.8515151515151514, median=0.9242424242424242, max=0.9542900919305413
+interpretability_score_1_5: n=16, mean=4.671099785703753, std=0.11228913746386798, min=4.406060606060606, median=4.696969696969697, max=4.817160367722165
+governance_alignment_index_0_1: n=16, mean=0.7500447606608429, std=0.09927232550338023, min=0.548030303030303, median=0.7577350713012477, max=0.8819696969696971
+decision_usability_score_0_1: n=16, mean=0.8843929042643373, std=0.09042441727474049, min=0.5692121212121212, median=0.903094028520499, max=0.9527878787878789
+decision_usability_score_1_5: n=16, mean=4.537571617057349, std=0.36169766909896195, min=3.2768484848484847, median=4.6123761140819965, max=4.811151515151515
+risk_signal_completeness_0_1: n=16, mean=1.0, std=0.0, min=1.0, median=1.0, max=1.0
+temporal_comparability_0_1: n=16, mean=0.9375, std=0.25, min=0.0, median=1.0, max=1.0
+temporal_consistency: n=16, mean=0.6742460768482256, std=nan, min=nan, median=nan, max=nan
+
+5. Label distribution
+--------------------------------------------------------------------------------
+fiscal_anomaly_label | 0: count=12, percentage=0.7500
+fiscal_anomaly_label | 1: count=4, percentage=0.2500
+multi_component_anomaly_label | 1: count=16, percentage=1.0000
+risk_level | moderate: count=6, percentage=0.3750
+risk_level | low: count=5, percentage=0.3125
+risk_level | high: count=5, percentage=0.3125
+
+6. Next script
+--------------------------------------------------------------------------------
+05_baseline_and_ai_model_experiments.py

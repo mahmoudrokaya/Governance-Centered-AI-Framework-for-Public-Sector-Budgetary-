@@ -1,0 +1,62 @@
+{
+  "run_time": "2026-06-14T07:10:23",
+  "input_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset",
+  "results_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04_define_governance_metrics_and_labels",
+  "input_model_ready_observations": 48,
+  "valid_reporting_period_observations": 16,
+  "excluded_nonstandard_period_observations": 32,
+  "excluded_nonstandard_long_records": 884,
+  "years_retained": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "periods_retained": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "End-Year/Annual"
+  ],
+  "main_anomaly_threshold_quantile": 0.75,
+  "main_anomaly_threshold_value": 20.332874866828153,
+  "positive_anomaly_count": 4,
+  "negative_anomaly_count": 12,
+  "temporal_consistency_0_1": 0.6742460768482256,
+  "core_column_mapping": {
+    "revenue": "non_oil_revenue_total_revenue__value_mean",
+    "oil_revenue": "non_oil_revenue_total_revenue__value_mean",
+    "non_oil_revenue": "non_oil_revenue_total_revenue__value_mean",
+    "expenditure": "expenditure_total_expenditure__value_mean",
+    "surplus_deficit": "surplus_deficit_surplus_deficit__value_mean",
+    "debt": "debt_public_debt__value_mean"
+  },
+  "risk_weights": {
+    "revenue_expenditure_imbalance": 0.25,
+    "deficit_pressure": 0.2,
+    "debt_pressure": 0.2,
+    "revenue_composition_pressure": 0.15,
+    "expenditure_volatility": 0.2
+  },
+  "traceability_weights": {
+    "source_file_coverage": 0.4,
+    "source_sheet_coverage": 0.3,
+    "record_coverage": 0.3
+  },
+  "interpretability_weights": {
+    "known_category_coverage": 0.35,
+    "known_indicator_coverage": 0.35,
+    "feature_nonmissing_coverage": 0.3
+  },
+  "governance_alignment_weights": {
+    "traceability_index": 0.4,
+    "interpretability_score": 0.35,
+    "audit_readiness_score": 0.25
+  },
+  "decision_usability_weights": {
+    "governance_alignment_index": 0.4,
+    "risk_signal_completeness": 0.35,
+    "temporal_comparability": 0.25
+  }
+}

@@ -1,0 +1,4 @@
+﻿label_name,positive_class_rule,negative_class_rule,threshold_type,default_threshold,purpose
+fiscal_anomaly_label,fiscal_risk_score_0_100 >= 75th percentile,fiscal_risk_score_0_100 < 75th percentile,empirical quantile,0.75,Main binary target.
+multi_component_anomaly_label,At least two of the five risk components exceed their 75th percentile thresholds.,Fewer than two high component flags.,component empirical quantiles,0.75,Robustness target.
+risk_level,Low/moderate/high using 33rd and 67th percentile cutoffs.,Not applicable.,tertile thresholds,0.33 and 0.67,Ordinal descriptive grouping.

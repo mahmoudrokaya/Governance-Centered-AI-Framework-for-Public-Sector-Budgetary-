@@ -1,0 +1,8 @@
+﻿reviewer_issue,resolution_in_this_script,output_file
+AI model target variable was not defined.,Defined fiscal_anomaly_label using the 75th percentile of fiscal_risk_score_0_100.,governance_labeled_dataset.csv; anomaly_label_definitions.csv
+Risk indicators and output-generation process were unclear.,Defined five normalized risk components and a weighted composite fiscal_risk_score_0_100.,governance_metric_definitions.csv; governance_scores_by_observation.csv
+Interpretability and governance metrics were not mathematically formulated.,"Defined traceability, interpretability, governance alignment, decision usability, and temporal consistency using explicit formulas.",governance_metric_definitions.csv
+The 0-1 and 1-5 scales were not explained.,Defined 0-1 indices and converted 1-5 scores using 1 + 4 × score.,governance_metric_definitions.csv
+No sensitivity analysis for thresholds was provided.,Generated label distributions across risk-score quantile thresholds from 0.60 to 0.90.,governance_threshold_sensitivity.csv
+Input features were not documented.,"Mapped core fiscal concepts to data columns: {""revenue"": ""non_oil_revenue_total_revenue__value_mean"", ""oil_revenue"": ""non_oil_revenue_total_revenue__value_mean"", ""non_oil_revenue"": ""non_oil_revenue_total_revenue__value_mean"", ""expenditure"": ""expenditure_total_expenditure__value_mean"", ""surplus_deficit"": ""surplus_deficit_surplus_deficit__value_mean"", ""debt"": ""debt_public_debt__value_mean""}",governance_metric_definitions.csv
+Number of observations and labels were unclear.,Produced 16 valid reporting-period observations with formula-based labels.,label_distribution.csv; governance_summary.json
