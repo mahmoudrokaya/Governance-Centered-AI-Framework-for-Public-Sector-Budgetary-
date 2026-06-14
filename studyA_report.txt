@@ -1,0 +1,33 @@
+06A GOVERNANCE METRIC INDEPENDENT PREDICTIVE VALUE
+================================================================================
+Dataset: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\04C_define_panel_governance_metrics_and_labels\panel_governance_labeled_dataset.csv
+Leakage audit: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\05B_leakage_audit_and_feature_purity_analysis\leakage_feature_audit.csv
+Results directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\06A_governance_metric_independent_predictive_value
+--------------------------------------------------------------------------------
+Observations: 803
+Positive labels: 201
+Negative labels: 602
+Baseline feature count: 14
+Governance metrics evaluated: 9
+
+Baseline performance:
+  roc_auc: 0.956405
+  average_precision: 0.877384
+  f1: 0.794872
+  balanced_accuracy: 0.858574
+  mcc: 0.729773
+
+Governance metric contribution summary:
+             added_governance_metric  delta_roc_auc  delta_f1  delta_balanced_accuracy  p_value              evidence_interpretation
+  panel_decision_usability_index_0_1   5.991736e-03  0.015255                   0.0125 0.029767 adds small positive predictive value
+  panel_decision_usability_score_1_5   5.991736e-03  0.015255                   0.0125 0.029767 adds small positive predictive value
+    panel_temporal_support_index_0_1   5.165289e-03  0.015255                   0.0125 0.569343 adds small positive predictive value
+panel_governance_alignment_index_0_1   3.719008e-03  0.015255                   0.0125 0.027355 adds small positive predictive value
+    panel_interpretability_index_0_1   3.099174e-03 -0.015651                  -0.0125 0.886879 adds small positive predictive value
+    panel_interpretability_score_1_5   3.099174e-03 -0.015651                  -0.0125 0.886879 adds small positive predictive value
+  panel_risk_signal_completeness_0_1   1.652893e-03 -0.015651                  -0.0125 0.270756 adds small positive predictive value
+        panel_traceability_index_0_1   2.066116e-04  0.000000                   0.0000 0.297195 adds small positive predictive value
+     panel_audit_readiness_index_0_1   1.110223e-16  0.000000                   0.0000 0.010458 adds small positive predictive value
+
+Interpretation:
+A governance metric is considered empirically useful only if adding it to the leakage-safe baseline improves predictive performance and the paired probability-error comparison does not indicate that the change is random or harmful. Metrics with negligible or negative deltas should be reported as governance-reporting indicators rather than as independent predictive contributors.

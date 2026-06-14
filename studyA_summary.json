@@ -1,0 +1,32 @@
+{
+    "script": "06A_governance_metric_independent_predictive_value.py",
+    "objective": "Evaluate each governance metric independently by adding it to the leakage-safe baseline feature set.",
+    "dataset_path": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels\\panel_governance_labeled_dataset.csv",
+    "leakage_audit_path": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\leakage_feature_audit.csv",
+    "output_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\06A_governance_metric_independent_predictive_value",
+    "observations": 803,
+    "positive_labels": 201,
+    "negative_labels": 602,
+    "baseline_feature_count": 14,
+    "governance_metric_count": 9,
+    "governance_metrics": [
+        "panel_traceability_index_0_1",
+        "panel_interpretability_index_0_1",
+        "panel_audit_readiness_index_0_1",
+        "panel_governance_alignment_index_0_1",
+        "panel_risk_signal_completeness_0_1",
+        "panel_temporal_support_index_0_1",
+        "panel_decision_usability_index_0_1",
+        "panel_interpretability_score_1_5",
+        "panel_decision_usability_score_1_5"
+    ],
+    "baseline_metrics": {
+        "roc_auc": 0.9564049586776859,
+        "average_precision": 0.8773836478501718,
+        "f1": 0.7948717948717948,
+        "balanced_accuracy": 0.8585743801652892,
+        "mcc": 0.7297726428189694
+    },
+    "best_metric_by_delta_roc_auc": "panel_decision_usability_index_0_1",
+    "best_delta_roc_auc": 0.005991735537190124
+}
