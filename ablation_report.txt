@@ -1,0 +1,34 @@
+06B GOVERNANCE METRIC LEAVE-ONE-OUT ABLATION
+================================================================================
+Dataset: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\04C_define_panel_governance_metrics_and_labels\panel_governance_labeled_dataset.csv
+Leakage audit: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\05B_leakage_audit_and_feature_purity_analysis\leakage_feature_audit.csv
+Results directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\06B_governance_metric_leave_one_out_ablation
+--------------------------------------------------------------------------------
+Observations: 803
+Positive labels: 201
+Negative labels: 602
+Leakage-safe baseline features: 14
+Governance metrics evaluated: 9
+Full governance model features: 23
+
+Full governance model performance:
+  roc_auc: 0.967149
+  average_precision: 0.909344
+  f1: 0.815789
+  balanced_accuracy: 0.866839
+  mcc: 0.760890
+
+Leave-one-metric-out contribution ranking:
+ rank            removed_governance_metric  delta_roc_auc  delta_f1  delta_balanced_accuracy  delta_mcc  importance_score  p_value              reviewer_interpretation
+    1   panel_decision_usability_index_0_1       0.001033  0.015789                   0.0125   0.018466          0.079177 0.227283                    minor contributor
+    2 panel_governance_alignment_index_0_1       0.000620  0.000000                   0.0000   0.000000          0.002479 0.010892                    minor contributor
+    3     panel_temporal_support_index_0_1       0.000620  0.000000                   0.0000   0.000000          0.002479 0.327783                    minor contributor
+    4         panel_traceability_index_0_1       0.000413  0.000000                   0.0000   0.000000          0.001653 0.488224                    minor contributor
+    5     panel_interpretability_index_0_1       0.000207  0.000000                   0.0000   0.000000          0.000826 0.808843                    minor contributor
+    6      panel_audit_readiness_index_0_1       0.000000  0.000000                   0.0000   0.000000          0.000000 0.893974           no measurable contribution
+    7   panel_decision_usability_score_1_5      -0.000207  0.000000                   0.0000   0.000000         -0.000826 0.072589 possible harmful or redundant metric
+    8   panel_risk_signal_completeness_0_1      -0.000620  0.000000                   0.0000   0.000000         -0.002479 0.640416 possible harmful or redundant metric
+    9     panel_interpretability_score_1_5      -0.001860  0.000000                   0.0000   0.000000         -0.007438 0.400070 possible harmful or redundant metric
+
+Reviewer-facing interpretation:
+A positive delta indicates that removing the governance metric reduced model performance, meaning the metric contributed useful predictive information within the full governance model. Metrics with near-zero or negative deltas should be interpreted as weak, redundant, or mainly descriptive governance-reporting indicators rather than essential predictive components.

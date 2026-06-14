@@ -1,0 +1,23 @@
+{
+    "script": "06B_governance_metric_leave_one_out_ablation.py",
+    "objective": "Evaluate contribution of each governance metric by removing one metric at a time from the full governance model.",
+    "dataset_path": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels\\panel_governance_labeled_dataset.csv",
+    "leakage_audit_path": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\leakage_feature_audit.csv",
+    "output_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\06B_governance_metric_leave_one_out_ablation",
+    "observations": 803,
+    "positive_labels": 201,
+    "negative_labels": 602,
+    "leakage_safe_feature_count": 14,
+    "governance_metric_count": 9,
+    "full_model_feature_count": 23,
+    "full_model_metrics": {
+        "roc_auc": 0.9671487603305785,
+        "average_precision": 0.9093438664209144,
+        "f1": 0.8157894736842105,
+        "balanced_accuracy": 0.8668388429752066,
+        "mcc": 0.7608897515131606
+    },
+    "top_contributor": "panel_decision_usability_index_0_1",
+    "top_contributor_delta_roc_auc": 0.0010330578512396382,
+    "top_contributor_importance_score": 0.07917668786229781
+}
