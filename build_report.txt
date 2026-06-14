@@ -1,0 +1,46 @@
+MODEL-READY LONG-FORMAT BUDGET DATASET BUILD REPORT
+================================================================================
+Run time: 2026-06-14T06:54:15
+Input dataset: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\02_extract_and_standardize_mof_tables\standardized_long_dataset.csv
+Results directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\03_build_long_format_budget_dataset
+
+1. Reviewer-facing observation unit
+--------------------------------------------------------------------------------
+Observation unit: Fiscal reporting period defined as year + period.
+Model-ready observations: 48
+Model-ready features excluding identifiers: 75
+
+2. Cleaning summary
+--------------------------------------------------------------------------------
+Input long records: 3818
+Cleaned long records: 2580
+Duplicates removed: 1140
+Period-resolution log records: 1305
+Unresolved period records after cleaning: 0
+
+3. Coverage
+--------------------------------------------------------------------------------
+Years detected: [2021, 2022, 2023, 2024]
+Periods detected: ['Q1', 'Q2', 'Q3', 'Q4', 'End-Year/Annual', 'الدين الداخلي Domestic Debt', 'الدين الخارجي External Debt', 'الدين العام', 'Public Debt', 'Column_3', 'Column_4', 'Column_2', 'Total', 'Column_6', 'الإجمالي', 'البيان', 'Item', 'Revenues*']
+Categories detected: ['Debt', 'Expenditure', 'Non-oil revenue', 'Oil revenue', 'Other', 'Revenue', 'Surplus/Deficit']
+
+4. Counts
+--------------------------------------------------------------------------------
+cleaned_long_records: 2580 -- Rows in cleaned long-format dataset after resolving periods and removing analytical duplicates.
+model_ready_observations: 48 -- Unique fiscal reporting periods used as observation units: year + period.
+unique_years: 4 -- Number of fiscal years retained.
+unique_periods: 18 -- Number of fiscal reporting period types retained.
+unique_categories: 7 -- Number of fiscal categories retained.
+unique_indicators: 5 -- Number of normalized fiscal indicators retained.
+unique_source_files: 13 -- Number of source Excel/CSV files contributing cleaned observations.
+unique_source_sheets: 73 -- Number of source workbook sheets contributing cleaned observations.
+
+5. Scientific note
+--------------------------------------------------------------------------------
+This script prepares a clean analytical dataset. It does not create target labels, does not compute governance scores, and does not train AI models. These should be defined explicitly in later scripts.
+
+6. Next script
+--------------------------------------------------------------------------------
+04_define_governance_metrics_and_labels.py
+This should define formula-based risk indicators, anomaly labels, governance metrics,
+and reviewer-facing rubrics before any AI model is trained.

@@ -1,0 +1,80 @@
+﻿feature_name,role,numeric,non_missing_count,missing_count,mean,std,min,max,description
+observation_id,identifier,False,48,0,,,,,Unique observation key defined as fiscal year plus reporting period.
+year,identifier,True,48,0,2022.9166666666667,0.8711287208139509,2021.0,2024.0,Fiscal year.
+period,identifier,False,48,0,,,,,Fiscal reporting period.
+period_order,identifier,True,48,0,61.041666666666664,41.39532213952998,1.0,90.0,Numeric ordering of reporting periods.
+n_long_records,provenance_count,True,48,0,53.75,55.5308999662695,1.0,210.0,Count describing data coverage or extraction provenance for this observation.
+n_unique_labels,provenance_count,True,48,0,28.833333333333332,23.97013508277592,1.0,75.0,Count describing data coverage or extraction provenance for this observation.
+n_source_files,provenance_count,True,48,0,2.0625,1.039767772763032,1.0,5.0,Count describing data coverage or extraction provenance for this observation.
+n_source_sheets,provenance_count,True,48,0,2.2708333333333335,1.6339429315450706,1.0,7.0,Count describing data coverage or extraction provenance for this observation.
+n_categories,provenance_count,True,48,0,3.2708333333333335,2.2478318947266396,1.0,7.0,Count describing data coverage or extraction provenance for this observation.
+n_indicators,provenance_count,True,48,0,2.2708333333333335,1.3642796140264746,1.0,5.0,Count describing data coverage or extraction provenance for this observation.
+debt_public_debt__value_mean,feature_mean,True,16,32,168305.395493613,146544.2922019547,1443.0,435745.7712004964,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+expenditure_total_expenditure__value_mean,feature_mean,True,31,17,151542.21239787474,277188.6888422363,0.03775309900601796,1312860.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+non_oil_revenue_total_revenue__value_mean,feature_mean,True,24,24,143094.6517409504,84690.57912677023,0.068890430578114,436463.742786121,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+oil_revenue_total_revenue__value_mean,feature_mean,True,24,24,242413.88676155164,138837.50436408172,-0.16141760081677556,671200.6890717484,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_other__value_mean,feature_mean,True,15,33,66406.76091330996,91251.53487161697,0.0,242648.34347063873,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_total_revenue__value_mean,feature_mean,True,1,47,3.5,,3.5,3.5,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+revenue_total_revenue__value_mean,feature_mean,True,26,22,161953.4858032449,273978.40685145726,0.16084521864508858,1215547.5,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+surplus_deficit_surplus_deficit__value_mean,feature_mean,True,21,27,-627.5499729187349,57167.93596294079,-107191.5,126698.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+debt_public_debt__value_median,feature_median,True,16,32,76812.2682323975,107781.58783778061,1443.0,406043.150391615,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+expenditure_total_expenditure__value_median,feature_median,True,31,17,89502.1673962293,289761.4336058552,0.04748365905843405,1312860.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+non_oil_revenue_total_revenue__value_median,feature_median,True,24,24,102113.00983455888,90434.25853434736,0.068890430578114,436463.742786121,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+oil_revenue_total_revenue__value_median,feature_median,True,24,24,172042.25159568805,142830.62449268618,-0.2378811919162123,671200.6890717484,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_other__value_median,feature_median,True,15,33,56406.81087776951,97894.23796759559,0.0,253759.1869412775,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_total_revenue__value_median,feature_median,True,1,47,3.5,,3.5,3.5,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+revenue_total_revenue__value_median,feature_median,True,26,22,93952.87577893656,288476.4108277421,0.06532851346381245,1215547.5,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+surplus_deficit_surplus_deficit__value_median,feature_median,True,21,27,1019.7646111223135,58029.418856546145,-107191.5,126698.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+debt_public_debt__value_sum,feature_sum,True,16,32,1976508.1331780194,1884616.7064330946,1443.0,6100440.79680695,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+expenditure_total_expenditure__value_sum,feature_sum,True,31,17,4672568.593704706,3636239.7338746926,0.3775309900601796,12151126.688299276,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+non_oil_revenue_total_revenue__value_sum,feature_sum,True,24,24,557192.0928174264,434583.1476814072,0.068890430578114,1567187.447199997,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+oil_revenue_total_revenue__value_sum,feature_sum,True,24,24,950132.3272381095,743502.3890278436,-0.48425280245032665,2503175.6717722174,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_other__value_sum,feature_sum,True,15,33,406829.5396562891,501535.6497360831,0.0,1395138.7217722123,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_total_revenue__value_sum,feature_sum,True,1,47,7.0,,7.0,7.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+revenue_total_revenue__value_sum,feature_sum,True,26,22,2416037.4338548863,1858338.3238168969,0.9650713118705314,5733265.462346744,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+surplus_deficit_surplus_deficit__value_sum,feature_sum,True,21,27,16814.1467517184,137088.41017907427,-214383.0,329343.8802381896,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+debt_public_debt__value_count,feature_count,True,16,32,7.5,5.354126134736337,1.0,14.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+expenditure_total_expenditure__value_count,feature_count,True,31,17,48.87096774193548,30.00637925006822,2.0,109.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+non_oil_revenue_total_revenue__value_count,feature_count,True,24,24,3.6666666666666665,2.2968156910907283,1.0,9.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+oil_revenue_total_revenue__value_count,feature_count,True,24,24,3.6666666666666665,2.2968156910907283,1.0,9.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_other__value_count,feature_count,True,15,33,5.8,2.1111946516469904,1.0,10.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_total_revenue__value_count,feature_count,True,1,47,2.0,,2.0,2.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+revenue_total_revenue__value_count,feature_count,True,26,22,23.615384615384617,16.407502974132104,2.0,61.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+surplus_deficit_surplus_deficit__value_count,feature_count,True,21,27,3.142857142857143,2.286606968539069,1.0,10.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+debt_public_debt__source_file_count,feature_provenance,True,16,32,1.6875,0.9464847243000456,1.0,3.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+expenditure_total_expenditure__source_file_count,feature_provenance,True,31,17,1.903225806451613,0.8700512900466432,1.0,4.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+non_oil_revenue_total_revenue__source_file_count,feature_provenance,True,24,24,1.5416666666666667,0.6580053301400783,1.0,3.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+oil_revenue_total_revenue__source_file_count,feature_provenance,True,24,24,1.5416666666666667,0.6580053301400783,1.0,3.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_other__source_file_count,feature_provenance,True,15,33,1.5333333333333334,0.7432233529572064,1.0,3.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_total_revenue__source_file_count,feature_provenance,True,1,47,2.0,,2.0,2.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+revenue_total_revenue__source_file_count,feature_provenance,True,26,22,1.7307692307692308,0.7775701798650618,1.0,3.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+surplus_deficit_surplus_deficit__source_file_count,feature_provenance,True,21,27,1.8095238095238095,0.749603069567329,1.0,3.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+debt_public_debt__sheet_count,feature_provenance,True,16,32,1.0,0.0,1.0,1.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+expenditure_total_expenditure__sheet_count,feature_provenance,True,31,17,1.064516129032258,0.24973103811470743,1.0,2.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+non_oil_revenue_total_revenue__sheet_count,feature_provenance,True,24,24,1.0,0.0,1.0,1.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+oil_revenue_total_revenue__sheet_count,feature_provenance,True,24,24,1.0,0.0,1.0,1.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_other__sheet_count,feature_provenance,True,15,33,1.4666666666666666,0.8338093878327919,1.0,3.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+other_total_revenue__sheet_count,feature_provenance,True,1,47,1.0,,1.0,1.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+revenue_total_revenue__sheet_count,feature_provenance,True,26,22,1.0769230769230769,0.271746488194703,1.0,2.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+surplus_deficit_surplus_deficit__sheet_count,feature_provenance,True,21,27,1.380952380952381,0.5895922723535711,1.0,3.0,Aggregated fiscal indicator feature derived from standardized MoF long-format records.
+category__debt__category_value_mean,category_aggregate_feature,True,16,32,168305.395493613,146544.2922019547,1443.0,435745.7712004964,High-level fiscal category aggregate feature.
+category__expenditure__category_value_mean,category_aggregate_feature,True,31,17,151542.21239787474,277188.6888422363,0.03775309900601796,1312860.0,High-level fiscal category aggregate feature.
+category__non_oil_revenue__category_value_mean,category_aggregate_feature,True,24,24,143094.6517409504,84690.57912677023,0.068890430578114,436463.742786121,High-level fiscal category aggregate feature.
+category__oil_revenue__category_value_mean,category_aggregate_feature,True,24,24,242413.88676155164,138837.50436408172,-0.16141760081677556,671200.6890717484,High-level fiscal category aggregate feature.
+category__other__category_value_mean,category_aggregate_feature,True,15,33,65140.76695756623,91099.94749704369,0.0,242648.34347063873,High-level fiscal category aggregate feature.
+category__revenue__category_value_mean,category_aggregate_feature,True,26,22,161953.4858032449,273978.40685145726,0.16084521864508858,1215547.5,High-level fiscal category aggregate feature.
+category__surplus_deficit__category_value_mean,category_aggregate_feature,True,21,27,-627.5499729187349,57167.93596294079,-107191.5,126698.0,High-level fiscal category aggregate feature.
+category__debt__category_value_sum,category_aggregate_feature,True,16,32,1976508.1331780194,1884616.7064330946,1443.0,6100440.79680695,High-level fiscal category aggregate feature.
+category__expenditure__category_value_sum,category_aggregate_feature,True,31,17,4672568.593704706,3636239.7338746926,0.3775309900601796,12151126.688299276,High-level fiscal category aggregate feature.
+category__non_oil_revenue__category_value_sum,category_aggregate_feature,True,24,24,557192.0928174264,434583.1476814072,0.068890430578114,1567187.447199997,High-level fiscal category aggregate feature.
+category__oil_revenue__category_value_sum,category_aggregate_feature,True,24,24,950132.3272381095,743502.3890278436,-0.48425280245032665,2503175.6717722174,High-level fiscal category aggregate feature.
+category__other__category_value_sum,category_aggregate_feature,True,15,33,406830.00632295577,501535.84053043125,0.0,1395138.7217722123,High-level fiscal category aggregate feature.
+category__revenue__category_value_sum,category_aggregate_feature,True,26,22,2416037.4338548863,1858338.3238168969,0.9650713118705314,5733265.462346744,High-level fiscal category aggregate feature.
+category__surplus_deficit__category_value_sum,category_aggregate_feature,True,21,27,16814.1467517184,137088.41017907427,-214383.0,329343.8802381896,High-level fiscal category aggregate feature.
+category__debt__category_value_count,category_aggregate_feature,True,16,32,7.5,5.354126134736337,1.0,14.0,High-level fiscal category aggregate feature.
+category__expenditure__category_value_count,category_aggregate_feature,True,31,17,48.87096774193548,30.00637925006822,2.0,109.0,High-level fiscal category aggregate feature.
+category__non_oil_revenue__category_value_count,category_aggregate_feature,True,24,24,3.6666666666666665,2.2968156910907283,1.0,9.0,High-level fiscal category aggregate feature.
+category__oil_revenue__category_value_count,category_aggregate_feature,True,24,24,3.6666666666666665,2.2968156910907283,1.0,9.0,High-level fiscal category aggregate feature.
+category__other__category_value_count,category_aggregate_feature,True,15,33,5.933333333333334,2.250925735484551,1.0,10.0,High-level fiscal category aggregate feature.
+category__revenue__category_value_count,category_aggregate_feature,True,26,22,23.615384615384617,16.407502974132104,2.0,61.0,High-level fiscal category aggregate feature.
+category__surplus_deficit__category_value_count,category_aggregate_feature,True,21,27,3.142857142857143,2.286606968539069,1.0,10.0,High-level fiscal category aggregate feature.

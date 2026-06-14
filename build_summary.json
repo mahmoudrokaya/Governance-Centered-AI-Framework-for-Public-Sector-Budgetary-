@@ -1,0 +1,60 @@
+{
+  "run_time": "2026-06-14T06:54:15",
+  "input_dataset": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\02_extract_and_standardize_mof_tables\\standardized_long_dataset.csv",
+  "results_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset",
+  "input_long_records": 3818,
+  "cleaned_long_records": 2580,
+  "duplicates_removed": 1140,
+  "period_resolution_log_records": 1305,
+  "unresolved_period_records_after_cleaning": 0,
+  "model_ready_observations": 48,
+  "model_ready_features_excluding_identifiers": 75,
+  "years_detected": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "periods_detected": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "End-Year/Annual",
+    "الدين الداخلي Domestic Debt",
+    "الدين الخارجي External Debt",
+    "الدين العام",
+    "Public Debt",
+    "Column_3",
+    "Column_4",
+    "Column_2",
+    "Total",
+    "Column_6",
+    "الإجمالي",
+    "البيان",
+    "Item",
+    "Revenues*"
+  ],
+  "categories_detected": [
+    "Debt",
+    "Expenditure",
+    "Non-oil revenue",
+    "Oil revenue",
+    "Other",
+    "Revenue",
+    "Surplus/Deficit"
+  ],
+  "observation_unit": "Fiscal reporting period defined as year + period.",
+  "scientific_note": "This script prepares a clean analytical dataset. It does not create target labels, does not compute governance scores, and does not train AI models. These should be defined explicitly in later scripts.",
+  "outputs": {
+    "cleaned_long_dataset": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset\\cleaned_long_dataset.csv",
+    "model_ready_wide_dataset": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset\\model_ready_wide_dataset.csv",
+    "annual_quarterly_summary": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset\\annual_quarterly_summary.csv",
+    "duplicate_records_removed": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset\\duplicate_records_removed.csv",
+    "missing_period_resolution_log": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset\\missing_period_resolution_log.csv",
+    "observation_unit_counts": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset\\observation_unit_counts.csv",
+    "category_period_coverage": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset\\category_period_coverage.csv",
+    "model_feature_dictionary": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset\\model_feature_dictionary.csv",
+    "build_report": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset\\build_report.txt"
+  }
+}

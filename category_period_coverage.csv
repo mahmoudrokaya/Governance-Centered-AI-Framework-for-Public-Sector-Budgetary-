@@ -1,0 +1,158 @@
+﻿year,period,period_order,category,n_records,n_indicators,n_labels,n_source_files
+2021,End-Year/Annual,5,Expenditure,2,1,1,1
+2021,End-Year/Annual,5,Revenue,2,1,1,1
+2021,End-Year/Annual,5,Surplus/Deficit,2,1,1,1
+2022,Q1,1,Expenditure,65,1,32,4
+2022,Q1,1,Non-oil revenue,1,1,1,1
+2022,Q1,1,Oil revenue,1,1,1,1
+2022,Q1,1,Other,5,1,5,1
+2022,Q1,1,Revenue,7,1,7,1
+2022,Q1,1,Surplus/Deficit,7,1,7,3
+2022,Q2,2,Expenditure,63,1,34,2
+2022,Q2,2,Non-oil revenue,3,1,2,1
+2022,Q2,2,Oil revenue,3,1,2,1
+2022,Q2,2,Other,5,1,5,1
+2022,Q2,2,Revenue,21,1,15,1
+2022,Q2,2,Surplus/Deficit,2,1,2,2
+2022,Q3,3,Expenditure,72,1,32,2
+2022,Q3,3,Non-oil revenue,6,1,3,2
+2022,Q3,3,Oil revenue,6,1,3,2
+2022,Q3,3,Other,5,1,5,1
+2022,Q3,3,Revenue,41,1,21,2
+2022,Q3,3,Surplus/Deficit,2,1,2,2
+2022,Q4,4,Expenditure,41,1,31,1
+2022,Q4,4,Non-oil revenue,3,1,2,1
+2022,Q4,4,Oil revenue,3,1,2,1
+2022,Q4,4,Revenue,21,1,15,1
+2022,Q4,4,Surplus/Deficit,1,1,1,1
+2022,End-Year/Annual,5,Debt,12,1,6,1
+2022,End-Year/Annual,5,Expenditure,103,1,24,3
+2022,End-Year/Annual,5,Non-oil revenue,6,1,1,1
+2022,End-Year/Annual,5,Oil revenue,6,1,1,1
+2022,End-Year/Annual,5,Other,7,1,6,1
+2022,End-Year/Annual,5,Revenue,41,1,9,3
+2022,End-Year/Annual,5,Surplus/Deficit,3,1,2,3
+2022,Public Debt,90,Debt,1,1,1,1
+2022,الدين الخارجي External Debt,90,Debt,10,1,5,3
+2022,الدين الداخلي Domestic Debt,90,Debt,12,1,6,3
+2022,الدين العام,90,Debt,1,1,1,1
+2022,Column_2,90,Expenditure,21,1,21,1
+2022,Column_3,90,Expenditure,23,1,22,1
+2022,Column_4,90,Expenditure,21,1,21,1
+2022,Column_6,90,Expenditure,10,1,10,1
+2022,Total,90,Expenditure,66,1,31,2
+2022,Column_2,90,Non-oil revenue,1,1,1,1
+2022,Column_3,90,Non-oil revenue,1,1,1,1
+2022,Column_4,90,Non-oil revenue,1,1,1,1
+2022,الإجمالي,90,Non-oil revenue,6,1,3,2
+2022,Column_2,90,Oil revenue,1,1,1,1
+2022,Column_3,90,Oil revenue,1,1,1,1
+2022,Column_4,90,Oil revenue,1,1,1,1
+2022,الإجمالي,90,Oil revenue,6,1,3,2
+2022,Column_2,90,Other,4,1,1,2
+2022,الإجمالي,90,Other,5,1,5,1
+2022,Column_2,90,Revenue,6,1,6,1
+2022,Column_3,90,Revenue,8,1,8,1
+2022,Column_4,90,Revenue,8,1,8,1
+2022,الإجمالي,90,Revenue,35,1,18,2
+2022,Item,90,Surplus/Deficit,1,1,1,1
+2022,الإجمالي,90,Surplus/Deficit,2,1,2,2
+2022,البيان,90,Surplus/Deficit,1,1,1,1
+2023,Q1,1,Expenditure,54,1,32,3
+2023,Q1,1,Non-oil revenue,1,1,1,1
+2023,Q1,1,Oil revenue,1,1,1,1
+2023,Q1,1,Other,5,1,5,1
+2023,Q1,1,Revenue,7,1,7,1
+2023,Q1,1,Surplus/Deficit,6,1,6,2
+2023,Q2,2,Expenditure,63,1,34,2
+2023,Q2,2,Non-oil revenue,3,1,2,1
+2023,Q2,2,Oil revenue,3,1,2,1
+2023,Q2,2,Other,5,1,5,1
+2023,Q2,2,Revenue,21,1,15,1
+2023,Q2,2,Surplus/Deficit,1,1,1,1
+2023,Q3,3,Debt,12,1,6,1
+2023,Q3,3,Expenditure,109,1,32,3
+2023,Q3,3,Non-oil revenue,9,1,3,3
+2023,Q3,3,Oil revenue,9,1,3,3
+2023,Q3,3,Other,10,1,7,2
+2023,Q3,3,Revenue,59,1,21,3
+2023,Q3,3,Surplus/Deficit,2,1,1,2
+2023,Q4,4,Debt,12,1,6,1
+2023,Q4,4,Expenditure,78,1,31,2
+2023,Q4,4,Non-oil revenue,6,1,2,2
+2023,Q4,4,Oil revenue,6,1,2,2
+2023,Q4,4,Other,9,1,6,2
+2023,Q4,4,Revenue,39,1,15,2
+2023,Q4,4,Surplus/Deficit,2,1,1,2
+2023,End-Year/Annual,5,Debt,12,1,6,1
+2023,End-Year/Annual,5,Expenditure,42,1,31,3
+2023,End-Year/Annual,5,Non-oil revenue,3,1,2,1
+2023,End-Year/Annual,5,Oil revenue,3,1,2,1
+2023,End-Year/Annual,5,Other,9,2,7,2
+2023,End-Year/Annual,5,Revenue,21,1,13,3
+2023,End-Year/Annual,5,Surplus/Deficit,4,1,2,3
+2023,Public Debt,90,Debt,1,1,1,1
+2023,الدين الخارجي External Debt,90,Debt,8,1,5,2
+2023,الدين الداخلي Domestic Debt,90,Debt,12,1,6,3
+2023,الدين العام,90,Debt,1,1,1,1
+2023,Column_2,90,Expenditure,51,1,41,2
+2023,Column_3,90,Expenditure,55,1,43,2
+2023,Column_4,90,Expenditure,51,1,40,2
+2023,Column_6,90,Expenditure,20,1,20,2
+2023,Total,90,Expenditure,39,1,22,1
+2023,Column_2,90,Non-oil revenue,3,1,1,2
+2023,Column_3,90,Non-oil revenue,3,1,1,2
+2023,Column_4,90,Non-oil revenue,3,1,1,2
+2023,الإجمالي,90,Non-oil revenue,3,1,2,1
+2023,Column_2,90,Oil revenue,3,1,1,2
+2023,Column_3,90,Oil revenue,3,1,1,2
+2023,Column_4,90,Oil revenue,3,1,1,2
+2023,الإجمالي,90,Oil revenue,3,1,2,1
+2023,Column_2,90,Other,6,1,1,3
+2023,Column_3,90,Other,1,1,1,1
+2023,الإجمالي,90,Other,7,1,5,2
+2023,Column_2,90,Revenue,18,1,7,2
+2023,Column_3,90,Revenue,21,1,9,2
+2023,Column_4,90,Revenue,21,1,9,2
+2023,الإجمالي,90,Revenue,18,1,12,1
+2023,الإجمالي,90,Surplus/Deficit,2,1,1,2
+2024,Q1,1,Expenditure,74,1,43,3
+2024,Q1,1,Non-oil revenue,5,1,1,2
+2024,Q1,1,Oil revenue,5,1,1,2
+2024,Q1,1,Revenue,43,1,17,2
+2024,Q1,1,Surplus/Deficit,5,1,4,2
+2024,Q2,2,Expenditure,87,1,47,3
+2024,Q2,2,Non-oil revenue,8,1,2,3
+2024,Q2,2,Oil revenue,8,1,2,3
+2024,Q2,2,Revenue,61,1,24,3
+2024,Q2,2,Surplus/Deficit,4,1,4,1
+2024,Q3,3,Expenditure,72,1,32,2
+2024,Q3,3,Non-oil revenue,6,1,2,2
+2024,Q3,3,Oil revenue,6,1,2,2
+2024,Q3,3,Revenue,39,1,16,2
+2024,Q3,3,Surplus/Deficit,4,1,4,1
+2024,Q4,4,Expenditure,41,1,31,1
+2024,Q4,4,Non-oil revenue,3,1,2,1
+2024,Q4,4,Oil revenue,3,1,2,1
+2024,Q4,4,Revenue,19,1,13,1
+2024,Q4,4,Surplus/Deficit,3,1,3,1
+2024,End-Year/Annual,5,Expenditure,2,1,1,2
+2024,End-Year/Annual,5,Revenue,2,1,1,2
+2024,End-Year/Annual,5,Surplus/Deficit,2,1,1,2
+2024,Public Debt,90,Debt,1,1,1,1
+2024,الدين الخارجي External Debt,90,Debt,10,1,5,3
+2024,الدين الداخلي Domestic Debt,90,Debt,14,1,6,3
+2024,الدين العام,90,Debt,1,1,1,1
+2024,Column_2,90,Expenditure,21,1,21,1
+2024,Column_3,90,Expenditure,23,1,22,1
+2024,Column_4,90,Expenditure,21,1,21,1
+2024,Column_6,90,Expenditure,20,1,20,1
+2024,Total,90,Expenditure,105,1,43,3
+2024,Revenues*,90,Non-oil revenue,2,1,1,1
+2024,Total,90,Non-oil revenue,2,1,2,2
+2024,Revenues*,90,Oil revenue,2,1,1,1
+2024,Total,90,Oil revenue,2,1,2,2
+2024,Column_2,90,Other,6,1,2,3
+2024,Revenues*,90,Revenue,15,1,8,1
+2024,Total,90,Revenue,20,1,20,3
+2024,Total,90,Surplus/Deficit,10,1,4,3

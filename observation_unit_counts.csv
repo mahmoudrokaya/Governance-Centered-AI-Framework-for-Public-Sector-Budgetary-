@@ -1,0 +1,9 @@
+﻿item,count,definition
+cleaned_long_records,2580,Rows in cleaned long-format dataset after resolving periods and removing analytical duplicates.
+model_ready_observations,48,Unique fiscal reporting periods used as observation units: year + period.
+unique_years,4,Number of fiscal years retained.
+unique_periods,18,Number of fiscal reporting period types retained.
+unique_categories,7,Number of fiscal categories retained.
+unique_indicators,5,Number of normalized fiscal indicators retained.
+unique_source_files,13,Number of source Excel/CSV files contributing cleaned observations.
+unique_source_sheets,73,Number of source workbook sheets contributing cleaned observations.
