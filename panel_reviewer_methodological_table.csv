@@ -1,0 +1,7 @@
+﻿reviewer_issue,resolution,evidence_file
+The study did not define the model target variable or anomaly labels.,Defined panel_fiscal_anomaly_label using the empirical 75th percentile of a formula-based panel_fiscal_risk_score_0_100.,panel_anomaly_label_definitions.csv; panel_label_distribution.csv
+The dataset size was too small for statistical or AI experiments.,"Expanded the observation unit to year × period × panel_entity, producing 803 panel observations.",panel_governance_labeled_dataset.csv
+Governance metrics were not operationally defined.,"Defined traceability, interpretability, governance alignment, audit readiness, and decision usability with explicit formulas.",panel_governance_metric_definitions.csv
+The 0-1 and 1-5 scales were unclear.,Defined all base governance indices on 0-1 scales and converted manuscript scores using 1 + 4 × index.,panel_governance_metric_definitions.csv
+No threshold sensitivity analysis was provided.,Generated threshold sensitivity from the 50th to 95th percentile of the panel risk score.,panel_threshold_sensitivity.csv
+Temporal consistency was not defined.,Computed entity-level temporal consistency using normalized risk-score change over time.,panel_temporal_consistency_by_entity.csv

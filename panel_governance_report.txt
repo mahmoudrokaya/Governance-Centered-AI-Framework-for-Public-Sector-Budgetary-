@@ -1,0 +1,62 @@
+PANEL GOVERNANCE METRICS AND LABELS REPORT
+================================================================================
+Run time: 2026-06-14T08:26:10
+Input directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\04B_dataset_expansion_and_panel_construction
+Results directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\04C_define_panel_governance_metrics_and_labels
+
+1. Observation unit
+--------------------------------------------------------------------------------
+Observation unit: year × period × panel_entity
+Panel observations: 803
+Unique panel entities: 140
+Unique year-period combinations: 16
+
+2. Target labels
+--------------------------------------------------------------------------------
+Main anomaly threshold quantile: 0.75
+Main anomaly threshold value: 16.438390
+Positive anomaly observations: 201
+Negative anomaly observations: 602
+Positive anomaly rate: 0.250311
+
+3. Metric summary
+--------------------------------------------------------------------------------
+panel_fiscal_risk_score_0_100: n=803, mean=16.30616453720547, std=4.9251361627401895, min=7.206070565688999, median=15.264738579613827, max=73.44703619695923
+risk_component_entity_deviation: n=803, mean=0.003984275154113847, std=0.05824586376124083, min=0.0, median=9.59789745716047e-07, max=1.0
+risk_component_period_deviation: n=803, mean=0.04031356180893405, std=0.0848688024619181, min=0.0, median=0.012487066592527574, max=1.0
+risk_component_temporal_change: n=803, mean=0.030369185885697446, std=0.09477662414809954, min=0.0, median=0.0038825593853550893, max=1.0
+risk_component_rolling_instability: n=803, mean=0.04241528860668353, std=0.10426490606973982, min=0.0, median=0.010508247373836039, max=1.0
+risk_component_source_uncertainty: n=803, mean=0.9424501333059445, std=0.09986948605686825, min=0.40738831615120286, median=0.9969072164948454, max=1.0
+panel_traceability_index_0_1: n=803, mean=0.05754986669405536, std=0.09986948605686823, min=0.0, median=0.003092783505154639, max=0.5926116838487971
+panel_interpretability_index_0_1: n=803, mean=0.9467990797222281, std=0.1631617874534653, min=0.19915254237288135, median=0.9872881355932204, max=1.0
+panel_interpretability_score_1_5: n=803, mean=4.787196318888912, std=0.6526471498138612, min=1.7966101694915255, median=4.9491525423728815, max=5.0
+panel_audit_readiness_index_0_1: n=803, mean=0.9852428393524284, std=0.06470369492976377, min=0.7, median=1.0, max=1.0
+panel_governance_alignment_index_0_1: n=803, mean=0.6470949830514277, std=0.08777326775132438, min=0.27970338983050846, median=0.6485169491525423, max=0.857414089347079
+panel_risk_signal_completeness_0_1: n=803, mean=1.0, std=0.0, min=1.0, median=1.0, max=1.0
+panel_temporal_support_index_0_1: n=803, mean=0.8669275929549902, std=0.26935877041817124, min=0.2857142857142857, median=1.0, max=1.0
+panel_decision_usability_index_0_1: n=803, mean=0.8365615219544967, std=0.09026348354003899, min=0.5336104721549637, median=0.8769809322033897, max=0.9500949312714777
+panel_decision_usability_score_1_5: n=803, mean=4.3462460878179865, std=0.36105393416015596, min=3.134441888619855, median=4.507923728813559, max=4.800379725085911
+overall_temporal_consistency_by_entity: n=803, mean=0.6015599737048845, std=nan, min=nan, median=nan, max=nan
+
+4. Label distribution
+--------------------------------------------------------------------------------
+panel_fiscal_anomaly_label | 0: count=602, percentage=0.7497
+panel_fiscal_anomaly_label | 1: count=201, percentage=0.2503
+panel_multi_component_anomaly_label | 0: count=478, percentage=0.5953
+panel_multi_component_anomaly_label | 1: count=325, percentage=0.4047
+panel_risk_level | moderate: count=273, percentage=0.3400
+panel_risk_level | high: count=265, percentage=0.3300
+panel_risk_level | low: count=265, percentage=0.3300
+panel_fiscal_anomaly_label_q60 | 0: count=482, percentage=0.6002
+panel_fiscal_anomaly_label_q60 | 1: count=321, percentage=0.3998
+panel_fiscal_anomaly_label_q70 | 0: count=562, percentage=0.6999
+panel_fiscal_anomaly_label_q70 | 1: count=241, percentage=0.3001
+panel_fiscal_anomaly_label_q80 | 0: count=642, percentage=0.7995
+panel_fiscal_anomaly_label_q80 | 1: count=161, percentage=0.2005
+panel_fiscal_anomaly_label_q90 | 0: count=722, percentage=0.8991
+panel_fiscal_anomaly_label_q90 | 1: count=81, percentage=0.1009
+
+5. Next script
+--------------------------------------------------------------------------------
+05_baseline_and_ai_model_experiments.py
+Use panel_governance_labeled_dataset.csv and panel_fiscal_anomaly_label.

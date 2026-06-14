@@ -1,0 +1,4 @@
+﻿label_name,positive_rule,negative_rule,threshold_type,default_threshold,purpose
+panel_fiscal_anomaly_label,panel_fiscal_risk_score_0_100 >= 75th percentile,panel_fiscal_risk_score_0_100 < 75th percentile,empirical quantile,0.75,Main target for later classification experiments.
+panel_multi_component_anomaly_label,At least two risk components exceed their component-specific 75th percentile.,Fewer than two high component flags.,component-wise empirical quantile,0.75,Alternative stricter anomaly label.
+panel_risk_level,"Low, moderate, high assigned by 33rd and 67th percentiles of panel_fiscal_risk_score_0_100.",Not applicable.,tertile,0.33 and 0.67,Ordinal descriptive risk grouping.

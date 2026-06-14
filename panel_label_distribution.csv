@@ -1,0 +1,16 @@
+﻿label_name,class_value,count,percentage
+panel_fiscal_anomaly_label,0,602,0.7496886674968867
+panel_fiscal_anomaly_label,1,201,0.2503113325031133
+panel_multi_component_anomaly_label,0,478,0.5952677459526775
+panel_multi_component_anomaly_label,1,325,0.40473225404732255
+panel_risk_level,moderate,273,0.33997509339975096
+panel_risk_level,high,265,0.3300124533001245
+panel_risk_level,low,265,0.3300124533001245
+panel_fiscal_anomaly_label_q60,0,482,0.6002490660024906
+panel_fiscal_anomaly_label_q60,1,321,0.39975093399750933
+panel_fiscal_anomaly_label_q70,0,562,0.6998754669987547
+panel_fiscal_anomaly_label_q70,1,241,0.3001245330012453
+panel_fiscal_anomaly_label_q80,0,642,0.7995018679950187
+panel_fiscal_anomaly_label_q80,1,161,0.20049813200498132
+panel_fiscal_anomaly_label_q90,0,722,0.8991282689912827
+panel_fiscal_anomaly_label_q90,1,81,0.10087173100871731

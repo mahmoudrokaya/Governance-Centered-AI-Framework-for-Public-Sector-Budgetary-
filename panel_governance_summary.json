@@ -1,0 +1,64 @@
+{
+  "run_time": "2026-06-14T08:26:10",
+  "input_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04B_dataset_expansion_and_panel_construction",
+  "results_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels",
+  "observation_unit": "year × period × panel_entity",
+  "panel_observations": 803,
+  "unique_panel_entities": 140,
+  "unique_year_periods": 16,
+  "years_retained": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "periods_retained": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "End-Year/Annual"
+  ],
+  "main_anomaly_threshold_quantile": 0.75,
+  "main_anomaly_threshold_value": 16.43839004488965,
+  "positive_anomaly_count": 201,
+  "negative_anomaly_count": 602,
+  "positive_anomaly_rate": 0.2503113325031133,
+  "overall_temporal_consistency_by_entity": 0.6015599737048845,
+  "risk_weights": {
+    "entity_deviation": 0.3,
+    "period_deviation": 0.2,
+    "temporal_change": 0.2,
+    "rolling_instability": 0.15,
+    "source_uncertainty": 0.15
+  },
+  "traceability_weights": {
+    "source_file_support": 0.35,
+    "source_sheet_support": 0.35,
+    "source_value_count": 0.3
+  },
+  "interpretability_weights": {
+    "core_indicator_flag": 0.25,
+    "known_category_flag": 0.25,
+    "known_indicator_flag": 0.25,
+    "nonmissing_feature_coverage": 0.25
+  },
+  "governance_alignment_weights": {
+    "traceability_index": 0.35,
+    "interpretability_index": 0.35,
+    "audit_readiness_index": 0.3
+  },
+  "decision_usability_weights": {
+    "governance_alignment_index": 0.35,
+    "risk_signal_completeness": 0.35,
+    "temporal_support_index": 0.3
+  },
+  "outputs": {
+    "panel_governance_labeled_dataset": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels\\panel_governance_labeled_dataset.csv",
+    "panel_governance_scores_by_observation": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels\\panel_governance_scores_by_observation.csv",
+    "panel_governance_metric_definitions": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels\\panel_governance_metric_definitions.csv",
+    "panel_anomaly_label_definitions": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels\\panel_anomaly_label_definitions.csv",
+    "panel_label_distribution": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels\\panel_label_distribution.csv",
+    "panel_governance_report": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels\\panel_governance_report.txt"
+  }
+}
