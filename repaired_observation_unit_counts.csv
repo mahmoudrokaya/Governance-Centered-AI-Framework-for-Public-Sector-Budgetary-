@@ -1,0 +1,7 @@
+﻿item,count,definition
+repaired_cleaned_long_records,2580,"Long-format rows after strict period repair, invalid-period exclusion, and duplicate removal."
+repaired_model_ready_observations,16,Unique reporting-period observations defined as year + valid period.
+unique_years,4,Number of fiscal years retained.
+unique_periods,5,Number of valid fiscal period types retained.
+unique_categories,7,Number of repaired fiscal categories retained.
+unique_indicators,9,Number of repaired normalized indicators retained.

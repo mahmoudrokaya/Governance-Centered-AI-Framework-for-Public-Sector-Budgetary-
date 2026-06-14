@@ -1,0 +1,56 @@
+{
+  "run_time": "2026-06-14T07:59:35",
+  "input_file": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03_build_long_format_budget_dataset\\cleaned_long_dataset.csv",
+  "results_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03B_repair_periods_and_feature_mapping",
+  "input_long_records": 2580,
+  "records_after_year_repair": 2580,
+  "records_after_valid_period_repair": 2580,
+  "invalid_period_records_excluded": 0,
+  "duplicates_removed_after_repair": 0,
+  "final_repaired_long_records": 2580,
+  "period_repair_log_records": 884,
+  "model_ready_observations": 16,
+  "model_ready_features_excluding_identifiers": 66,
+  "years_retained": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "periods_retained": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "End-Year/Annual"
+  ],
+  "categories_retained": [
+    "Debt",
+    "Expenditure",
+    "Non-oil revenue",
+    "Oil revenue",
+    "Other",
+    "Revenue",
+    "Surplus/Deficit"
+  ],
+  "indicators_retained": [
+    "domestic_debt",
+    "external_debt",
+    "non_oil_revenue",
+    "oil_revenue",
+    "other",
+    "public_debt",
+    "surplus_deficit",
+    "total_expenditure",
+    "total_revenue"
+  ],
+  "outputs": {
+    "repaired_cleaned_long_dataset": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03B_repair_periods_and_feature_mapping\\repaired_cleaned_long_dataset.csv",
+    "repaired_model_ready_wide_dataset": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03B_repair_periods_and_feature_mapping\\repaired_model_ready_wide_dataset.csv",
+    "repaired_model_feature_dictionary": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03B_repair_periods_and_feature_mapping\\repaired_model_feature_dictionary.csv",
+    "period_repair_log": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03B_repair_periods_and_feature_mapping\\period_repair_log.csv",
+    "invalid_period_records": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03B_repair_periods_and_feature_mapping\\invalid_period_records.csv",
+    "concept_mapping_candidates": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03B_repair_periods_and_feature_mapping\\concept_mapping_candidates.csv",
+    "repair_report": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03B_repair_periods_and_feature_mapping\\repair_report.txt"
+  }
+}

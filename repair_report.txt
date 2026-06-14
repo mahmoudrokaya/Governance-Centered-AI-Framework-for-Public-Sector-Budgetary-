@@ -1,0 +1,34 @@
+PERIOD REPAIR AND FEATURE-MAPPING REPORT
+================================================================================
+Run time: 2026-06-14T07:59:35
+Input file: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\03_build_long_format_budget_dataset\cleaned_long_dataset.csv
+Results directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\03B_repair_periods_and_feature_mapping
+
+1. Repair summary
+--------------------------------------------------------------------------------
+Input long records: 2580
+Records retained after valid-period repair: 2580
+Invalid-period records excluded: 0
+Duplicates removed after repair: 0
+Final repaired long records: 2580
+
+2. Model-ready dataset
+--------------------------------------------------------------------------------
+Model-ready observations: 16
+Model-ready features excluding identifiers: 66
+Years retained: [2021, 2022, 2023, 2024]
+Periods retained: ['Q1', 'Q2', 'Q3', 'Q4', 'End-Year/Annual']
+Categories retained: ['Debt', 'Expenditure', 'Non-oil revenue', 'Oil revenue', 'Other', 'Revenue', 'Surplus/Deficit']
+Indicators retained: ['domestic_debt', 'external_debt', 'non_oil_revenue', 'oil_revenue', 'other', 'public_debt', 'surplus_deficit', 'total_expenditure', 'total_revenue']
+
+3. Why this matters
+--------------------------------------------------------------------------------
+Invalid fiscal periods such as debt labels, item names, or generic column names were excluded
+or repaired using file-level and sheet-level reporting-period evidence. The resulting dataset
+contains only valid fiscal reporting periods and is safer for governance metric computation.
+
+4. Next step
+--------------------------------------------------------------------------------
+Update 04_define_governance_metrics_and_labels.py so INPUT_DIR points to:
+E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\03B_repair_periods_and_feature_mapping
+Then rerun script 04.
