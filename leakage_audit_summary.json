@@ -1,0 +1,62 @@
+{
+  "run_time": "2026-06-14T08:52:26",
+  "input_dataset": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04C_define_panel_governance_metrics_and_labels\\panel_governance_labeled_dataset.csv",
+  "results_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis",
+  "target_label": "panel_fiscal_anomaly_label",
+  "n_observations": 803,
+  "positive_count": 201,
+  "negative_count": 602,
+  "positive_rate": 0.2503113325031133,
+  "group_variable": "year_period_key",
+  "n_train": 648,
+  "n_test": 155,
+  "total_columns_audited": 77,
+  "numeric_columns_audited": 69,
+  "leakage_class_counts": [
+    {
+      "leakage_class": "direct_leakage",
+      "count": 21
+    },
+    {
+      "leakage_class": "retained_pure_feature",
+      "count": 14
+    },
+    {
+      "leakage_class": "target_or_label_column",
+      "count": 13
+    },
+    {
+      "leakage_class": "indirect_formula_related",
+      "count": 12
+    },
+    {
+      "leakage_class": "governance_metric_leakage",
+      "count": 9
+    },
+    {
+      "leakage_class": "metadata_or_identifier",
+      "count": 8
+    }
+  ],
+  "feature_counts": {
+    "leakage_safe__conventional_statistical_baseline": 15,
+    "leakage_safe__standalone_ai_model": 26,
+    "leakage_safe__governance_centered_ai_model": 26,
+    "ultra_conservative__conventional_statistical_baseline": 14,
+    "ultra_conservative__standalone_ai_model": 14,
+    "ultra_conservative__governance_centered_ai_model": 14
+  },
+  "figures": {
+    "leakage_safe_roc": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\figures\\leakage_safe_roc_curve_comparison.png",
+    "leakage_safe_pr": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\figures\\leakage_safe_pr_curve_comparison.png",
+    "ultra_conservative_roc": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\figures\\ultra_conservative_roc_curve_comparison.png",
+    "ultra_conservative_pr": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\figures\\ultra_conservative_pr_curve_comparison.png"
+  },
+  "outputs": {
+    "leakage_feature_audit": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\leakage_feature_audit.csv",
+    "leakage_safe_model_performance": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\leakage_safe_model_performance.csv",
+    "ultra_conservative_model_performance": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\ultra_conservative_model_performance.csv",
+    "original_vs_leakage_safe_comparison": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\original_vs_leakage_safe_comparison.csv",
+    "leakage_audit_report": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\05B_leakage_audit_and_feature_purity_analysis\\leakage_audit_report.txt"
+  }
+}

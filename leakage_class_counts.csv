@@ -1,0 +1,7 @@
+﻿leakage_class,count
+direct_leakage,21
+retained_pure_feature,14
+target_or_label_column,13
+indirect_formula_related,12
+governance_metric_leakage,9
+metadata_or_identifier,8

@@ -1,0 +1,13 @@
+﻿analysis_set,model_a,model_b,metric,mean_difference_a_minus_b,ci_lower_2_5,ci_upper_97_5,probability_a_greater_than_b,n_bootstrap
+leakage_safe,governance_centered_ai_model,conventional_statistical_baseline,roc_auc,0.09537428505817153,0.04642111568743512,0.14856881510691977,1.0,1000
+leakage_safe,governance_centered_ai_model,conventional_statistical_baseline,average_precision,0.12615565594689707,0.04826336232865571,0.20386318256761957,0.999,1000
+leakage_safe,governance_centered_ai_model,conventional_statistical_baseline,f1,0.16159632249261924,0.07270612061206123,0.26396802143590514,1.0,1000
+leakage_safe,governance_centered_ai_model,conventional_statistical_baseline,balanced_accuracy,0.11392921755924633,0.04975429975429968,0.18637743068601442,1.0,1000
+leakage_safe,governance_centered_ai_model,standalone_ai_model,roc_auc,0.0,0.0,0.0,0.0,1000
+leakage_safe,governance_centered_ai_model,standalone_ai_model,average_precision,0.0,0.0,0.0,0.0,1000
+leakage_safe,governance_centered_ai_model,standalone_ai_model,f1,0.0,0.0,0.0,0.0,1000
+leakage_safe,governance_centered_ai_model,standalone_ai_model,balanced_accuracy,0.0,0.0,0.0,0.0,1000
+leakage_safe,standalone_ai_model,conventional_statistical_baseline,roc_auc,0.09478047819611284,0.04844298599829578,0.14651132255227664,1.0,1000
+leakage_safe,standalone_ai_model,conventional_statistical_baseline,average_precision,0.12686004558319058,0.052336735155930986,0.20778724327198278,1.0,1000
+leakage_safe,standalone_ai_model,conventional_statistical_baseline,f1,0.16209000010691196,0.06533687254311492,0.2643120992635555,1.0,1000
+leakage_safe,standalone_ai_model,conventional_statistical_baseline,balanced_accuracy,0.11361850921282583,0.04419488094559683,0.18581623358099603,1.0,1000

@@ -1,0 +1,78 @@
+﻿feature,leakage_class,reason,numeric,non_missing_count,missing_count
+panel_observation_id,metadata_or_identifier,"Identifier or descriptor, not used as numeric model feature.",False,803,0
+year,retained_pure_feature,Contextual or semantic descriptor available before scoring.,True,803,0
+period,metadata_or_identifier,"Identifier or descriptor, not used as numeric model feature.",False,803,0
+period_order,retained_pure_feature,Contextual or semantic descriptor available before scoring.,True,803,0
+year_period_key,metadata_or_identifier,"Identifier or descriptor, not used as numeric model feature.",False,803,0
+category,metadata_or_identifier,"Identifier or descriptor, not used as numeric model feature.",False,803,0
+normalized_indicator,metadata_or_identifier,"Identifier or descriptor, not used as numeric model feature.",False,803,0
+panel_entity,metadata_or_identifier,"Identifier or descriptor, not used as numeric model feature.",False,803,0
+unit_mode,metadata_or_identifier,"Identifier or descriptor, not used as numeric model feature.",False,803,0
+value_mean,retained_pure_feature,Raw or aggregated fiscal value feature retained for leakage-safe modeling.,True,803,0
+value_median,retained_pure_feature,Raw or aggregated fiscal value feature retained for leakage-safe modeling.,True,803,0
+value_sum,retained_pure_feature,Raw or aggregated fiscal value feature retained for leakage-safe modeling.,True,803,0
+value_min,retained_pure_feature,Raw or aggregated fiscal value feature retained for leakage-safe modeling.,True,803,0
+value_max,retained_pure_feature,Raw or aggregated fiscal value feature retained for leakage-safe modeling.,True,803,0
+value_std,retained_pure_feature,Raw or aggregated fiscal value feature retained for leakage-safe modeling.,True,456,347
+value_count,direct_leakage,Direct input to the panel fiscal-risk formula.,True,803,0
+n_source_files,direct_leakage,Direct input to the panel fiscal-risk formula.,True,803,0
+n_source_sheets,direct_leakage,Direct input to the panel fiscal-risk formula.,True,803,0
+n_value_columns,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,803,0
+n_raw_labels,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,803,0
+value_winsorized,retained_pure_feature,Raw or aggregated fiscal value feature retained for leakage-safe modeling.,True,803,0
+value_lag_1,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,663,140
+value_lag_2,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,548,255
+value_lag_4,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,406,397
+value_change_lag_1,direct_leakage,Direct input to the panel fiscal-risk formula.,True,663,140
+value_change_lag_2,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,548,255
+value_change_lag_4,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,406,397
+value_pct_change_lag_1,direct_leakage,Direct input to the panel fiscal-risk formula.,True,615,188
+value_pct_change_lag_2,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,508,295
+value_pct_change_lag_4,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,377,426
+value_rolling_mean_2,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,803,0
+value_rolling_std_2,direct_leakage,Direct input to the panel fiscal-risk formula.,True,663,140
+value_rolling_mean_4,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,803,0
+value_rolling_std_4,direct_leakage,Direct input to the panel fiscal-risk formula.,True,663,140
+value_robust_z_by_entity,direct_leakage,Direct input to the panel fiscal-risk formula.,True,803,0
+value_abs_robust_z_by_entity,direct_leakage,Direct input to the panel fiscal-risk formula.,True,803,0
+value_minmax_by_entity,indirect_formula_related,Closely related to the risk formula or traceability formula.,True,803,0
+value_robust_z_by_period,direct_leakage,Direct input to the panel fiscal-risk formula.,True,803,0
+is_core_indicator,retained_pure_feature,Contextual or semantic descriptor available before scoring.,True,803,0
+is_revenue_related,retained_pure_feature,Contextual or semantic descriptor available before scoring.,True,803,0
+is_expenditure_related,retained_pure_feature,Contextual or semantic descriptor available before scoring.,True,803,0
+is_debt_related,retained_pure_feature,Contextual or semantic descriptor available before scoring.,True,803,0
+is_surplus_deficit_related,retained_pure_feature,Contextual or semantic descriptor available before scoring.,True,803,0
+risk_component_entity_deviation_raw,direct_leakage,Risk component used in the target-generating formula.,True,803,0
+risk_component_entity_deviation,direct_leakage,Risk component used in the target-generating formula.,True,803,0
+risk_component_period_deviation_raw,direct_leakage,Risk component used in the target-generating formula.,True,803,0
+risk_component_period_deviation,direct_leakage,Risk component used in the target-generating formula.,True,803,0
+risk_component_temporal_change_raw,direct_leakage,Risk component used in the target-generating formula.,True,803,0
+risk_component_temporal_change,direct_leakage,Risk component used in the target-generating formula.,True,803,0
+risk_component_rolling_instability_raw,direct_leakage,Risk component used in the target-generating formula.,True,803,0
+risk_component_rolling_instability,direct_leakage,Risk component used in the target-generating formula.,True,803,0
+risk_component_source_uncertainty_raw,direct_leakage,Risk component used in the target-generating formula.,True,803,0
+risk_component_source_uncertainty,direct_leakage,Risk component used in the target-generating formula.,True,803,0
+panel_fiscal_risk_score_0_100,direct_leakage,Direct continuous score used to define the target label.,True,803,0
+panel_anomaly_threshold_quantile,target_or_label_column,Threshold used to assign labels.,True,803,0
+panel_anomaly_threshold_value,target_or_label_column,Threshold used to assign labels.,True,803,0
+panel_fiscal_anomaly_label,target_or_label_column,Main target label.,True,803,0
+panel_fiscal_anomaly_label_q60,target_or_label_column,Alternative label or class assignment.,True,803,0
+panel_fiscal_anomaly_label_q70,target_or_label_column,Alternative label or class assignment.,True,803,0
+panel_fiscal_anomaly_label_q80,target_or_label_column,Alternative label or class assignment.,True,803,0
+panel_fiscal_anomaly_label_q90,target_or_label_column,Alternative label or class assignment.,True,803,0
+label_high_entity_deviation,target_or_label_column,Alternative label or class assignment.,True,803,0
+label_high_period_deviation,target_or_label_column,Alternative label or class assignment.,True,803,0
+label_high_temporal_change,target_or_label_column,Alternative label or class assignment.,True,803,0
+label_high_rolling_instability,target_or_label_column,Alternative label or class assignment.,True,803,0
+label_high_source_uncertainty,target_or_label_column,Alternative label or class assignment.,True,803,0
+panel_multi_component_anomaly_label,target_or_label_column,Alternative label or class assignment.,True,803,0
+panel_risk_level,metadata_or_identifier,"Identifier or descriptor, not used as numeric model feature.",False,803,0
+panel_traceability_index_0_1,governance_metric_leakage,Governance metric output; excluded from leakage-safe AI features.,True,803,0
+panel_interpretability_index_0_1,governance_metric_leakage,Governance metric output; excluded from leakage-safe AI features.,True,803,0
+panel_audit_readiness_index_0_1,governance_metric_leakage,Governance metric output; excluded from leakage-safe AI features.,True,803,0
+panel_governance_alignment_index_0_1,governance_metric_leakage,Governance metric output; excluded from leakage-safe AI features.,True,803,0
+panel_risk_signal_completeness_0_1,governance_metric_leakage,Governance metric output; excluded from leakage-safe AI features.,True,803,0
+panel_temporal_support_index_0_1,governance_metric_leakage,Governance metric output; excluded from leakage-safe AI features.,True,803,0
+panel_decision_usability_index_0_1,governance_metric_leakage,Governance metric output; excluded from leakage-safe AI features.,True,803,0
+panel_interpretability_score_1_5,governance_metric_leakage,Governance metric output; excluded from leakage-safe AI features.,True,803,0
+panel_decision_usability_score_1_5,governance_metric_leakage,Governance metric output; excluded from leakage-safe AI features.,True,803,0
