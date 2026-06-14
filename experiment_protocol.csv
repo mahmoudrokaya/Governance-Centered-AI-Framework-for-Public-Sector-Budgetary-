@@ -1,0 +1,13 @@
+﻿item,value,description
+observation_unit,year × period × panel_entity,Each row is one fiscal indicator entity observed in a fiscal reporting period.
+target_label,panel_fiscal_anomaly_label,Formula-based anomaly label defined in script 04C.
+sample_size,803,Total panel observations used for experiments.
+positive_count,201,Number of anomaly-positive observations.
+negative_count,602,Number of anomaly-negative observations.
+grouping_variable,year_period_key,Used for group split to avoid leakage across the same fiscal reporting period.
+main_split,"GroupShuffleSplit(test_size=0.25, random_state=42)",Main train/test evaluation protocol.
+repeated_validation,30 repeated GroupShuffleSplit evaluations,Repeated validation for robustness.
+bootstrap_confidence_intervals,1000 bootstrap resamples of test predictions,Used for metric confidence intervals and paired model comparisons.
+conventional_features,24,Number of features used in conventional statistical baseline.
+standalone_ai_features,36,Number of features used in standalone AI model.
+governance_centered_features,45,Number of features used in governance-centered model.

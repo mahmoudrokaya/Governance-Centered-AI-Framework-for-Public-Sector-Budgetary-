@@ -1,0 +1,5 @@
+﻿model,algorithm,hyperparameters,purpose
+conventional_statistical_baseline,LogisticRegression,max_iter=2000; solver=liblinear; class_weight=balanced; C=1.0; random_state=42,Transparent conventional statistical comparator.
+standalone_ai_model,RandomForestClassifier,n_estimators=300; max_depth=6; min_samples_split=8; min_samples_leaf=4; class_weight=balanced_subsample; random_state=42,Standalone AI comparator using analytical features without governance metrics.
+governance_centered_ai_model,RandomForestClassifier,n_estimators=400; max_depth=7; min_samples_split=8; min_samples_leaf=4; class_weight=balanced_subsample; random_state=42,Governance-centered model using analytical + governance features.
+majority_dummy_reference,DummyClassifier,strategy=most_frequent; random_state=42,Trivial reference only; not a scientific comparator.

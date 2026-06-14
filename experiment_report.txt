@@ -1,0 +1,61 @@
+BASELINE AND AI MODEL EXPERIMENT REPORT
+================================================================================
+Run time: 2026-06-14T08:38:19
+Input dataset: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\04C_define_panel_governance_metrics_and_labels\panel_governance_labeled_dataset.csv
+Results directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\05_baseline_and_ai_model_experiments
+
+1. Dataset and protocol
+--------------------------------------------------------------------------------
+Observation unit: year × period × panel_entity
+Total observations: 803
+Positive observations: 201
+Negative observations: 602
+Positive rate: 0.250311
+Group split variable: year_period_key
+Train observations: 648
+Test observations: 155
+
+2. Main performance
+--------------------------------------------------------------------------------
+conventional_statistical_baseline: ROC-AUC=0.9299, AP=0.8653, F1=0.8000, Balanced Acc=0.8591, Precision=0.8000, Recall=0.8000, MCC=0.7182
+standalone_ai_model: ROC-AUC=0.9806, AP=0.9577, F1=0.8372, Balanced Acc=0.8773, Precision=0.8780, Recall=0.8000, MCC=0.7765
+governance_centered_ai_model: ROC-AUC=0.9804, AP=0.9554, F1=0.8636, Balanced Acc=0.8995, Precision=0.8837, Recall=0.8444, MCC=0.8100
+majority_dummy_reference: ROC-AUC=0.5000, AP=0.2903, F1=0.0000, Balanced Acc=0.5000, Precision=0.0000, Recall=0.0000, MCC=0.0000
+
+3. Confidence intervals
+--------------------------------------------------------------------------------
+conventional_statistical_baseline | balanced_accuracy: mean=0.8599, 95% CI [0.7943, 0.9170]
+conventional_statistical_baseline | f1: mean=0.7992, 95% CI [0.7000, 0.8810]
+conventional_statistical_baseline | roc_auc: mean=0.9307, 95% CI [0.8670, 0.9786]
+conventional_statistical_baseline | average_precision: mean=0.8711, 95% CI [0.7552, 0.9605]
+governance_centered_ai_model | balanced_accuracy: mean=0.8994, 95% CI [0.8394, 0.9541]
+governance_centered_ai_model | f1: mean=0.8627, 95% CI [0.7733, 0.9315]
+governance_centered_ai_model | roc_auc: mean=0.9807, 95% CI [0.9623, 0.9938]
+governance_centered_ai_model | average_precision: mean=0.9563, 95% CI [0.9085, 0.9861]
+majority_dummy_reference | balanced_accuracy: mean=0.5000, 95% CI [0.5000, 0.5000]
+majority_dummy_reference | f1: mean=0.0000, 95% CI [0.0000, 0.0000]
+majority_dummy_reference | roc_auc: mean=0.5000, 95% CI [0.5000, 0.5000]
+majority_dummy_reference | average_precision: mean=0.2898, 95% CI [0.2194, 0.3613]
+standalone_ai_model | balanced_accuracy: mean=0.8788, 95% CI [0.8160, 0.9374]
+standalone_ai_model | f1: mean=0.8380, 95% CI [0.7500, 0.9167]
+standalone_ai_model | roc_auc: mean=0.9810, 95% CI [0.9626, 0.9948]
+standalone_ai_model | average_precision: mean=0.9590, 95% CI [0.9177, 0.9879]
+
+4. Paired comparisons
+--------------------------------------------------------------------------------
+governance_centered_ai_model minus conventional_statistical_baseline | roc_auc: mean diff=0.0497, 95% CI [0.0109, 0.0998], P(diff>0)=0.9970
+governance_centered_ai_model minus conventional_statistical_baseline | f1: mean diff=0.0629, 95% CI [-0.0152, 0.1554], P(diff>0)=0.9290
+governance_centered_ai_model minus conventional_statistical_baseline | balanced_accuracy: mean diff=0.0397, 95% CI [-0.0201, 0.1056], P(diff>0)=0.8770
+governance_centered_ai_model minus conventional_statistical_baseline | average_precision: mean diff=0.0843, 95% CI [0.0125, 0.1868], P(diff>0)=0.9930
+governance_centered_ai_model minus standalone_ai_model | roc_auc: mean diff=-0.0003, 95% CI [-0.0060, 0.0041], P(diff>0)=0.4720
+governance_centered_ai_model minus standalone_ai_model | f1: mean diff=0.0276, 95% CI [-0.0299, 0.0966], P(diff>0)=0.7430
+governance_centered_ai_model minus standalone_ai_model | balanced_accuracy: mean diff=0.0230, 95% CI [-0.0238, 0.0785], P(diff>0)=0.7430
+governance_centered_ai_model minus standalone_ai_model | average_precision: mean diff=-0.0023, 95% CI [-0.0169, 0.0087], P(diff>0)=0.3720
+standalone_ai_model minus conventional_statistical_baseline | roc_auc: mean diff=0.0505, 95% CI [0.0125, 0.1009], P(diff>0)=1.0000
+standalone_ai_model minus conventional_statistical_baseline | f1: mean diff=0.0387, 95% CI [-0.0478, 0.1248], P(diff>0)=0.8070
+standalone_ai_model minus conventional_statistical_baseline | balanced_accuracy: mean diff=0.0192, 95% CI [-0.0471, 0.0821], P(diff>0)=0.7080
+standalone_ai_model minus conventional_statistical_baseline | average_precision: mean diff=0.0869, 95% CI [0.0169, 0.1846], P(diff>0)=0.9980
+
+5. Scientific limitation
+--------------------------------------------------------------------------------
+The target label is formula-derived from governance/risk metrics rather than an external expert-annotated ground truth. Therefore, the results should be interpreted as evidence of reproducible internal analytical consistency and comparative behavior, not as external policy outcome validation.

@@ -1,0 +1,13 @@
+﻿model_a,model_b,metric,mean_difference_a_minus_b,ci_lower_2_5,ci_upper_97_5,probability_a_greater_than_b,n_bootstrap
+governance_centered_ai_model,conventional_statistical_baseline,roc_auc,0.04971413102695203,0.010924077144035683,0.0998114851168249,0.997,1000
+governance_centered_ai_model,conventional_statistical_baseline,f1,0.06292295433499837,-0.01524560039819721,0.15542371043827077,0.929,1000
+governance_centered_ai_model,conventional_statistical_baseline,balanced_accuracy,0.039725777722965705,-0.020129787784679054,0.10563851007169106,0.877,1000
+governance_centered_ai_model,conventional_statistical_baseline,average_precision,0.08434338485971007,0.012484833418630423,0.18678240196540452,0.993,1000
+governance_centered_ai_model,standalone_ai_model,roc_auc,-0.0002673807397265943,-0.006022569968790756,0.004123755936398201,0.472,1000
+governance_centered_ai_model,standalone_ai_model,f1,0.02763144197782631,-0.02988138362888525,0.09657299596954765,0.743,1000
+governance_centered_ai_model,standalone_ai_model,balanced_accuracy,0.02301793014987485,-0.023824041811846608,0.0784592245989304,0.743,1000
+governance_centered_ai_model,standalone_ai_model,average_precision,-0.002330943551882712,-0.01685477780096115,0.008709290800882777,0.372,1000
+standalone_ai_model,conventional_statistical_baseline,roc_auc,0.05049779162538968,0.012495759318090162,0.10091881229235872,1.0,1000
+standalone_ai_model,conventional_statistical_baseline,f1,0.03872608476358768,-0.0477503616334706,0.12476596629914702,0.807,1000
+standalone_ai_model,conventional_statistical_baseline,balanced_accuracy,0.019157868350040942,-0.04707354639969197,0.08206643111790173,0.708,1000
+standalone_ai_model,conventional_statistical_baseline,average_precision,0.08689645243573928,0.016912836117889775,0.18462620886691974,0.998,1000

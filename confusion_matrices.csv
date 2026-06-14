@@ -1,0 +1,17 @@
+﻿model,cell,count
+conventional_statistical_baseline,tn,101
+conventional_statistical_baseline,fp,9
+conventional_statistical_baseline,fn,9
+conventional_statistical_baseline,tp,36
+standalone_ai_model,tn,105
+standalone_ai_model,fp,5
+standalone_ai_model,fn,9
+standalone_ai_model,tp,36
+governance_centered_ai_model,tn,105
+governance_centered_ai_model,fp,5
+governance_centered_ai_model,fn,7
+governance_centered_ai_model,tp,38
+majority_dummy_reference,tn,110
+majority_dummy_reference,fp,0
+majority_dummy_reference,fn,45
+majority_dummy_reference,tp,0
