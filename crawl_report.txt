@@ -1,0 +1,27 @@
+MOF WEB CRAWL REPORT
+================================================================================
+Crawl time: 2026-06-14T06:36:07
+Official source domain: www.mof.gov.sa
+Base URL: https://www.mof.gov.sa/en/financialreport
+Download directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Data\MoF_Web_Crawl
+
+1. Crawl coverage
+--------------------------------------------------------------------------------
+Years requested: [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
+Seed pages attempted: 34
+Seed pages successful: 34
+Links discovered: 275
+Downloadable links discovered: 81
+
+2. Downloads
+--------------------------------------------------------------------------------
+Files downloaded or already existing: 81
+Failed downloads: 0
+Years downloaded: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
+Periods downloaded: ['End-Year/Annual', 'Q1', 'Q2', 'Q3', 'Q4']
+Downloaded extensions: {'.pdf': 69, '.xlsx': 12}
+Downloaded file-type guesses: {'other_financial_file': 78, 'infographic': 2, 'budget_performance_report': 1}
+
+3. Next step
+--------------------------------------------------------------------------------
+Run 01_data_inventory_and_audit.py again after this crawl. If multiple years are now detected, proceed to table extraction and long-format dataset construction.

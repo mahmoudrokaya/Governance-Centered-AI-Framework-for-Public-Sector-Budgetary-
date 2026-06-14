@@ -1,0 +1,56 @@
+{
+  "crawl_time": "2026-06-14T06:36:07",
+  "official_domain": "www.mof.gov.sa",
+  "base_financial_report_url": "https://www.mof.gov.sa/en/financialreport",
+  "data_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Data",
+  "download_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Data\\MoF_Web_Crawl",
+  "results_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\02_crawl_mof_web_for_more_data",
+  "years_requested": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "seed_pages_attempted": 34,
+  "seed_pages_successful": 34,
+  "links_discovered": 275,
+  "downloadable_links_discovered": 81,
+  "files_downloaded_or_existing": 81,
+  "failed_downloads": 0,
+  "years_downloaded": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "periods_downloaded": [
+    "End-Year/Annual",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4"
+  ],
+  "downloaded_extensions": {
+    ".pdf": 69,
+    ".xlsx": 12
+  },
+  "downloaded_file_type_guesses": {
+    "other_financial_file": 78,
+    "infographic": 2,
+    "budget_performance_report": 1
+  },
+  "next_step": "Run 01_data_inventory_and_audit.py again after this crawl. If multiple years are now detected, proceed to table extraction and long-format dataset construction."
+}
