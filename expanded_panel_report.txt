@@ -1,0 +1,56 @@
+EXPANDED PANEL DATASET CONSTRUCTION REPORT
+================================================================================
+Run time: 2026-06-14T08:15:48
+Input file: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\03B_repair_periods_and_feature_mapping\repaired_cleaned_long_dataset.csv
+Results directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\04B_dataset_expansion_and_panel_construction
+
+1. Observation unit
+--------------------------------------------------------------------------------
+Expanded panel observation unit: year × period × panel_entity.
+This expands the analytical design beyond year × period only.
+
+2. Main counts
+--------------------------------------------------------------------------------
+Input repaired long records: 2580
+Expanded panel observations: 803
+Feature matrix rows: 803
+Feature matrix columns: 43
+Numeric feature columns: 36
+
+3. Coverage
+--------------------------------------------------------------------------------
+Years retained: [2021, 2022, 2023, 2024]
+Periods retained: ['Q1', 'Q2', 'Q3', 'Q4', 'End-Year/Annual']
+Unique year-period combinations: 16
+Unique panel entities: 140
+Categories retained: ['Debt', 'Expenditure', 'Non-oil revenue', 'Oil revenue', 'Other', 'Revenue', 'Surplus/Deficit']
+Indicators retained: ['domestic_debt', 'external_debt', 'non_oil_revenue', 'oil_revenue', 'other', 'public_debt', 'surplus_deficit', 'total_expenditure', 'total_revenue']
+
+4. Quality checks
+--------------------------------------------------------------------------------
+input_repaired_long_records: 2580.0 -- Rows loaded from repaired long-format dataset.
+expanded_panel_observations: 803.0 -- Rows in expanded year-period-entity panel dataset.
+feature_matrix_rows: 803.0 -- Rows in expanded feature matrix.
+feature_matrix_columns: 43.0 -- Columns in expanded feature matrix.
+unique_years: 4.0 -- Number of fiscal years represented.
+unique_periods: 5.0 -- Number of fiscal reporting period types represented.
+unique_year_periods: 16.0 -- Number of unique fiscal year-period combinations.
+unique_panel_entities: 140.0 -- Number of fiscal indicator entities represented.
+unique_categories: 7.0 -- Number of fiscal categories represented.
+unique_normalized_indicators: 9.0 -- Number of normalized indicators represented.
+mean_observations_per_entity: 5.735714285714286 -- Average temporal coverage per fiscal entity.
+median_observations_per_entity: 3.0 -- Median temporal coverage per fiscal entity.
+core_indicator_observations: 764.0 -- Panel observations belonging to core fiscal indicators.
+numeric_feature_columns: 36.0 -- Numeric columns usable by later statistical/AI scripts.
+mean_numeric_missing_rate: 0.107928601079286 -- Average missingness across numeric feature columns.
+
+5. Reviewer-facing implication
+--------------------------------------------------------------------------------
+The empirical unit is no longer restricted to 16 year-period observations.
+The expanded panel provides multiple fiscal indicator entities within each period,
+which can support more defensible baseline comparisons and cautious anomaly modeling.
+
+6. Next step
+--------------------------------------------------------------------------------
+Write 04C_define_panel_governance_metrics_and_labels.py or update script 04 to use:
+E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\04B_dataset_expansion_and_panel_construction\expanded_panel_feature_matrix.csv

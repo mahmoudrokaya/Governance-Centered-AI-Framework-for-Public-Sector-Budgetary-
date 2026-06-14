@@ -1,0 +1,44 @@
+﻿feature_name,role,numeric,non_missing_count,missing_count,mean,std,min,max,description
+panel_observation_id,identifier_or_descriptor,False,803,0,,,,,Unique panel observation identifier: year + period + panel entity.
+year,identifier_or_descriptor,True,803,0,2022.9327521793275,0.7882938880707395,2021.0,2024.0,Fiscal year.
+period,identifier_or_descriptor,False,803,0,,,,,Fiscal reporting period.
+period_order,identifier_or_descriptor,True,803,0,2.8194271481942716,1.3523863348221459,1.0,5.0,Numeric order of fiscal reporting period.
+year_period_key,identifier_or_descriptor,False,803,0,,,,,Fiscal year-period grouping key.
+category,identifier_or_descriptor,False,803,0,,,,,Repaired fiscal category.
+normalized_indicator,identifier_or_descriptor,False,803,0,,,,,Repaired normalized fiscal indicator.
+panel_entity,identifier_or_descriptor,False,803,0,,,,,Fiscal indicator/entity used as panel unit.
+unit_mode,identifier_or_descriptor,False,803,0,,,,,Derived panel feature.
+value_mean,value_feature,True,803,0,114177.43748245304,199672.15879483512,-107191.5,1312860.0,Mean extracted numeric value for the entity in a year-period.
+value_median,value_feature,True,803,0,109251.12337757259,199277.39765398076,-107191.5,1312860.0,Median extracted numeric value for the entity in a year-period.
+value_sum,value_feature,True,803,0,351086.0063186607,1010114.5506431899,-214383.0,12748997.067935614,Sum of extracted numeric values for the entity in a year-period.
+value_min,value_feature,True,803,0,76798.72549464222,186405.53595969474,-140936.0,1251000.0,Derived panel feature.
+value_max,value_feature,True,803,0,175322.63278096518,288868.9004596098,-79000.0,1374720.24877316,Derived panel feature.
+value_std,value_feature,True,456,347,82019.75123784173,123951.86201264567,0.0,676159.1417719128,Derived panel feature.
+value_count,coverage_or_traceability_feature,True,803,0,3.2129514321295143,6.7275613284319284,1.0,98.0,Number of long-format source values aggregated into the panel observation.
+n_source_files,coverage_or_traceability_feature,True,803,0,1.419676214196762,0.7163647455367927,1.0,4.0,Number of source files supporting the panel observation.
+n_source_sheets,coverage_or_traceability_feature,True,803,0,1.0049813200498132,0.07044633903222598,1.0,2.0,Number of source sheets supporting the panel observation.
+n_value_columns,coverage_or_traceability_feature,True,803,0,1.800747198007472,1.2058251961177926,1.0,7.0,Derived panel feature.
+n_raw_labels,coverage_or_traceability_feature,True,803,0,1.2179327521793275,1.492651061862609,1.0,13.0,Derived panel feature.
+value_winsorized,value_feature,True,803,0,113053.7921427776,191132.8179818744,-12273.548834605906,990084.0,Derived panel feature.
+value_lag_1,temporal_lag_feature,True,663,140,104997.9557303477,183439.18334760194,-107191.5,1184859.8668917508,Derived panel feature.
+value_lag_2,temporal_lag_feature,True,548,255,106108.42596598896,185140.02217827496,-107191.5,1184859.8668917508,Derived panel feature.
+value_lag_4,temporal_lag_feature,True,406,397,105533.15747171997,182203.5105233169,-107191.5,1184859.8668917508,Derived panel feature.
+value_change_lag_1,temporal_lag_feature,True,663,140,15609.094244231224,150781.47897607647,-1184857.8668917508,1312858.5,Derived panel feature.
+value_change_lag_2,temporal_lag_feature,True,548,255,16333.506616863751,166848.07833465375,-1184857.3668917508,1312858.5,Derived panel feature.
+value_change_lag_4,temporal_lag_feature,True,406,397,6248.9326019962045,133643.30436279296,-1014465.0,1312858.5,Derived panel feature.
+value_pct_change_lag_1,temporal_lag_feature,True,615,188,81665.61662788613,1408709.0998879478,-5.130802511741391,34204220.26932835,Derived panel feature.
+value_pct_change_lag_2,temporal_lag_feature,True,508,295,86315.77551785047,1405770.1156284793,-13.164725097076738,30893421.643297914,Derived panel feature.
+value_pct_change_lag_4,temporal_lag_feature,True,377,426,6998.967305128087,81310.94163798014,-10.157751751200017,1184858.8668917508,Derived panel feature.
+value_rolling_mean_2,temporal_rolling_feature,True,803,0,107733.58350740615,178042.4587270572,-107191.5,1050282.190850175,Derived panel feature.
+value_rolling_std_2,temporal_rolling_feature,True,663,140,37108.071915617424,100550.70391781883,0.0,928331.148088399,Derived panel feature.
+value_rolling_mean_4,temporal_rolling_feature,True,803,0,104930.9074231944,169871.13005435985,-107191.5,1020183.0954250875,Derived panel feature.
+value_rolling_std_4,temporal_rolling_feature,True,663,140,45198.84374528263,93386.35834895486,0.0,720063.485645271,Derived panel feature.
+value_robust_z_by_entity,normalized_anomaly_feature,True,803,0,2799.3250749454087,40932.7964086822,-5.909327495061568,702758.0811428572,Robust z-score of value_mean relative to the same fiscal entity over time.
+value_abs_robust_z_by_entity,normalized_anomaly_feature,True,803,0,2799.9815620502095,40932.751451357886,0.0,702758.0811428572,"Absolute robust z-score, useful as an anomaly-strength feature."
+value_minmax_by_entity,normalized_anomaly_feature,True,803,0,0.3904573177590499,0.37672780885832774,0.0,1.0,Min-max normalized value_mean within the same fiscal entity.
+value_robust_z_by_period,normalized_anomaly_feature,True,803,0,1.6286061513091314,4.807030835263547,-9.099797764932562,54.01588875994541,Derived panel feature.
+is_core_indicator,binary_descriptor,True,803,0,0.9514321295143213,0.21509683793491519,0.0,1.0,Derived panel feature.
+is_revenue_related,binary_descriptor,True,803,0,0.3312577833125778,0.47095889560045995,0.0,1.0,Derived panel feature.
+is_expenditure_related,binary_descriptor,True,803,0,0.40971357409713577,0.49208730714976595,0.0,1.0,Derived panel feature.
+is_debt_related,binary_descriptor,True,803,0,0.15940224159402241,0.36627891113617045,0.0,1.0,Derived panel feature.
+is_surplus_deficit_related,binary_descriptor,True,803,0,0.049813200498132,0.21769442532607097,0.0,1.0,Derived panel feature.

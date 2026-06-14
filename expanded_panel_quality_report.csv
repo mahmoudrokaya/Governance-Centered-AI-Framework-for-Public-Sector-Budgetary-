@@ -1,0 +1,16 @@
+﻿check,value,interpretation
+input_repaired_long_records,2580.0,Rows loaded from repaired long-format dataset.
+expanded_panel_observations,803.0,Rows in expanded year-period-entity panel dataset.
+feature_matrix_rows,803.0,Rows in expanded feature matrix.
+feature_matrix_columns,43.0,Columns in expanded feature matrix.
+unique_years,4.0,Number of fiscal years represented.
+unique_periods,5.0,Number of fiscal reporting period types represented.
+unique_year_periods,16.0,Number of unique fiscal year-period combinations.
+unique_panel_entities,140.0,Number of fiscal indicator entities represented.
+unique_categories,7.0,Number of fiscal categories represented.
+unique_normalized_indicators,9.0,Number of normalized indicators represented.
+mean_observations_per_entity,5.735714285714286,Average temporal coverage per fiscal entity.
+median_observations_per_entity,3.0,Median temporal coverage per fiscal entity.
+core_indicator_observations,764.0,Panel observations belonging to core fiscal indicators.
+numeric_feature_columns,36.0,Numeric columns usable by later statistical/AI scripts.
+mean_numeric_missing_rate,0.107928601079286,Average missingness across numeric feature columns.

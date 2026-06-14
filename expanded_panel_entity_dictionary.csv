@@ -1,0 +1,141 @@
+﻿panel_entity,category,normalized_indicator,n_observations,first_year,last_year,n_periods,n_source_files,example_label
+debt_domestic_debt_amortization_of_government_bonds,Debt,domestic_debt,7,2022,2024,4,7,إطفاء سندات حكومية | Amortization of Government Bonds
+debt_domestic_debt_beginning_of_period_balance,Debt,domestic_debt,8,2022,2024,4,8,الرصيد أول الفترة | Beginning of Period Balance
+debt_domestic_debt_end_of_period_balance,Debt,domestic_debt,12,2022,2024,5,13,الرصيد آخر الفترة | End of Period Balance
+debt_domestic_debt_financing_from_domestic_borrowing,Debt,domestic_debt,9,2022,2023,5,9,تمويل من الدين الداخلي | Financing from Domestic Borrowing
+debt_domestic_debt_issuances_or_borrowings,Debt,domestic_debt,12,2022,2024,5,13,الإصدارات أو الاقتراض | Issuances or Borrowings
+debt_domestic_debt_principal_repayment,Debt,domestic_debt,12,2022,2024,5,13,سداد أصل الدين | Principal Repayment
+debt_domestic_debt_unlabeled_row,Debt,domestic_debt,8,2022,2024,4,8,Unlabeled row
+debt_external_debt_amortization_of_government_bonds,Debt,external_debt,3,2022,2024,2,3,إطفاء سندات حكومية | Amortization of Government Bonds
+debt_external_debt_end_of_period_balance,Debt,external_debt,12,2022,2024,5,12,الرصيد آخر الفترة | End of Period Balance
+debt_external_debt_financing_from_external_borrowing,Debt,external_debt,9,2022,2023,5,11,تمويل من الدين الخارجي | Financing from External Borrowing
+debt_external_debt_issuances_or_borrowings,Debt,external_debt,10,2022,2024,5,10,الإصدارات أو الاقتراض | Issuances or Borrowings
+debt_external_debt_principal_repayment,Debt,external_debt,11,2022,2024,5,11,سداد أصل الدين | Principal Repayment
+debt_external_debt_unlabeled_row,Debt,external_debt,8,2022,2024,4,8,Unlabeled row
+debt_public_debt_unlabeled_row,Debt,public_debt,7,2022,2024,4,7,Unlabeled row
+expenditure_total_expenditure_102819_40924245001_education,Expenditure,total_expenditure,2,2024,2024,2,2,التعليم | 102819.40924245001 | Education
+expenditure_total_expenditure_103232_80316220001_general_items,Expenditure,total_expenditure,2,2024,2024,2,2,البنود العامة | 103232.80316220001 | General Items
+expenditure_total_expenditure_105119_87979830823_military,Expenditure,total_expenditure,1,2023,2023,1,1,العسكري | 105119.87979830823 | Military
+expenditure_total_expenditure_111248_4252618625_military,Expenditure,total_expenditure,2,2024,2024,2,2,العسكري | 111248.4252618625 | Military
+expenditure_total_expenditure_127945_24161820501_health_social_development,Expenditure,total_expenditure,2,2024,2024,2,2,الصحة والتنمية الاجتماعية | 127945.24161820501 | Health & Social Development
+expenditure_total_expenditure_14252_23284817001_municipal_services,Expenditure,total_expenditure,1,2022,2022,1,1,الخدمات البلدية | 14252.23284817001 | Municipal Services
+expenditure_total_expenditure_1443_1444_2022,Expenditure,total_expenditure,2,2022,2022,2,2,المصروفات الفعلية حتى الربع الثالث من السنة المالية 1443/ 1444هـ (2022م) || المصروفات الفعلية للربع الثالث من السنة المالية 1443/ 1444هـ (2022م) || المصروفات الفعلية حتى الربع الرابع من السنة المالية 1443/ 1444هـ (2022م) || المصروفات الفعلية للربع الرابع من السنة المالية 1443/ 1444هـ (2022م)
+expenditure_total_expenditure_1444_1445_2023,Expenditure,total_expenditure,2,2023,2023,2,2,المصروفات الفعلية حتى الربع الثالث من السنة المالية 1444/ 1445هـ (2023م) || المصروفات الفعلية للربع الثالث من السنة المالية 1444/ 1445هـ (2023م) || المصروفات الفعلية حتى الربع الرابع من السنة المالية 1444/ 1445هـ (2023م) || المصروفات الفعلية للربع الرابع من السنة المالية 1444/ 1445هـ (2023م)
+expenditure_total_expenditure_1445_1446_2024,Expenditure,total_expenditure,2,2024,2024,2,2,المصروفات الفعلية حتى الربع الثالث من السنة المالية 1445/ 1446هـ (2024م) || المصروفات الفعلية للربع الثالث من السنة المالية 1445/ 1446هـ (2024م) || المصروفات الفعلية حتى الربع الرابع من السنة المالية 1445/ 1446هـ (2024م) || المصروفات الفعلية للربع الرابع من السنة المالية 1445/ 1446هـ (2024م)
+expenditure_total_expenditure_14861_801751082518_public_administration,Expenditure,total_expenditure,1,2022,2022,1,1,الإدارة العامة | 14861.801751082518 | Public Administration
+expenditure_total_expenditure_17673_493066885043_public_administration,Expenditure,total_expenditure,1,2023,2023,1,1,الإدارة العامة | 17673.493066885043 | Public Administration
+expenditure_total_expenditure_18552_19621866_infrastructure_and_transportation,Expenditure,total_expenditure,2,2024,2024,2,2,التجهيزات الأساسية والنقل | 18552.19621866 | Infrastructure and Transportation
+expenditure_total_expenditure_19021_261638440003_infrastructure_and_transportation,Expenditure,total_expenditure,1,2023,2023,1,1,التجهيزات الأساسية والنقل | 19021.261638440003 | Infrastructure and Transportation
+expenditure_total_expenditure_2021_sector,Expenditure,total_expenditure,1,2022,2022,1,1,اسم القطاع | المنصرف للنصف الأول 2021م | Sector
+expenditure_total_expenditure_2022_sector,Expenditure,total_expenditure,1,2023,2023,1,1,اسم القطاع | المنصرف للنصف الأول 2022م | Sector
+expenditure_total_expenditure_2023_sector,Expenditure,total_expenditure,1,2024,2024,1,1,اسم القطاع | المنصرف للنصف الأول 2023م | Sector
+expenditure_total_expenditure_21682_808042535005_public_administration,Expenditure,total_expenditure,2,2024,2024,2,2,الإدارة العامة | 21682.808042535005 | Public Administration
+expenditure_total_expenditure_22115_44479228_infrastructure_and_transportation,Expenditure,total_expenditure,1,2022,2022,1,1,التجهيزات الأساسية والنقل | 22115.44479228 | Infrastructure and Transportation
+expenditure_total_expenditure_24993_66024555_municipal_services,Expenditure,total_expenditure,1,2023,2023,1,1,الخدمات البلدية | 24993.66024555 | Municipal Services
+expenditure_total_expenditure_26644_99596582_municipal_services,Expenditure,total_expenditure,2,2024,2024,2,2,الخدمات البلدية | 26644.99596582 | Municipal Services
+expenditure_total_expenditure_27141_530719700004_economic_resources,Expenditure,total_expenditure,1,2022,2022,1,1,الموارد الاقتصادية | 27141.530719700004 | Economic Resources
+expenditure_total_expenditure_29721_427763380005_economic_resources,Expenditure,total_expenditure,1,2023,2023,1,1,الموارد الاقتصادية | 29721.427763380005 | Economic Resources
+expenditure_total_expenditure_37337_94893015_economic_resources,Expenditure,total_expenditure,2,2024,2024,2,2,الموارد الاقتصادية | 37337.94893015 | Economic Resources
+expenditure_total_expenditure_45689_32698948_security_and_regional_administration,Expenditure,total_expenditure,1,2022,2022,1,1,الأمن والمناطق الإدارية | 45689.32698948 | Security and Regional Administration
+expenditure_total_expenditure_464923_3188843924,Expenditure,total_expenditure,1,2022,2022,1,1,الإجمالـــــــــــي | 464923.3188843924 | Total
+expenditure_total_expenditure_49600_97491437995_security_and_regional_administration,Expenditure,total_expenditure,1,2023,2023,1,1,الأمن والمناطق الإدارية | 49600.97491437995 | Security and Regional Administration
+expenditure_total_expenditure_512925_1042616806,Expenditure,total_expenditure,1,2023,2023,1,1,الإجمالـــــــــــي | 512925.1042616806 | Total
+expenditure_total_expenditure_54482_0435104_security_and_regional_administration,Expenditure,total_expenditure,2,2024,2024,2,2,الأمن والمناطق الإدارية | 54482.0435104 | Security and Regional Administration
+expenditure_total_expenditure_603945_8719522825,Expenditure,total_expenditure,2,2024,2024,2,2,الإجمالـــــــــــي | 603945.8719522825 | Total
+expenditure_total_expenditure_64009_11379564_general_items,Expenditure,total_expenditure,1,2022,2022,1,1,البنود العامة | 64009.11379564 | General Items
+expenditure_total_expenditure_68919_06677171_general_items,Expenditure,total_expenditure,1,2023,2023,1,1,البنود العامة | 68919.06677171 | General Items
+expenditure_total_expenditure_91109_64849529987_education,Expenditure,total_expenditure,1,2022,2022,1,1,التعليم | 91109.64849529987 | Education
+expenditure_total_expenditure_91839_55159809522_health_social_development,Expenditure,total_expenditure,1,2022,2022,1,1,الصحة والتنمية الاجتماعية | 91839.55159809522 | Health & Social Development
+expenditure_total_expenditure_93904_6678946448_military,Expenditure,total_expenditure,1,2022,2022,1,1,العسكري | 93904.6678946448 | Military
+expenditure_total_expenditure_98340_90512722493_education,Expenditure,total_expenditure,1,2023,2023,1,1,التعليم | 98340.90512722493 | Education
+expenditure_total_expenditure_99534_43493580243_health_social_development,Expenditure,total_expenditure,1,2023,2023,1,1,الصحة والتنمية الاجتماعية | 99534.43493580243 | Health & Social Development
+expenditure_total_expenditure_compensation_of_employees,Expenditure,total_expenditure,14,2022,2024,5,18,تعويضات العاملين | Compensation of Employees
+expenditure_total_expenditure_economic_resources,Expenditure,total_expenditure,13,2022,2024,5,29,الموارد الاقتصادية | Economic Resources
+expenditure_total_expenditure_education,Expenditure,total_expenditure,13,2022,2024,5,29,التعليم | Education
+expenditure_total_expenditure_expenditures,Expenditure,total_expenditure,7,2021,2024,3,12,إجمالي المصروفات | Total Expenditures || إجمالي المصروفات | Total Expenditures || المصروفات* | Expenditures* || المصروفات* | Expenditures*
+expenditure_total_expenditure_financing_expenses,Expenditure,total_expenditure,14,2022,2024,5,18,نفقات التمويل | Financing Expenses
+expenditure_total_expenditure_general_items,Expenditure,total_expenditure,13,2022,2024,5,29,البنود العامة | General Items
+expenditure_total_expenditure_grants,Expenditure,total_expenditure,14,2022,2024,5,18,المنح | Grants
+expenditure_total_expenditure_h1,Expenditure,total_expenditure,2,2022,2023,2,2,H1 2021 || H1 2022
+expenditure_total_expenditure_health_social_development,Expenditure,total_expenditure,13,2022,2024,5,29,الصحة والتنمية الاجتماعية | Health & Social Development
+expenditure_total_expenditure_infrastructure_and_transportation,Expenditure,total_expenditure,13,2022,2024,5,29,التجهيزات الأساسية والنقل | Infrastructure and Transportation
+expenditure_total_expenditure_military,Expenditure,total_expenditure,13,2022,2024,5,29,العسكري | Military
+expenditure_total_expenditure_municipal_services,Expenditure,total_expenditure,13,2022,2024,5,29,الخدمات البلدية | Municipal Services
+expenditure_total_expenditure_non_financial_assets_capex,Expenditure,total_expenditure,14,2022,2024,5,18,الأصول غير المالية (رأسمالي) | Non-financial Assets (CAPEX)
+expenditure_total_expenditure_other_expenses,Expenditure,total_expenditure,14,2022,2024,5,18,مصروفات أخرى | Other Expenses
+expenditure_total_expenditure_public_administration,Expenditure,total_expenditure,13,2022,2024,5,29,الإدارة العامة | Public Administration
+expenditure_total_expenditure_sector,Expenditure,total_expenditure,13,2022,2024,5,16,اسم القطاع | Sector
+expenditure_total_expenditure_security_and_regional_administration,Expenditure,total_expenditure,13,2022,2024,5,29,الأمن والمناطق الإدارية | Security and Regional Administration
+expenditure_total_expenditure_social_benefits,Expenditure,total_expenditure,14,2022,2024,5,18,المنافع الاجتماعية | Social Benefits
+expenditure_total_expenditure_spending_until_h1,Expenditure,total_expenditure,1,2024,2024,1,1,Spending Until H1 2023
+expenditure_total_expenditure_subsidies,Expenditure,total_expenditure,14,2022,2024,5,18,الإعانات | Subsidies
+expenditure_total_expenditure_unknown,Expenditure,total_expenditure,14,2022,2024,5,32,استخدام السلع والخدمات || الأصول غير المالية (رأسمالي) || الإجمالـــــــــــي || الإجمالـــــــــــي | Total || الإجمالـــــــــــي | Total || استخدام السلع والخدمات || الأصول غير المالية (رأسمالي)
+expenditure_total_expenditure_unlabeled_row,Expenditure,total_expenditure,14,2022,2024,5,25,Unlabeled row
+expenditure_total_expenditure_use_of_goods_and_services,Expenditure,total_expenditure,14,2022,2024,5,18,استخدام السلع والخدمات | Use of Goods and Services
+non_oil_revenue_non_oil_revenue_102338_764773147_non_oil_revenues,Non-oil revenue,non_oil_revenue,2,2023,2023,2,3,الإيرادات غير النفطية | 102338.764773147 | Non-oil Revenues
+non_oil_revenue_non_oil_revenue_111511_75445118701_non_oil_revenues,Non-oil revenue,non_oil_revenue,3,2024,2024,3,3,الإيرادات غير النفطية | 111511.75445118701 | Non-oil Revenues
+non_oil_revenue_non_oil_revenue_120000_5_non_oil_revenues,Non-oil revenue,non_oil_revenue,3,2022,2022,3,3,الإيرادات غير النفطية | 120000.5 | Non-oil Revenues
+non_oil_revenue_non_oil_revenue_135083_12795419604_non_oil_revenues,Non-oil revenue,non_oil_revenue,4,2023,2023,4,5,الإيرادات غير النفطية | 135083.12795419604 | Non-oil Revenues
+non_oil_revenue_non_oil_revenue_94259_89162155999_non_oil_revenues,Non-oil revenue,non_oil_revenue,2,2022,2022,2,2,الإيرادات غير النفطية | 94259.89162155999 | Non-oil Revenues
+non_oil_revenue_non_oil_revenue_non_oil_revenues,Non-oil revenue,non_oil_revenue,14,2022,2024,5,23,الإيرادات غير النفطية | Non-oil Revenues
+non_oil_revenue_non_oil_revenue_unknown,Non-oil revenue,non_oil_revenue,2,2024,2024,2,2,الإيرادات غير النفطية
+oil_revenue_oil_revenue_178605_46071_oil_revenues,Oil revenue,oil_revenue,2,2023,2023,2,3,الإيرادات النفطية | 178605.46071 | Oil Revenues
+oil_revenue_oil_revenue_179739_739495987_oil_revenues,Oil revenue,oil_revenue,4,2023,2023,4,5,الإيرادات النفطية | 179739.739495987 | Oil Revenues
+oil_revenue_oil_revenue_181921_609316625_oil_revenues,Oil revenue,oil_revenue,3,2024,2024,3,3,الإيرادات النفطية | 181921.609316625 | Oil Revenues
+oil_revenue_oil_revenue_183698_755811325_oil_revenues,Oil revenue,oil_revenue,2,2022,2022,2,2,الإيرادات النفطية | 183698.755811325 | Oil Revenues
+oil_revenue_oil_revenue_250364_oil_revenues,Oil revenue,oil_revenue,3,2022,2022,3,3,الإيرادات النفطية | 250364 | Oil Revenues
+oil_revenue_oil_revenue_oil_revenues,Oil revenue,oil_revenue,14,2022,2024,5,23,الإيرادات النفطية | Oil Revenues
+oil_revenue_oil_revenue_unknown,Oil revenue,oil_revenue,2,2024,2024,2,2,الإيرادات النفطية
+other_non_oil_revenue_2023_2023,Other,non_oil_revenue,1,2023,2023,1,2,حتى الربع الثالث من السنة المالية 2023م | للربع الثالث من السنة المالية 2023م || حتى الربع الرابع من السنة المالية 2023م | للربع الرابع من السنة المالية 2023م
+other_other_2023_2023,Other,other,3,2023,2023,3,4,حتى الربع الثالث من السنة المالية 2023م | للربع الثالث من السنة المالية 2023م || حتى الربع الرابع من السنة المالية 2023م | للربع الرابع من السنة المالية 2023م
+other_other_current_account,Other,other,7,2022,2023,4,7,من الحساب الجاري | Current Account
+other_other_end_of_period_balance,Other,other,11,2022,2024,5,12,الرصيد اخر الفترة | End of Period Balance || الرصيد آخر الفترة | End of Period Balance
+other_other_financing,Other,other,9,2022,2023,5,11,إجمالي التمويل | Total Financing
+other_other_government_reserves,Other,other,9,2022,2023,5,9,من الاحتياطيات الحكومية | Government Reserves
+revenue_total_revenue_10235_3_taxes_on_income_profit_and_capital_gains,Revenue,total_revenue,3,2022,2022,3,3,"الضرائب على الدخل والأرباح والمكاسب الرأسمالية | 10235.3 | Taxes on Income, Profit and Capital Gains"
+revenue_total_revenue_16680_38199858_taxes_on_income_profit_and_capital_gains,Revenue,total_revenue,4,2023,2023,4,5,"الضرائب على الدخل والأرباح والمكاسب الرأسمالية | 16680.38199858 | Taxes on Income, Profit and Capital Gains"
+revenue_total_revenue_19846_8_other_taxes,Revenue,total_revenue,3,2022,2022,3,3,ضرائب أخرى | 19846.8 | Other Taxes
+revenue_total_revenue_20273_7_other_revenues,Revenue,total_revenue,3,2022,2022,3,3,الإيرادات الأخرى | 20273.7 | Other Revenues
+revenue_total_revenue_21486_932655519988_other_revenues,Revenue,total_revenue,2,2022,2022,2,2,الإيرادات الأخرى | 21486.932655519988 | Other Revenues
+revenue_total_revenue_22442_517107516996_other_revenues,Revenue,total_revenue,2,2023,2023,2,3,الإيرادات الأخرى | 22442.517107516996 | Other Revenues
+revenue_total_revenue_22623_861646690002_other_taxes,Revenue,total_revenue,4,2023,2023,4,5,ضرائب أخرى | 22623.861646690002 | Other Taxes
+revenue_total_revenue_24405_829689206028_other_revenues,Revenue,total_revenue,4,2023,2023,4,5,الإيرادات الأخرى | 24405.829689206028 | Other Revenues
+revenue_total_revenue_25340_736933747008_other_revenues,Revenue,total_revenue,3,2024,2024,3,3,الإيرادات الأخرى | 25340.736933747008 | Other Revenues
+revenue_total_revenue_277958_647432885,Revenue,total_revenue,2,2022,2022,2,2,الإجمالي | 277958.647432885 | Total
+revenue_total_revenue_280944_225483147,Revenue,total_revenue,2,2023,2023,2,3,الإجمالي | 280944.225483147 | Total
+revenue_total_revenue_293433_36376781197,Revenue,total_revenue,3,2024,2024,3,3,الإجمالي | 293433.36376781197 | Total
+revenue_total_revenue_314822_867450183,Revenue,total_revenue,4,2023,2023,4,5,الإجمالي | 314822.867450183 | Total
+revenue_total_revenue_3177_6035160899996_other_taxes,Revenue,total_revenue,2,2022,2022,2,2,ضرائب أخرى | 3177.6035160899996 | Other Taxes
+revenue_total_revenue_3689_8080619899997_other_taxes,Revenue,total_revenue,3,2024,2024,3,3,ضرائب أخرى | 3689.8080619899997 | Other Taxes
+revenue_total_revenue_370365,Revenue,total_revenue,3,2022,2022,3,3,الإجمالي | 370365 | Total
+revenue_total_revenue_4112_05065303_taxes_on_income_profit_and_capital_gains,Revenue,total_revenue,2,2022,2022,2,2,"الضرائب على الدخل والأرباح والمكاسب الرأسمالية | 4112.05065303 | Taxes on Income, Profit and Capital Gains"
+revenue_total_revenue_4120_3888697_other_taxes,Revenue,total_revenue,2,2023,2023,2,3,ضرائب أخرى | 4120.3888697 | Other Taxes
+revenue_total_revenue_5064_22321262_taxes_on_international_trade_and_transactions,Revenue,total_revenue,2,2022,2022,2,2,الضرائب على التجارة والمعاملات الدولية | 5064.22321262 | Taxes on International Trade and Transactions
+revenue_total_revenue_5243_1281084_taxes_on_international_trade_and_transactions,Revenue,total_revenue,4,2023,2023,4,5,الضرائب على التجارة والمعاملات الدولية | 5243.1281084 | Taxes on International Trade and Transactions
+revenue_total_revenue_5424_47_taxes_on_international_trade_and_transactions,Revenue,total_revenue,3,2022,2022,3,3,الضرائب على التجارة والمعاملات الدولية | 5424.47 | Taxes on International Trade and Transactions
+revenue_total_revenue_5500_6792824700005_taxes_on_international_trade_and_transactions,Revenue,total_revenue,2,2023,2023,2,3,الضرائب على التجارة والمعاملات الدولية | 5500.6792824700005 | Taxes on International Trade and Transactions
+revenue_total_revenue_6033_478346229999_taxes_on_international_trade_and_transactions,Revenue,total_revenue,3,2024,2024,3,3,الضرائب على التجارة والمعاملات الدولية | 6033.478346229999 | Taxes on International Trade and Transactions
+revenue_total_revenue_60419_0815843_taxes_on_goods_and_services,Revenue,total_revenue,2,2022,2022,2,2,الضرائب على السلع والخدمات | 60419.0815843 | Taxes on Goods and Services
+revenue_total_revenue_63086_93591_taxes_on_goods_and_services,Revenue,total_revenue,2,2023,2023,2,3,الضرائب على السلع والخدمات | 63086.93591 | Taxes on Goods and Services
+revenue_total_revenue_64220_taxes_on_goods_and_services,Revenue,total_revenue,3,2022,2022,3,3,الضرائب على السلع والخدمات | 64220 | Taxes on Goods and Services
+revenue_total_revenue_6544_7607403_taxes_on_income_profit_and_capital_gains,Revenue,total_revenue,3,2024,2024,3,3,"الضرائب على الدخل والأرباح والمكاسب الرأسمالية | 6544.7607403 | Taxes on Income, Profit and Capital Gains"
+revenue_total_revenue_66129_92651132001_taxes_on_goods_and_services,Revenue,total_revenue,4,2023,2023,4,5,الضرائب على السلع والخدمات | 66129.92651132001 | Taxes on Goods and Services
+revenue_total_revenue_69902_97036892_taxes_on_goods_and_services,Revenue,total_revenue,3,2024,2024,3,3,الضرائب على السلع والخدمات | 69902.97036892 | Taxes on Goods and Services
+revenue_total_revenue_7188_2436034600005_taxes_on_income_profit_and_capital_gains,Revenue,total_revenue,2,2023,2023,2,3,"الضرائب على الدخل والأرباح والمكاسب الرأسمالية | 7188.2436034600005 | Taxes on Income, Profit and Capital Gains"
+revenue_total_revenue_generic,Revenue,total_revenue,11,2022,2024,4,11,2022 || 2023 || 2024
+revenue_total_revenue_other_revenues,Revenue,total_revenue,14,2022,2024,5,23,الإيرادات الأخرى | Other Revenues
+revenue_total_revenue_other_taxes,Revenue,total_revenue,14,2022,2024,5,23,ضرائب أخرى | Other Taxes || الضرائب أخرى | Other Taxes
+revenue_total_revenue_revenues,Revenue,total_revenue,15,2021,2024,5,26,إجمالي الإيرادات | Total Revenues || الإيرادات* | Revenues* || إجمالي الإيرادات | Total Revenues || الإيرادات* | Revenues*
+revenue_total_revenue_taxes_on_goods_and_services,Revenue,total_revenue,14,2022,2024,5,23,الضرائب على السلع والخدمات | Taxes on Goods and Services
+revenue_total_revenue_taxes_on_income_profit_and_capital_gains,Revenue,total_revenue,14,2022,2024,5,23,"الضرائب على الدخل والأرباح والمكاسب الرأسمالية | Taxes on Income, Profit and Capital Gains"
+revenue_total_revenue_taxes_on_international_trade_and_transactions,Revenue,total_revenue,14,2022,2024,5,23,الضرائب على التجارة والمعاملات الدولية | Taxes on International Trade and Transactions
+revenue_total_revenue_unknown,Revenue,total_revenue,14,2022,2024,5,23,الإجمالـــــــــــي | Total || الإجمالـــــــــــي | Total || الإجمالي | Total || الإجمالي || الإجمالـــــــــــي | Total || الإجمالي | Total
+revenue_total_revenue_unlabeled_row,Revenue,total_revenue,12,2022,2024,5,16,Unlabeled row
+surplus_deficit_surplus_deficit_current_account,Surplus/Deficit,surplus_deficit,2,2022,2023,1,2,من الحساب الجاري | Current Account
+surplus_deficit_surplus_deficit_financing,Surplus/Deficit,surplus_deficit,6,2022,2024,4,7,إجمالي التمويل | Total Financing
+surplus_deficit_surplus_deficit_financing_from_domestic_borrowing,Surplus/Deficit,surplus_deficit,2,2022,2023,1,2,تمويل من الدين الداخلي | Financing from Domestic Borrowing
+surplus_deficit_surplus_deficit_financing_from_external_borrowing,Surplus/Deficit,surplus_deficit,2,2022,2023,1,2,تمويل من الدين الخارجي | Financing from External Borrowing
+surplus_deficit_surplus_deficit_from_borrowing,Surplus/Deficit,surplus_deficit,4,2024,2024,4,5,من الدين | from Borrowing
+surplus_deficit_surplus_deficit_government_reserves,Surplus/Deficit,surplus_deficit,5,2022,2024,3,5,من الاحتياطيات الحكومية | Government Reserves
+surplus_deficit_surplus_deficit_surplus_deficit,Surplus/Deficit,surplus_deficit,15,2021,2024,5,24,(الفائض/ (العجز | Surplus/(Deficit) || فائض/(عجز) الفترة | Surplus/(Deficit) || (الفائض/ (العجز | Surplus/(Deficit) || فائض/(عجز) الفترة | Surplus/(Deficit)
+surplus_deficit_surplus_deficit_unlabeled_row,Surplus/Deficit,surplus_deficit,4,2022,2022,4,4,Unlabeled row

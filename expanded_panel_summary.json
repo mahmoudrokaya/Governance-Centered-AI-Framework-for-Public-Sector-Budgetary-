@@ -1,0 +1,57 @@
+{
+  "run_time": "2026-06-14T08:15:48",
+  "input_file": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\03B_repair_periods_and_feature_mapping\\repaired_cleaned_long_dataset.csv",
+  "results_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04B_dataset_expansion_and_panel_construction",
+  "input_repaired_long_records": 2580,
+  "prepared_long_records": 2580,
+  "expanded_panel_observations": 803,
+  "feature_matrix_rows": 803,
+  "feature_matrix_columns": 43,
+  "numeric_feature_columns": 36,
+  "years_retained": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "periods_retained": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "End-Year/Annual"
+  ],
+  "unique_year_periods": 16,
+  "unique_panel_entities": 140,
+  "categories_retained": [
+    "Debt",
+    "Expenditure",
+    "Non-oil revenue",
+    "Oil revenue",
+    "Other",
+    "Revenue",
+    "Surplus/Deficit"
+  ],
+  "indicators_retained": [
+    "domestic_debt",
+    "external_debt",
+    "non_oil_revenue",
+    "oil_revenue",
+    "other",
+    "public_debt",
+    "surplus_deficit",
+    "total_expenditure",
+    "total_revenue"
+  ],
+  "observation_unit": "year × period × panel_entity",
+  "outputs": {
+    "expanded_panel_dataset": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04B_dataset_expansion_and_panel_construction\\expanded_panel_dataset.csv",
+    "expanded_panel_feature_matrix": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04B_dataset_expansion_and_panel_construction\\expanded_panel_feature_matrix.csv",
+    "expanded_panel_feature_dictionary": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04B_dataset_expansion_and_panel_construction\\expanded_panel_feature_dictionary.csv",
+    "expanded_panel_entity_dictionary": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04B_dataset_expansion_and_panel_construction\\expanded_panel_entity_dictionary.csv",
+    "expanded_panel_quality_report": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04B_dataset_expansion_and_panel_construction\\expanded_panel_quality_report.csv",
+    "expanded_panel_coverage_by_year_period": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04B_dataset_expansion_and_panel_construction\\expanded_panel_coverage_by_year_period.csv",
+    "expanded_panel_coverage_by_entity": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04B_dataset_expansion_and_panel_construction\\expanded_panel_coverage_by_entity.csv",
+    "expanded_panel_report": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\04B_dataset_expansion_and_panel_construction\\expanded_panel_report.txt"
+  }
+}
