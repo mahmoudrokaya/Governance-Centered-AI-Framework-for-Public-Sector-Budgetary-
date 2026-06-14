@@ -1,0 +1,40 @@
+DATA INVENTORY AND AUDIT REPORT
+================================================================================
+Audit time: 2026-06-14T06:44:47
+Data directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Data
+Results directory: E:\47\471\New Papers\Transforming AI-Driven Solutions\Codes\Results\01_data_inventory_and_audit
+
+1. File coverage
+--------------------------------------------------------------------------------
+Total supported files: 96
+Excel/CSV files: 16
+PDF files: 80
+Years detected: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
+Periods detected: ['End-Year/Annual', 'Q1', 'Q2', 'Q3', 'Q4']
+
+2. Tabular data coverage
+--------------------------------------------------------------------------------
+Tabular sheets/CSVs detected: 150
+Total non-empty rows across sheets: 2662
+Total numeric-like columns across sheets: 239
+Unique numeric variable count: 5
+
+3. Machine-learning sufficiency assessment
+--------------------------------------------------------------------------------
+Assessment: potentially_usable_after_cleaning
+Recommended next design: Proceed to construct a unified long-format dataset, define labels/thresholds, and then evaluate baseline/statistical/AI/proposed methods using a reproducible split.
+
+4. Reviewer-facing implications
+--------------------------------------------------------------------------------
+ai_model_specification: Current audit does not prove that a supervised AI model is justified. A later script must define the target variable, input variables, labels, algorithm, hyperparameters, and output-generation process.
+metric_definition: Governance metrics must be formula-based or evaluator-rubric-based. The audit only identifies available variables; it does not justify scores such as 4.6/5.
+validation_protocol: Validation must match the actual number of independent observations. If only quarterly records exist, k-fold supervised validation is not defensible.
+statistical_evidence: Later scripts must produce uncertainty estimates, sensitivity analysis, and confidence intervals where statistically meaningful.
+
+5. Next scripts recommended
+--------------------------------------------------------------------------------
+02_extract_and_standardize_mof_tables.py
+03_build_long_format_budget_dataset.py
+04_define_governance_metrics_and_labels.py
+05_baseline_and_ai_model_experiments.py
+06_validation_uncertainty_and_sensitivity.py

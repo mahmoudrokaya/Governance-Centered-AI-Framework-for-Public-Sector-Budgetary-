@@ -1,0 +1,46 @@
+{
+  "audit_time": "2026-06-14T06:44:47",
+  "data_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Data",
+  "results_dir": "E:\\47\\471\\New Papers\\Transforming AI-Driven Solutions\\Codes\\Results\\01_data_inventory_and_audit",
+  "n_files": 96,
+  "n_excel_or_csv_files": 16,
+  "n_pdf_files": 80,
+  "years_detected": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "periods_detected": [
+    "End-Year/Annual",
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4"
+  ],
+  "n_tabular_sheets_or_csvs": 150,
+  "total_non_empty_rows_across_sheets": 2662,
+  "total_numeric_like_columns_across_sheets": 239,
+  "unique_numeric_variable_count": 5,
+  "unique_numeric_variables": [
+    "Unnamed: 1",
+    "Unnamed: 2",
+    "Unnamed: 3",
+    "Unnamed: 4",
+    "Unnamed: 5"
+  ],
+  "machine_learning_sufficiency": "potentially_usable_after_cleaning",
+  "recommended_next_design": "Proceed to construct a unified long-format dataset, define labels/thresholds, and then evaluate baseline/statistical/AI/proposed methods using a reproducible split.",
+  "reviewer_implications": {
+    "ai_model_specification": "Current audit does not prove that a supervised AI model is justified. A later script must define the target variable, input variables, labels, algorithm, hyperparameters, and output-generation process.",
+    "metric_definition": "Governance metrics must be formula-based or evaluator-rubric-based. The audit only identifies available variables; it does not justify scores such as 4.6/5.",
+    "validation_protocol": "Validation must match the actual number of independent observations. If only quarterly records exist, k-fold supervised validation is not defensible.",
+    "statistical_evidence": "Later scripts must produce uncertainty estimates, sensitivity analysis, and confidence intervals where statistically meaningful."
+  }
+}

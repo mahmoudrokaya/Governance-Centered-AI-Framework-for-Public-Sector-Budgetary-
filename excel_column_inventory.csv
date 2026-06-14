@@ -1,0 +1,911 @@
+﻿file_name,sheet_name,year_guess,period_guess,column_name,non_null_count,unique_count,numeric_like,example_values
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,T.CONTENT,2022,,Unnamed: 0,9,9,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1444/1443هـ (2022م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+للربع الأول من السنة المالية 1444/1443هـ (2022م) | الإيرادات"
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,T.CONTENT,2022,,Unnamed: 1,9,9,False,"Subject | INTRODUCTION | The Government Budget 
+For FY 2022 | Summary of Q1 Performance | Revenues"
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,INTRODUCTION,2022,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,INTRODUCTION,2022,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,INTRODUCTION,2022,,Unnamed: 15,1,1,False,INTRODUCTION
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,GOV.BUD,2022,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1443/1444هـ (2022م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,GOV.BUD,2022,,Unnamed: 1,5,5,True,"FY 2021 
+Budget | ميزانية
+السنة المالية 1443/1442هـ
+(2021م) | 849064 | 990000 | -140936"
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,GOV.BUD,2022,,Unnamed: 2,5,5,True,"FY 2021 
+Actual | النتائج الفعلية لميزانية
+السنة المالية 1443/1442هـ
+(2021م) | 965486 | 1038933 | -73447"
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,GOV.BUD,2022,,Unnamed: 3,5,5,True,"FY 2022 
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,GOV.BUD,2022,,Unnamed: 4,6,6,False,The Government Budget for FY 2022 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Summary,2022,,Unnamed: 0,4,4,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الأول من السنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | أداء الميزانية العامة للدولة للربع الأول من السنة المالية الحالية 1443/ 1444هـ (2022م) 
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Summary,2022,,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2022 Q1 (1443/1444 H)
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Summary,2022,,Unnamed: 16,3,3,False,Summary of Q1 Performance | Actual performance in Q1 of FY 2022 |  (SAR Million)
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Revenues,2022,,Unnamed: 0,26,18,False,الإيرادات | الإيرادات الفعلية للربع الأول من السنة المالية 1443/ 1444هـ (2022م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Revenues,2022,,Unnamed: 1,20,20,True,Q1 | 2022م | 183698.755811325 | 4112.05065303 | 60419.0815843
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Revenues,2022,,Unnamed: 2,10,10,True,Q1 | 2022 | 183698.755811325 | 4112.05065303 | 60419.0815843
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Revenues,2022,,Unnamed: 3,22,22,False,Revenues | Actual revenues in Q1 of FY 2022 |  (SAR Million) | Revenues* | Oil Revenues
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Revenues,2022,,Unnamed: 4,13,13,False,"Actual revenues in Q1 of FY 2022 Vs. Q1 of FY 2021 |  (SAR Million) | Revenues* | Oil Revenues | Taxes on Income, Profit and Capital Gains"
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Expenditures,2022,,Unnamed: 0,42,36,False,المصروفات | المصروفات الفعلية للربع الأول من السنة المالية 1443/ 1444هـ (2022م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Expenditures,2022,,Unnamed: 1,34,34,True,Q1 | 2022م | 125172.7199214375 | 31810.0187067225 | 6605.563523270001
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Expenditures,2022,,Unnamed: 2,23,23,True,Q1 | 2022 | 125172.7199214375 | 31810.0187067225 | 6605.563523270001
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Expenditures,2022,,Unnamed: 3,36,36,False,Expenditures | Actual expenditures in Q1 of FY 2022 |  (SAR Million) | Expenditures* | Compensation of Employees
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Expenditures,2022,,Unnamed: 4,24,24,False,Actual expenditures in Q1 of FY 2022 Vs. Q1 of FY 2021 |  (SAR Million) | Expenditures* | Compensation of Employees | Use of Goods and Services
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Expenditures,2022,,Unnamed: 5,12,12,True,نسبة التغير للمنصرف الفعلي حتى الربع الحالي مقارنة بالفترة المماثلة من العام السابق | Change  % | 0.09796835467071996 | -0.02041339218748961 | 0.05602936058491026
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Expenditures,2022,,Unnamed: 6,16,16,False,Expenditures | Actual expenditures in Q1 of FY 2022 Vs. Q1 of FY 2021 |  (SAR Million) | Sector | Public Administration
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Deficit,2022,,Unnamed: 0,12,12,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل للربع الأول للسنة المالية 1443 / 1444هـ  (2022م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Deficit,2022,,Unnamed: 1,7,3,True,Q1 2022 | 57491 | 0 | 0 | 0
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Deficit,2022,,Unnamed: 2,12,12,False,Financing | Budget Financing in Q1 of FY 2022 |  (SAR Million) | Item | Surplus/(Deficit)
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Debt,2022,,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام للربع الأول للسنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الأول من السنة المالية الحالية 1443/ 1444هـ (2022م) 
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Debt,2022,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Debt,2022,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 938010 | 558747 | 52629
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Debt,2022,,Unnamed: 3,7,4,True,الدين الخارجي | External Debt | 379263 | 0 | 0
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Debt,2022,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Debt,2022,,Unnamed: 5,5,4,False,Public Debt | Public debt in Q1 of FY 2022 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2022 Q1 (1443/1444 H)
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Appendix,2022,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Appendix,2022,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Appendix,2022,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2022__8d5715b81d__Quarterly_Budget_Performance_Report_Q1_2021.xlsx,Appendix,2022,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,T.CONTENT,2022,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1444/1443هـ (2022م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+حتى الربع الثالث من السنة المالية 1444/1443هـ (2022م) | الإيرادات"
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,T.CONTENT,2022,,Unnamed: 1,10,10,False,"Subject | Introduction | The Government Budget 
+For FY 2022 | Summary of Until Q3 Performance | Revenues"
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,INTRODUCTION,2022,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,INTRODUCTION,2022,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,INTRODUCTION,2022,,Unnamed: 15,1,1,False,INTRODUCTION
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,GOV.BUD,2022,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1444/1443هـ (2022م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,GOV.BUD,2022,,Unnamed: 1,5,5,True,"FY 2021 
+Budget | ميزانية
+السنة المالية 1443/1442هـ
+(2021م) | 849064 | 990000 | -140936"
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,GOV.BUD,2022,,Unnamed: 2,5,5,True,"FY 2021 
+Actual | النتائج الفعلية لميزانية
+السنة المالية 1443/1442هـ
+(2021م) | 965486 | 1038933 | -73447"
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,GOV.BUD,2022,,Unnamed: 3,5,5,True,"FY 2022 
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,GOV.BUD,2022,,Unnamed: 4,6,6,False,The Government Budget for FY 2022 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Summary,2022,,Unnamed: 0,6,5,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الثالث من السنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | النتائج الفعلية لأداء الميزانية حتى الربع الثالث من السنة المالية 1444/1443هـ (2022م) | (مليون ريال)
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Summary,2022,,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2022 Q3 (1443/1444 H)
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Summary,2022,,Unnamed: 16,6,4,False,Summary of Q3 Performance | Actual performance in Q3 of FY 2022 |  (SAR Million) | Summary of Q3 Performance | Actual performance Until Q3 of FY 2022
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Revenues,2022,,Unnamed: 0,38,19,False,الإيرادات | الإيرادات الفعلية حتى الربع الثالث من السنة المالية 1443/ 1444هـ (2022م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Revenues,2022,,Unnamed: 1,30,27,True,الإجمالي | Total | 663087 | 17663 | 169495
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Revenues,2022,,Unnamed: 2,30,19,True,Q3 | 2022 | 229023 | 3316 | 44855
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Revenues,2022,,Unnamed: 3,30,29,True,Q2 | 2022 | 250364 | 10235 | 64220
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Revenues,2022,,Unnamed: 4,34,24,False,Q1 | 2022 | 183698.755811325 | 4112.05065303 | 60419.0815843
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Revenues,2022,,Unnamed: 6,12,12,False,Revenues | Actual revenues Until Q3 of FY 2022 |  (SAR Million) | Revenues* | Oil Revenues
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Expenditures,2022,,Unnamed: 0,55,37,False,المصروفات | المصروفات الفعلية حتى الربع الثالث من السنة المالية 1443/ 1444هـ (2022م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Expenditures,2022,,Unnamed: 1,44,42,True,Total | 377927.25424770743 | 150624.83212607252 | 22287.764833060002 | 19187.0944772
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Expenditures,2022,,Unnamed: 2,45,33,True,Q3 | 2022 | 126838.89001903994 | 53475.211528447515 | 8090.774065320002
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Expenditures,2022,,Unnamed: 3,45,44,True,Q2 | 2022 | 125915.64 | 65339.6 | 7591.4
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Expenditures,2022,,Unnamed: 4,47,36,False,Q1 | 2022 | 125172.7 | 31810 | 6606
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Expenditures,2022,,Unnamed: 5,25,25,False,Expenditures | Actual expenditures Until Q3 of FY 2022 |  (SAR Million) | Expenditures* | Compensation of Employees
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Expenditures,2022,,Unnamed: 6,15,15,False,Actual expenditures Until Q3 of FY 2021 Vs. Q3 of FY 2022 |  (SAR Million) | Sector | Public Administration | Military 
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Financing,2022,,Unnamed: 0,12,12,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل حتى الربع الثالث من السنة المالية 1443 / 1444هـ  (2022م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Financing,2022,,Unnamed: 1,8,4,True,الإجمالي | Total | 149541 | 0 | 0
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Financing,2022,,Unnamed: 2,7,3,True,Q3 2022 | 14143 | 0 | 0 | 0
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Financing,2022,,Unnamed: 3,7,3,True,Q2 2022 | 77907 | 0 | 0 | 0
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Financing,2022,,Unnamed: 4,7,3,True,Q1 2022 | 57491 | 0 | 0 | 0
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Financing,2022,,Unnamed: 5,12,12,False,Financing | Budget Financing Until Q3 of FY 2022 |  (SAR Million) | Item | Surplus/(Deficit)
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Gov.Reserve,2022,,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى نهاية للربع الثالث من السنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Gov.Reserve,2022,,Unnamed: 1,2,2,True,317963.70569533 | 189554.668187225
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Gov.Reserve,2022,,Unnamed: 2,6,5,False,Government Reserve and Current Account  | Until Q3 of FY 2022 |  (SAR Million) | End of Period Balance | End of Period Balance
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Debt,2022,,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام حتى نهاية الربع الثالث للسنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الثالث من السنة المالية الحالية 1443/ 1444هـ (2022م) 
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Debt,2022,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Debt,2022,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 938010 | 558747 | 93228
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Debt,2022,,Unnamed: 3,7,6,True,الدين الخارجي | External Debt | 379263 | 0 | 17502
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Debt,2022,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Debt,2022,,Unnamed: 5,5,4,False,Public Debt | Public debt Until Q3 of FY 2022 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2022 Q3 (1443/1444 H)
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Appendix,2022,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Appendix,2022,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Appendix,2022,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2022__9395abcacb__Quarterly_Budget_Performance_Report_Q3_2022.xlsx,Appendix,2022,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,T.CONTENT,2022,End-Year/Annual,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1444/1443هـ (2022م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+للنصف الأول من السنة المالية 1444/1443هـ (2022م) | الإيرادات"
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,T.CONTENT,2022,End-Year/Annual,Unnamed: 1,10,10,False,"Subject | Introduction | The Government Budget 
+For FY 2022 | Summary of H1 Performance | Revenues"
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,INTRODUCTION,2022,End-Year/Annual,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,INTRODUCTION,2022,End-Year/Annual,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,INTRODUCTION,2022,End-Year/Annual,Unnamed: 15,1,1,False,INTRODUCTION
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,GOV.BUD,2022,End-Year/Annual,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1444/1443هـ (2022م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,GOV.BUD,2022,End-Year/Annual,Unnamed: 1,5,5,True,"FY 2021 
+Budget | ميزانية
+السنة المالية 1443/1442هـ
+(2021م) | 849064 | 990000 | -140936"
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,GOV.BUD,2022,End-Year/Annual,Unnamed: 2,5,5,True,"FY 2021 
+Actual | النتائج الفعلية لميزانية
+السنة المالية 1443/1442هـ
+(2021م) | 965486 | 1038933 | -73447"
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,GOV.BUD,2022,End-Year/Annual,Unnamed: 3,5,5,True,"FY 2022 
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,GOV.BUD,2022,End-Year/Annual,Unnamed: 4,6,6,False,The Government Budget for FY 2022 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Summary,2022,End-Year/Annual,Unnamed: 0,6,5,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الثاني من السنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | النتائج الفعلية لأداء الميزانية للنصف الأول من السنة المالية 1444/1443هـ (2022م) | (مليون ريال)
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Summary,2022,End-Year/Annual,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2022 Q2 (1443/1444 H)
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Summary,2022,End-Year/Annual,Unnamed: 16,6,5,False,Summary of Q2 Performance | Actual performance in Q2 of FY 2022 |  (SAR Million) | Summary of H1 Performance | Actual performance in H1 of FY 2022
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Revenues,2022,End-Year/Annual,Unnamed: 0,38,19,False,الإيرادات | الإيرادات الفعلية للنصف الأول من السنة المالية 1443/ 1444هـ (2022م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Revenues,2022,End-Year/Annual,Unnamed: 1,20,15,True,Change  | % | 0.89 | 0.42 | -0.06
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Revenues,2022,End-Year/Annual,Unnamed: 2,30,21,True,الإجمالي | Total | 434063 | 14347 | 124639
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Revenues,2022,End-Year/Annual,Unnamed: 3,30,28,True,Q2 | 2022 | 250364 | 10235 | 64220
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Revenues,2022,End-Year/Annual,Unnamed: 4,34,24,False,Q1 | 2022 | 183698.755811325 | 4112.05065303 | 60419.0815843
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Revenues,2022,End-Year/Annual,Unnamed: 6,12,12,False,Revenues | Actual revenues in H1 of FY 2022 |  (SAR Million) | Revenues* | Oil Revenues
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Expenditures,2022,End-Year/Annual,Unnamed: 0,55,37,False,المصروفات | المصروفات الفعلية للنصف الأول من السنة المالية 1443/ 1444هـ (2022م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Expenditures,2022,End-Year/Annual,Unnamed: 1,44,42,True,Total | 251088.34 | 97149.6 | 14197.4 | 11570
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Expenditures,2022,End-Year/Annual,Unnamed: 2,45,33,True,Q2 | 2022 | 125915.64 | 65339.6 | 7591.4
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Expenditures,2022,End-Year/Annual,Unnamed: 3,45,44,True,Q1 | 2022 | 125172.7 | 31810 | 6606
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Expenditures,2022,End-Year/Annual,Unnamed: 4,49,27,False,Expenditures | Actual expenditures in H1 of FY 2022 |  (SAR Million) | Expenditures* | Compensation of Employees
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Expenditures,2022,End-Year/Annual,Unnamed: 5,12,12,True,نسبة التغير للمنصرف الفعلي للنصف الحالي مقارنة بالفترة المماثلة من العام السابق | Change  % | 0.18918912813500044 | 0.11943188933106308 | 0.08561404123550798
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Expenditures,2022,End-Year/Annual,Unnamed: 6,15,15,False,Actual expenditures in H1 of FY 2021 Vs. H1 of FY 2022 |  (SAR Million) | Sector | Public Administration | Military 
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Financing,2022,End-Year/Annual,Unnamed: 0,12,12,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل للنصف الأول من السنة المالية 1443 / 1444هـ  (2022م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Financing,2022,End-Year/Annual,Unnamed: 1,8,4,True,الإجمالي | Total | 135399 | 0 | 0
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Financing,2022,End-Year/Annual,Unnamed: 2,7,3,True,Q2 2022 | 77907 | 0 | 0 | 0
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Financing,2022,End-Year/Annual,Unnamed: 3,7,3,True,Q1 2022 | 57491 | 0 | 0 | 0
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Financing,2022,End-Year/Annual,Unnamed: 4,12,12,False,Financing | Budget Financing in H1 of FY 2022 |  (SAR Million) | Item | Surplus/(Deficit)
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Gov.Reserve,2022,End-Year/Annual,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى نهاية النصف الأول من السنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Gov.Reserve,2022,End-Year/Annual,Unnamed: 1,2,2,True,318651.22371910996 | 131451.03429999994
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Gov.Reserve,2022,End-Year/Annual,Unnamed: 2,6,5,False,Government Reserve and Current Account  | H1 of FY 2022 |  (SAR Million) | End of Period Balance | End of Period Balance
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Debt,2022,End-Year/Annual,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام حتى نهاية النصف الأول للسنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الثاني من السنة المالية الحالية 1443/ 1444هـ (2022م) 
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Debt,2022,End-Year/Annual,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Debt,2022,End-Year/Annual,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 938010 | 558747 | 83008
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Debt,2022,End-Year/Annual,Unnamed: 3,7,6,True,الدين الخارجي | External Debt | 379263 | 0 | 17502
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Debt,2022,End-Year/Annual,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Debt,2022,End-Year/Annual,Unnamed: 5,5,4,False,Public Debt | Public debt in H1 of FY 2022 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2022 Q2 (1443/1444 H)
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Appendix,2022,End-Year/Annual,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Appendix,2022,End-Year/Annual,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Appendix,2022,End-Year/Annual,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2022__End-Year_Annual__09d150a7c6__Quarterly_Budget__Performance_Report_Q2_2022_final.xlsx,Appendix,2022,End-Year/Annual,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,T.CONTENT,2022,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1444/1443هـ (2022م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+حتى الربع الرابع من السنة المالية 1444/1443هـ (2022م) | الإيرادات"
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,T.CONTENT,2022,,Unnamed: 1,10,10,False,"Subject | Introduction | The Government Budget 
+For FY 2022 | Summary of Until Q4 Performance | Revenues"
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,INTRODUCTION,2022,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,INTRODUCTION,2022,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,INTRODUCTION,2022,,Unnamed: 15,1,1,False,INTRODUCTION
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,GOV.BUD,2022,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1444/1443هـ (2022م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,GOV.BUD,2022,,Unnamed: 1,5,5,True,"FY 2021 
+Budget | ميزانية
+السنة المالية 1443/1442هـ
+(2021م) | 849064 | 990000 | -140936"
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,GOV.BUD,2022,,Unnamed: 2,5,5,True,"FY 2021 
+Actual | النتائج الفعلية لميزانية
+السنة المالية 1443/1442هـ
+(2021م) | 965486 | 1038933 | -73447"
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,GOV.BUD,2022,,Unnamed: 3,5,5,True,"FY 2022 
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,GOV.BUD,2022,,Unnamed: 4,6,6,False,The Government Budget for FY 2022 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Summary,2022,,Unnamed: 0,6,5,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الرابع من السنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | النتائج الفعلية لأداء الميزانية حتى الربع الرابع من السنة المالية 1444/1443هـ (2022م) | (مليون ريال)
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Summary,2022,,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2022 Q4 (1443/1444 H)
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Summary,2022,,Unnamed: 16,6,4,False,Summary of Q4 Performance | Actual performance in Q4 of FY 2022 |  (SAR Million) | Summary of Q4 Performance | Actual performance Until Q4 of FY 2022
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Revenues,2022,,Unnamed: 0,38,19,False,الإيرادات | الإيرادات الفعلية حتى الربع الرابع من السنة المالية 1443/ 1444هـ (2022م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Revenues,2022,,Unnamed: 1,30,28,True,الإجمالي | Total | 857271.755811325 | 24480.65065303 | 251455.0815843
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Revenues,2022,,Unnamed: 2,30,21,True,Q4 | 2022 | 194186 | 6817.2 | 81961
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Revenues,2022,,Unnamed: 3,30,29,True,Q3 | 2022 | 229023 | 3316.1 | 44855
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Revenues,2022,,Unnamed: 4,34,24,False,Q2 | 2022 | 250364 | 10235.3 | 64220
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Revenues,2022,,Unnamed: 5,10,10,True,Q1 | 2022 | 183698.755811325 | 4112.05065303 | 60419.0815843
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Revenues,2022,,Unnamed: 6,12,12,False,Revenues | Actual Revenues Until Q4 of FY 2022 |  (SAR Million) | Revenues* | Oil Revenues
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Expenditures,2022,,Unnamed: 0,55,37,False,المصروفات | المصروفات الفعلية حتى الربع الرابع من السنة المالية 1443/ 1444هـ (2022م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Expenditures,2022,,Unnamed: 1,44,42,True,Total | 513224 | 258105 | 30314 | 29648
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Expenditures,2022,,Unnamed: 2,45,32,True,Q4 | 2022 | 135297 | 107480 | 8027
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Expenditures,2022,,Unnamed: 3,45,44,True,Q3 | 2022 | 126838.89001903994 | 53475.211528447515 | 8090.774065320002
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Expenditures,2022,,Unnamed: 4,47,36,False,Q2 | 2022 | 125915.64 | 65339.6 | 7591.4
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Expenditures,2022,,Unnamed: 5,23,22,True,Q1 | 2022 | 125172.7 | 31810 | 6606
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Expenditures,2022,,Unnamed: 6,28,26,False,Expenditures | Actual Expenditures Until Q4 of FY 2022 |  (SAR Million) | Expenditures* | Compensation of Employees
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Surplus - (Deficit),2022,,Unnamed: 0,6,6,False,الفائض/(العجز) | نتائج الفائض/(العجز) حتى الربع الرابع من السنة المالية 1443 / 1444هـ  (2022م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Surplus - (Deficit),2022,,Unnamed: 1,3,3,False,الإجمالي | Total | 103855
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Surplus - (Deficit),2022,,Unnamed: 2,2,2,False,Q4 2022 | -45686
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Surplus - (Deficit),2022,,Unnamed: 3,2,2,False,Q3 2022 | 14143
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Surplus - (Deficit),2022,,Unnamed: 4,2,2,False,Q2 2022 | 77907
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Surplus - (Deficit),2022,,Unnamed: 5,2,2,False,Q1 2022 | 57491
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Surplus - (Deficit),2022,,Unnamed: 6,6,5,False,Surplus/(Deficit) | Surplus/(Deficit) Until Q4 of FY 2022 |  (SAR Million) | Item | Surplus/(Deficit)
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Gov.Reserve,2022,,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | للسنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Gov.Reserve,2022,,Unnamed: 1,2,2,True,318364.0 | 144711.0
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Gov.Reserve,2022,,Unnamed: 2,6,5,False,Government Reserve and Current Account  | For FY 2022 |  (SAR Million) | End of Period Balance | End of Period Balance
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Debt,2022,,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام حتى نهاية الربع الرابع للسنة المالية 1443/ 1444هـ (2022م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الرابع من السنة المالية الحالية 1443/ 1444هـ (2022م) 
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Debt,2022,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Debt,2022,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 938010 | 558747 | 106650
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Debt,2022,,Unnamed: 3,7,7,True,الدين الخارجي | External Debt | 379263 | 18750 | 22885
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Debt,2022,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Debt,2022,,Unnamed: 5,5,4,False,Public Debt | Public debt Until Q4 of FY 2022 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2022 Q4 (1443/1444 H)
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Appendix,2022,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Appendix,2022,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Appendix,2022,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2022__f8ab4c97b2__Quarterly_Budget_Performance_Report_Q4_2022.xlsx,Appendix,2022,,Unnamed: 3,16,16,False,"The Definition of Revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,T.CONTENT,2023,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1445/1444هـ (2023م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+للربع الأول من السنة المالية 1445/1444هـ (2023م) | الإيرادات"
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,T.CONTENT,2023,,Unnamed: 1,10,10,False,"Subject | INTRODUCTION | The Government Budget 
+For FY 2023 | Summary of Q1 Performance | Revenues"
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,INTRODUCTION,2023,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,INTRODUCTION,2023,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,INTRODUCTION,2023,,Unnamed: 15,1,1,False,INTRODUCTION
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,GOV.BUD,2023,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,GOV.BUD,2023,,Unnamed: 1,5,5,True,"FY 2022
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,GOV.BUD,2023,,Unnamed: 2,5,5,True,"FY 2022
+Actual | النتائج الفعلية لميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1268163.723454302 | 1164308.8432161123 | 103854.8802381896"
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,GOV.BUD,2023,,Unnamed: 3,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000.0000000002 | 15999.999999999767"
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,GOV.BUD,2023,,Unnamed: 4,6,6,False,The Government Budget for FY 2023 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Summary,2023,,Unnamed: 0,4,4,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الأول من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | أداء الميزانية العامة للدولة للربع الأول من السنة المالية الحالية 1444/ 1445هـ (2023م)
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Summary,2023,,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2023 Q1 (1444/1445 H)
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Summary,2023,,Unnamed: 16,3,3,False,Summary of Q1 Performance | Actual performance in Q1 of FY 2023 |  (SAR Million)
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Revenues,2023,,Unnamed: 0,26,18,False,الإيرادات | الإيرادات الفعلية للربع الأول من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Revenues,2023,,Unnamed: 1,20,20,True,Q1 | 2023م | 178605.46071 | 7188.2436034600005 | 63086.93591
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Revenues,2023,,Unnamed: 2,10,10,True,Q1 | 2023 | 178605.46071 | 7188.2436034600005 | 63086.93591
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Revenues,2023,,Unnamed: 3,22,22,False,Revenues | Actual revenues in Q1 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Revenues,2023,,Unnamed: 4,13,13,False,"Actual revenues in Q1 of FY 2022 Vs. Q1 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues | Taxes on Income, Profit and Capital Gains"
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 0,42,36,False,المصروفات | المصروفات الفعلية للربع الأول من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 1,34,34,True,Q1 | 2023م | 134066.47103604002 | 54102.3365797025 | 9927.62927257
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 2,23,23,True,Q1 | 2023 | 134066.47103604002 | 54102.3365797025 | 9927.62927257
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 3,36,36,False,Expenditures | Actual expenditures in Q1 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 4,24,24,False,Actual expenditures in Q1 of FY 2022 Vs. Q1 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees | Use of Goods and Services
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 5,12,12,True,نسبة التغير للمنصرف الفعلي حتى الربع الحالي مقارنة بالفترة المماثلة من العام السابق | Change  % | 0.5255928360105564 | 0.3800746927430976 | 0.14998493859760686
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 6,16,16,False,Expenditures | Actual expenditures in Q1 of FY 2022 Vs. Q1 of FY 2023 |  (SAR Million) | Sector | Public Administration
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Surplus - (Deficit),2023,,Unnamed: 0,12,12,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل للربع الأول للسنة المالية 1444 / 1445هـ  (2023م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Surplus - (Deficit),2023,,Unnamed: 1,7,4,True,Q1 2023 | -2910.375343265536 | 0 | 0 | 0
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Surplus - (Deficit),2023,,Unnamed: 2,12,12,False,Financing | Budget Financing in Q1 of FY 2023 |  (SAR Million) | Item | Surplus/(Deficit)
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Gov.Reserve,2023,,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | للربع الأول من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Gov.Reserve,2023,,Unnamed: 1,2,2,True,415050.07257003 | 35388.82352787748
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Gov.Reserve,2023,,Unnamed: 2,6,5,False,Government Reserve and Current Account  |  in Q1 of FY 2023 |  (SAR Million) | End of Period Balance | End of Period Balance
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام للربع الأول للسنة المالية   1444/ 1445هـ (2023م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الأول من السنة المالية الحالية   1444/ 1445هـ (2023م) 
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 990084 | 614956 | 12412.26855091
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 3,7,7,True,الدين الخارجي | External Debt | 375128 | 37500 | 68878
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 5,5,4,False,Public Debt | Public debt in Q1 of FY 2023 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2023 Q1 (1444 / 1445 H)
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Appendix,2023,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Appendix,2023,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Appendix,2023,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2023__2447c0413f__Quarterly_Budget_Performance_Report_Q1_2023.xlsx,Appendix,2023,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,T.CONTENT,2023,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1445/1444هـ (2023م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+للنصف الأول من السنة المالية 1445/1444هـ (2023م) | الإيرادات"
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,T.CONTENT,2023,,Unnamed: 1,10,10,False,"Subject | Introduction | The Government Budget 
+For FY 2023 | Summary of H1 Performance | Revenues"
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,INTRODUCTION,2023,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام، بالاضافة إلى رصيد الاحتياطي العام للدولة والحساب الجاري. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,INTRODUCTION,2023,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt, In addition to government reserve and current account. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,INTRODUCTION,2023,,Unnamed: 15,1,1,False,INTRODUCTION
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,GOV.BUD,2023,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1445/1444هـ (2023م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,GOV.BUD,2023,,Unnamed: 1,5,5,True,"FY 2022
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,GOV.BUD,2023,,Unnamed: 2,5,5,True,"FY 2022
+Actual | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1268163.723454302 | 1164308.8432161123 | 103854.8802381896"
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,GOV.BUD,2023,,Unnamed: 3,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000.0000000002 | 15999.999999999767"
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,GOV.BUD,2023,,Unnamed: 4,6,6,False,The Government Budget for FY 2023 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Summary,2023,,Unnamed: 0,6,5,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الثاني من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | النتائج الفعلية لأداء الميزانية للنصف الأول من السنة المالية 1445/1444هـ (2023م) | (مليون ريال)
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Summary,2023,,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2023 Q2 (1444/1445 H)
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Summary,2023,,Unnamed: 16,6,5,False,Summary of Q2 Performance | Actual performance in Q2 of FY 2023 |  (SAR Million) | Summary of H1 Performance | Actual performance in H1 of FY 2023
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 0,38,19,False,الإيرادات | الإيرادات الفعلية للنصف الأول من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 1,20,18,True,Change  | % | -0.28208632432783065 | 0.629739325703957 | 0.02974036922018075
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 2,30,22,True,الإجمالي | Total | 358345.200205987 | 23868.62560204 | 129216.86242132001
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 3,30,28,True,Q2 | 2023 | 179739.739495987 | 16680.38199858 | 66129.92651132001
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 4,34,24,False,Q1 | 2023 | 178605.46071 | 7188.2436034600005 | 63086.93591
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 6,12,12,False,Revenues | Actual revenues in H1 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 0,55,37,False,المصروفات | المصروفات الفعلية للنصف الأول من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 1,44,42,True,Total | 265947.26027357 | 116163.4493912025 | 18633.073100939997 | 13776.678323940001
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 2,45,32,True,Q2 | 2023 | 131880.78923753 | 62061.1128115 | 8705.443828369996
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 3,45,44,True,Q1 | 2023 | 134066.47103604002 | 54102.3365797025 | 9927.62927257
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 4,49,27,False,Expenditures | Actual expenditures in H1 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 5,12,12,True,نسبة التغير للمنصرف الفعلي للنصف الحالي مقارنة بالفترة المماثلة من العام السابق | Change  % | 0.22685470045320288 | 0.05830053720868977 | 0.09840670681263086
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 6,15,15,False,Actual expenditures in H1 of FY 2022 Vs. H1 of FY 2023 |  (SAR Million) | Sector | Public Administration | Military 
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Financing,2023,,Unnamed: 0,12,12,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل للنصف الأول من السنة المالية 1444 / 1445هـ  (2023م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Financing,2023,,Unnamed: 1,8,5,True,الإجمالي | Total | -8179.375343265536 | 0 | 0
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Financing,2023,,Unnamed: 2,7,4,True,Q2 2023 | -5269 | 0 | 0 | 0
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Financing,2023,,Unnamed: 3,7,4,True,Q1 2023 | -2910.375343265536 | 0 | 0 | 0
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Financing,2023,,Unnamed: 4,12,12,False,Financing | Budget Financing in H1 of FY 2023 |  (SAR Million) | Item | Surplus/(Deficit)
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Gov.Reserve,2023,,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى نهاية النصف الأول من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Gov.Reserve,2023,,Unnamed: 1,2,2,True,409840.62353698 | 52291.0
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Gov.Reserve,2023,,Unnamed: 2,6,5,False,Government Reserve and Current Account  | H1 of FY 2023 |  (SAR Million) | End of Period Balance | End of Period Balance
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام حتى نهاية النصف الأول للسنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الثاني من السنة المالية الحالية 1444/ 1445هـ (2023م) 
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 990084 | 614956 | 22597
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 3,7,7,True,الدين الخارجي | External Debt | 375128 | 60000 | 69505
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 5,5,4,False,Public Debt | Public debt in H1 of FY 2023 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2023 Q2 (1444/1445 H)
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Appendix,2023,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Appendix,2023,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Appendix,2023,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2023__82b22e496b__Quarterly_Budget__Performance_Report_Q2_2023.xlsx,Appendix,2023,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,T.CONTENT,2023,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1445/1444هـ (2023م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+حتى الربع الثالث من السنة المالية 1445/1444هـ (2023م) | الإيرادات"
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,T.CONTENT,2023,,Unnamed: 1,10,10,False,"Subject | Introduction | The Government Budget 
+For FY 2023 | Summary of Until Q3 Performance | Revenues"
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,INTRODUCTION,2023,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام، بالاضافة إلى رصيد الاحتياطي العام للدولة والحساب الجاري. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,INTRODUCTION,2023,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt, In addition to government reserve and current account. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,INTRODUCTION,2023,,Unnamed: 15,1,1,False,INTRODUCTION
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,GOV.BUD,2023,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1445/1444هـ (2023م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,GOV.BUD,2023,,Unnamed: 1,5,5,True,"FY 2022
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,GOV.BUD,2023,,Unnamed: 2,5,5,True,"FY 2022
+Actual | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1268163.723454302 | 1164308.8432161123 | 103854.8802381896"
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,GOV.BUD,2023,,Unnamed: 3,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000.0000000002 | 15999.999999999767"
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,GOV.BUD,2023,,Unnamed: 4,6,6,False,The Government Budget for FY 2023 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Summary,2023,,Unnamed: 0,10,8,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الثالث من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | النتائج الفعلية لأداء الميزانية حتى الربع الثالث من السنة المالية 1445/1444هـ (2023م) | (مليون ريال)
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Summary,2023,,Unnamed: 1,1,1,False,أداء الميزانية العامة للدولة للربع الثالث من السنة المالية الحالية 1444/ 1445هـ (2023م) 
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Summary,2023,,Unnamed: 12,2,2,False,Until Q3 of FY 2023 Vs. Q3 2022 |  (SAR Million)
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Summary,2023,,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2023 Q3 (1444/1445 H)
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Summary,2023,,Unnamed: 16,6,5,False,Summary of Q3 Performance | Actual performance in Q3 of FY 2023 |  (SAR Million) | Summary Until Q3 Performance | Actual performance Until Q3 of FY 2023
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Summary,2023,,Unnamed: 17,3,3,False,للربع الثالث من السنة المالية 2023م  | مقارنة بالفترة المماثلة من العام السابق | (مليون ريال)
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Summary,2023,,Unnamed: 31,4,4,False,Actual Performance of Non-oil Revenues of FY 2023 | In Q3 of FY 2023 Vs. Q3 2022 |  (SAR Million) | Quarterly Budget Performance Report of FY 2023 Q3 (1444/1445 H)
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Revenues,2023,,Unnamed: 0,38,19,False,الإيرادات | الإيرادات الفعلية حتى الربع الثالث من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Revenues,2023,,Unnamed: 1,30,28,True,الإجمالي | Total | 505350.724649624 | 32078.877818189998 | 199474.512678
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Revenues,2023,,Unnamed: 2,30,27,True,Q3 | 2023 | 147005.524443637 | 8210.252216149998 | 70257.65025667999
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Revenues,2023,,Unnamed: 3,30,29,True,Q2 | 2023 | 179739.739495987 | 16680.38199858 | 66129.92651132001
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Revenues,2023,,Unnamed: 4,34,24,False,Q1 | 2023 | 178605.46071 | 7188.2436034600005 | 63086.93591
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Revenues,2023,,Unnamed: 6,12,12,False,Revenues | Actual revenues Until Q3 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Expenditures,2023,,Unnamed: 0,55,37,False,المصروفات | المصروفات الفعلية حتى الربع الثالث من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Expenditures,2023,,Unnamed: 1,44,41,True,Total | 396545 | 187890 | 28209 | 17501
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Expenditures,2023,,Unnamed: 2,45,33,True,Q3 | 2023 | 130598 | 71727 | 9576
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Expenditures,2023,,Unnamed: 3,45,44,True,Q2 | 2023 | 131881 | 62061 | 8705
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Expenditures,2023,,Unnamed: 4,47,36,False,Q1 | 2023 | 134066 | 54102 | 9928
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Expenditures,2023,,Unnamed: 5,25,25,False,Expenditures | Actual expenditures Until Q3 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Expenditures,2023,,Unnamed: 6,15,15,False,Actual expenditures in Q3 of FY 2022 Vs. Q3 of FY 2023 |  (SAR Million) | Sector | Public Administration | Military 
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Financing,2023,,Unnamed: 0,12,12,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل حتى الربع الثالث من السنة المالية 1444 / 1445هـ  (2023م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Financing,2023,,Unnamed: 1,8,5,True,الإجمالي | Total | -43951 | 0 | 0
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Financing,2023,,Unnamed: 2,7,4,True,Q3 2023 | -35772 | 0 | 0 | 0
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Financing,2023,,Unnamed: 3,7,4,True,Q2 2023 | -5269 | 0 | 0 | 0
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Financing,2023,,Unnamed: 4,7,4,True,Q1 2023 | -2910.375343265536 | 0 | 0 | 0
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Financing,2023,,Unnamed: 5,12,12,False,Financing | Financing Until Q3 of FY 2023 |  (SAR Million) | Item | Surplus/(Deficit)
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Gov.Reserve,2023,,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى نهاية الربع الثالث من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Gov.Reserve,2023,,Unnamed: 1,2,2,True,407743.14841240004 | 14511.0
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Gov.Reserve,2023,,Unnamed: 2,6,5,False,Government Reserve and Current Account  | Until Q3 of FY 2023 |  (SAR Million) | End of Period Balance | End of Period Balance
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Debt,2023,,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام حتى نهاية الربع الثالث للسنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الثالث من السنة المالية الحالية 1444/ 1445هـ (2023م) 
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Debt,2023,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Debt,2023,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 990084 | 614956 | 69284
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Debt,2023,,Unnamed: 3,7,7,True,الدين الخارجي | External Debt | 375128 | 60000 | 69505
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Debt,2023,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Debt,2023,,Unnamed: 5,5,4,False,Public Debt | Public debt until Q3 of FY 2023 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2023 Q3 (1444/1445 H)
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Appendix,2023,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Appendix,2023,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Appendix,2023,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2023__Q3__de70d89bb6__Q3-2023_Quarterly_Budget_Performance_Tables.xlsx,Appendix,2023,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,T.CONTENT,2023,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1445/1444هـ (2023م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+حتى الربع الرابع من السنة المالية 1445/1444هـ (2023م) | الإيرادات"
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,T.CONTENT,2023,,Unnamed: 1,10,10,False,"Subject | Introduction | The Government Budget 
+For FY 2023 | Summary of Until Q4 Performance | Revenues"
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,INTRODUCTION,2023,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام، بالاضافة إلى رصيد الاحتياطي العام للدولة والحساب الجاري. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,INTRODUCTION,2023,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt, In addition to government reserve and current account. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,INTRODUCTION,2023,,Unnamed: 15,1,1,False,INTRODUCTION
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,GOV.BUD,2023,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1445/1444هـ (2023م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,GOV.BUD,2023,,Unnamed: 1,5,5,True,"FY 2022
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,GOV.BUD,2023,,Unnamed: 2,5,5,True,"FY 2022
+Actual | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1268163.723454302 | 1164308.8432161123 | 103854.8802381896"
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,GOV.BUD,2023,,Unnamed: 3,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000.0000000002 | 15999.999999999767"
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,GOV.BUD,2023,,Unnamed: 4,5,5,True,"FY 2023
+Actual | ميزانية
+السنة المالية 1444/1443هـ
+(2023م) | 1212290 | 1293236.0918411927 | -80946.49116594065"
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,GOV.BUD,2023,,Unnamed: 5,6,6,False,The Government Budget for FY 2023 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Summary,2023,,Unnamed: 0,10,8,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الرابع من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | النتائج الفعلية لأداء الميزانية حتى الربع الرابع من السنة المالية 1445/1444هـ (2023م) | (مليون ريال)
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Summary,2023,,Unnamed: 1,1,1,False,أداء الميزانية العامة للدولة للربع الرابع من السنة المالية الحالية 1444/ 1445هـ (2023م) 
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Summary,2023,,Unnamed: 12,2,2,False,Until Q4 of FY 2023 Vs. Q4 2022 |  (SAR Million)
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Summary,2023,,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2023 Q4 (1444/1445 H)
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Summary,2023,,Unnamed: 16,6,5,False,Summary of Q4 Performance | Actual performance in Q4 of FY 2023 |  (SAR Million) | Summary Until Q4 Performance | Actual performance Until Q4 of FY 2023
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Summary,2023,,Unnamed: 17,3,3,False,للربع الرابع من السنة المالية 2023م  | مقارنة بالفترة المماثلة من العام السابق | (مليون ريال)
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Summary,2023,,Unnamed: 31,4,4,False,Actual Performance of Non-oil Revenues of FY 2023 | In Q4 of FY 2023 Vs. Q4 2022 |  (SAR Million) | Quarterly Budget Performance Report of FY 2023 Q4 (1444/1445 H)
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Revenues,2023,,Unnamed: 0,38,19,False,الإيرادات | الإيرادات الفعلية حتى الربع الرابع من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Revenues,2023,,Unnamed: 1,30,28,True,الإجمالي | Total | 754561.766128312 | 38638.4443062 | 262475.98294007
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Revenues,2023,,Unnamed: 2,30,19,True,Q4 | 2023 | 249211.04147868796 | 6559.566488010001 | 63001.47026206998
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Revenues,2023,,Unnamed: 3,30,29,True,Q3 | 2023 | 147005.524443637 | 8210.252216149998 | 70257.65025667999
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Revenues,2023,,Unnamed: 4,34,24,False,Q2 | 2023 | 179739.739495987 | 16680.38199858 | 66129.92651132001
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Revenues,2023,,Unnamed: 5,10,10,True,Q1 | 2023 | 178605.46071 | 7188.2436034600005 | 63086.93591
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Revenues,2023,,Unnamed: 6,12,12,False,Revenues | Actual revenues Until Q4 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Expenditures,2023,,Unnamed: 0,55,37,False,المصروفات | المصروفات الفعلية حتى الربع الرابع من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Expenditures,2023,,Unnamed: 1,44,42,True,Total | 537318.4877703399 | 303390.3673186425 | 37789.20368825 | 20904.802248779997
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Expenditures,2023,,Unnamed: 2,45,34,True,Q4 | 2023 | 140773.35956634994 | 115500.05954054001 | 9580.542311420002
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Expenditures,2023,,Unnamed: 3,45,44,True,Q3 | 2023 | 130598 | 71727 | 9576
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Expenditures,2023,,Unnamed: 4,47,36,False,Q2 | 2023 | 131881 | 62061 | 8705
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Expenditures,2023,,Unnamed: 5,23,23,True,Q1 | 2023 | 134066 | 54102 | 9928
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Expenditures,2023,,Unnamed: 6,28,26,False,Expenditures | Actual expenditures Until Q4 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Financing,2023,,Unnamed: 0,11,11,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل حتى الربع الرابع من السنة المالية 1444 / 1445هـ  (2023م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Financing,2023,,Unnamed: 1,7,7,True,الإجمالي | Total | -80946.49116594065 | 0 | 20946.491165940606
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Financing,2023,,Unnamed: 2,6,6,True,Q4 2023 | -36995.28913409496 | 0 | 20946.491165940606 | 16049
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Financing,2023,,Unnamed: 3,6,4,True,Q3 2023 | -35772 | 0 | 0 | 35772.423012893
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Financing,2023,,Unnamed: 4,7,5,True,Q2 2023 | -5269 | Financing Sources | 0 | 0
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Financing,2023,,Unnamed: 5,6,4,True,Q1 2023 | -2910.375343265536 | 0 | 0 | 2910.37534326554
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Financing,2023,,Unnamed: 6,10,10,False,Financing | Financing Until Q4 of FY 2023 |  (SAR Million) | Item | Surplus/(Deficit)
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Gov.Reserve,2023,,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى نهاية الربع الرابع من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Gov.Reserve,2023,,Unnamed: 1,2,2,True,390027.8257496781 | 46281.83600735503
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Gov.Reserve,2023,,Unnamed: 2,6,5,False,Government Reserve and Current Account  | Until Q4 of FY 2023 |  (SAR Million) | End of Period Balance | End of Period Balance
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Debt,2023,,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام حتى نهاية الربع الرابع للسنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الرابع من السنة المالية الحالية 1444/ 1445هـ (2023م) 
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Debt,2023,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Debt,2023,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 990084 | 614956 | 87982.51632691
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Debt,2023,,Unnamed: 3,7,7,True,الدين الخارجي | External Debt | 375128 | 101250 | 70131
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Debt,2023,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Debt,2023,,Unnamed: 5,5,4,False,Public Debt | Public debt until Q4 of FY 2023 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2023 Q4 (1444/1445 H)
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Appendix,2023,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Appendix,2023,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Appendix,2023,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2023__Q4__05b025b90b__Q4-2023_Quarterly_Budget_Performance_Table_Final.xlsx,Appendix,2023,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,T.CONTENT,2024,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1446/1445هـ (2024م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+للربع الثالث من السنة المالية 1446/1445هـ (2024م) | الإيرادات"
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,T.CONTENT,2024,,Unnamed: 1,10,10,False,"Subject | INTRODUCTION | The Government Budget 
+For FY 2024 | Summary of Q3 Performance | Revenues"
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,INTRODUCTION,2024,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,INTRODUCTION,2024,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,INTRODUCTION,2024,,Unnamed: 15,1,1,False,INTRODUCTION
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,GOV.BUD,2024,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1445/ 1446هـ (2024م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,GOV.BUD,2024,,Unnamed: 1,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000 | 16000"
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,GOV.BUD,2024,,Unnamed: 2,5,5,True,"FY 2023
+Actual | النتائج الفعلية لميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1212289.600675252 | 1293236.0918411927 | -80946.49116594065"
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,GOV.BUD,2024,,Unnamed: 3,5,5,True,"FY 2024
+Budget | ميزانية
+السنة المالية 1446/1445هـ
+(2024م) | 1172000 | 1251000 | -79000"
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,GOV.BUD,2024,,Unnamed: 4,6,6,False,The Government Budget for FY 2024 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Summary,2024,,Unnamed: 0,7,6,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الثالث من السنة المالية 1445/ 1446هـ (2024م) | (مليون ريال) | أداء الميزانية العامة للدولة للربع الثالث من السنة المالية الحالية 1445/ 1446هـ (2024م) | النتائج الفعلية لأداء الميزانية حتى الربع الثالث من السنة المالية 1446/1445هـ (2024م)
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Summary,2024,,Unnamed: 14,2,1,False,Quarterly Budget Performance Report of FY 2024 Q3 (1445/1446 H) | Quarterly Budget Performance Report of FY 2024 Q3 (1445/1446 H)
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Summary,2024,,Unnamed: 16,6,5,False,Summary of Q3 Performance | Actual performance in Q3 of FY 2024 |  (SAR Million) | Summary Until Q3 Performance | Actual performance Until Q3 of FY 2024
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Revenues,2024,,Unnamed: 0,39,19,False,الإيرادات | الإيرادات الفعلية حتى الربع الثالث من السنة المالية 1445/ 1446هـ (2024م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Revenues,2024,,Unnamed: 1,9,9,True,Total | 585777.4329158621 | 25409.134411450003 | 213971.38886069 | 16855.36269419
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Revenues,2024,,Unnamed: 2,30,27,True,Q3 | 2024 | 190866.05824755004 | 6014.029691720003 | 73943.43072454
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Revenues,2024,,Unnamed: 3,30,28,True,Q2 | 2024 | 212989.76535168703 | 12850.34397943 | 70124.98776723
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Revenues,2024,,Unnamed: 4,30,29,True,Q1 | 2024 | 181921.609316625 | 6544.7607403 | 69902.97036892
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Revenues,2024,,Unnamed: 5,37,16,False,Revenues | Actual revenues Until Q3 of FY 2024 |  (SAR Million) | Revenues* | Oil Revenues
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Expenditures,2024,,Unnamed: 0,55,37,False,المصروفات | المصروفات الفعلية حتى الربع الثالث من السنة المالية 1445/ 1446هـ (2024م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Expenditures,2024,,Unnamed: 1,44,42,True,Total | 415975.03050003 | 218958.59363428995 | 32817.35654421 | 28744.39745569
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Expenditures,2024,,Unnamed: 2,45,32,True,Q3 | 2024 | 138626.83874995002 | 82693.59369693996 | 11964.70317841
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Expenditures,2024,,Unnamed: 3,45,44,True,Q2 | 2024 | 139845.36172996 | 75561.02422941997 | 10783.586373380002
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Expenditures,2024,,Unnamed: 4,47,36,False,Q1 | 2024 | 137502.83002012 | 60703.97570793001 | 10069.06699242
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Expenditures,2024,,Unnamed: 5,25,25,False,Expenditures | Actual expenditures Until Q3 of FY 2024 |  (SAR Million) | Expenditures* | Compensation of Employees
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Expenditures,2024,,Unnamed: 6,16,16,False,Expenditures | Actual expenditures Until Q3 of FY 2024 Vs. Q3 of FY 2023 |  (SAR Million) | Sector | Public Administration
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Deficit,2024,,Unnamed: 0,10,10,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل حتى الربع الثالث للسنة المالية 1445 / 1446هـ  (2024م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Deficit,2024,,Unnamed: 1,5,4,True,Total | -57962.418522707885 | 0 | 57962 | 57962
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Deficit,2024,,Unnamed: 2,5,4,True,Q3 2024 | -30234.98036262492 | 0 | 30235 | 30235
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Deficit,2024,,Unnamed: 3,5,4,True,Q2 2024 | -15340.63705684495 | 0 | 15341 | 15341
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Deficit,2024,,Unnamed: 4,5,4,True,Q1 2024 | -12386.801103238 | 0 | 12387 | 12387
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Deficit,2024,,Unnamed: 5,10,10,False,Financing | Budget Financing until Q3 of FY 2024 |  (SAR Million) | Item | Surplus/(Deficit)
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Gov.Reserve,2024,,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى الربع الثالث من السنة المالية 1445/ 1446هـ (2024م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Gov.Reserve,2024,,Unnamed: 1,2,2,True,390079.0 | 76675.0
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Gov.Reserve,2024,,Unnamed: 2,6,5,False,Government Reserve and Current Account  | Until Q3 of FY 2024 |  (SAR Million) | End of Period Balance | End of Period Balance
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Debt,2024,,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام حتى الربع الثالث للسنة المالية   1445/  1446هـ (2024م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الثالث من السنة المالية الحالية   1445/  1446هـ (2024م) 
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Debt,2024,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Debt,2024,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 1050282 | 644405 | 117245
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Debt,2024,,Unnamed: 3,7,7,False,الدين الخارجي | External Debt | 405877 | 67811.25 | 4770
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Debt,2024,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Debt,2024,,Unnamed: 5,5,4,False,Public Debt | Public debt  Until Q3 of FY 2024 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2024 Q3 (1445/ 1446 H)
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Appendix,2024,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Appendix,2024,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Appendix,2024,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2024__5b144da4bd__Quarterly_Budget_Performance_Report_Q3_2024.xlsx,Appendix,2024,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,T.CONTENT,2024,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1446/1445هـ (2024م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+حتى الربع الرابع من السنة المالية 1446/1445هـ (2024م) | الإيرادات"
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,T.CONTENT,2024,,Unnamed: 1,10,10,False,"Subject | INTRODUCTION | The Government Budget 
+For FY 2024 | Summary of Q4 Performance | Revenues"
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,INTRODUCTION,2024,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,INTRODUCTION,2024,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,INTRODUCTION,2024,,Unnamed: 15,1,1,False,INTRODUCTION
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,GOV.BUD,2024,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1445/ 1446هـ (2024م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,GOV.BUD,2024,,Unnamed: 1,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000 | 16000"
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,GOV.BUD,2024,,Unnamed: 2,5,5,True,"FY 2023
+Actual | النتائج الفعلية لميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1212289.600675252 | 1293236.0918411927 | -80946.49116594065"
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,GOV.BUD,2024,,Unnamed: 3,5,5,True,"FY 2024
+Budget | ميزانية
+السنة المالية 1446/1445هـ
+(2024م) | 1172000 | 1251000 | -79000"
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,GOV.BUD,2024,,Unnamed: 4,5,5,True,"FY 2024
+Actual | النتائج الفعلية لميزانية
+السنة المالية 1446/1445هـ
+(2024م) | 1259095 | 1374720 | -115625"
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,GOV.BUD,2024,,Unnamed: 5,6,6,False,The Government Budget for FY 2024 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Summary,2024,,Unnamed: 0,7,6,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الرابع من السنة المالية 1445/ 1446هـ (2024م) | (مليون ريال) | أداء الميزانية العامة للدولة للربع الرابع من السنة المالية الحالية 1445/ 1446هـ (2024م) | النتائج الفعلية لأداء الميزانية حتى الربع الرابع من السنة المالية 1446/1445هـ (2024م)
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Summary,2024,,Unnamed: 14,2,1,False,Quarterly Budget Performance Report of FY 2024 Q4 (1445/1446 H) | Quarterly Budget Performance Report of FY 2024 Q4 (1445/1446 H)
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Summary,2024,,Unnamed: 16,6,5,False,Summary of Q4 Performance | Actual performance in Q4 of FY 2024 |  (SAR Million) | Summary Until Q4 Performance | Actual performance Until Q4 of FY 2024
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Revenues,2024,,Unnamed: 0,42,20,False,الإيرادات | الإيرادات الفعلية حتى الربع الرابع من السنة المالية 1445/ 1446هـ (2024م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Revenues,2024,,Unnamed: 1,9,9,True,Total | 756623.9452276349 | 31575.62406552 | 288809.21702976 | 24498.603514
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Revenues,2024,,Unnamed: 2,30,28,True,Q4 | 2024 | 170846.5123117734 | 6166.489654069999 | 74837.82816907001
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Revenues,2024,,Unnamed: 3,30,28,True,Q3 | 2024 | 190866.05824755004 | 6014.029691720003 | 73943.43072454
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Revenues,2024,,Unnamed: 4,30,29,True,Q2 | 2024 | 212989.76535168703 | 12850.34397943 | 70124.98776723
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Revenues,2024,,Unnamed: 5,35,24,False,Q1 | 2024 | 181921.609316625 | 6544.7607403 | 69902.97036892
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Revenues,2024,,Unnamed: 6,12,12,False,Revenues | Actual revenues Until Q4 of FY 2024 |  (SAR Million) | Revenues* | Oil Revenues
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Expenditures,2024,,Unnamed: 0,59,38,False,المصروفات | المصروفات الفعلية حتى الربع الرابع من السنة المالية 1445/ 1446هـ (2024م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Expenditures,2024,,Unnamed: 1,44,42,True,Total | 562264.11432249 | 313022.32891601 | 44563.020730870005 | 34011.45958465
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Expenditures,2024,,Unnamed: 2,45,32,True,Q4 | 2024 | 146289.0838224599 | 94063.73528172003 | 11745.664186660004
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Expenditures,2024,,Unnamed: 3,45,44,True,Q3 | 2024 | 138626.83874995002 | 82693.59369693996 | 11964.70317841
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Expenditures,2024,,Unnamed: 4,47,36,False,Q2 | 2024 | 139845.36172996 | 75561.02422941997 | 10783.586373380002
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Expenditures,2024,,Unnamed: 5,23,23,True,Q1 | 2024 | 137502.83002012 | 60703.97570793001 | 10069.06699242
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Expenditures,2024,,Unnamed: 6,29,26,False,Expenditures | Actual expenditures Until Q4 of FY 2024 |  (SAR Million) | Expenditures* | Compensation of Employees
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Deficit,2024,,Unnamed: 0,11,11,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل حتى الربع الرابع للسنة المالية 1445 / 1446هـ  (2024م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Deficit,2024,,Unnamed: 1,5,4,True,Total | -115624.81367381313 | 0 | 115625 | 115625
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Deficit,2024,,Unnamed: 2,4,3,True,Q4 2024 | -57662.39515110507 | 57662 | 57662
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Deficit,2024,,Unnamed: 3,5,4,True,Q3 2024 | -30234.98036262492 | 0 | 30235 | 30235
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Deficit,2024,,Unnamed: 4,5,4,True,Q2 2024 | -15340.63705684495 | 0 | 15341 | 15341
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Deficit,2024,,Unnamed: 5,5,4,True,Q1 2024 | -12386.801103238 | 0 | 12387 | 12387
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Deficit,2024,,Unnamed: 6,10,10,False,Financing | Budget Financing until Q4 of FY 2024 |  (SAR Million) | Item | Surplus/(Deficit)
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Gov.Reserve,2024,,Unnamed: 0,11,10,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى الربع الرابع من السنة المالية 1445/ 1446هـ (2024م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Gov.Reserve,2024,,Unnamed: 1,2,2,True,390035.66356931604 | 43017.078437350225
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Gov.Reserve,2024,,Unnamed: 2,6,5,False,Government Reserve and Current Account  | Until Q4 of FY 2024 |  (SAR Million) | End of Period Balance | End of Period Balance
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Debt ,2024,,Unnamed: 0,6,6,False,الديــــن العــــام | الدين العام حتى الربع الرابع للسنة المالية   1445/  1446هـ (2024م) | (مليون ريال) | الدين العام | *تم تقريب الأرقام لأقرب فاصلة عشرية
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Debt ,2024,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Debt ,2024,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 1050282.38170035 | 644405.01588407 | 167681.30078323002
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Debt ,2024,,Unnamed: 3,7,7,True,الدين الخارجي | External Debt | 405877.36581628 | 77185.24999966999 | 5396.60385848
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Debt ,2024,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Debt ,2024,,Unnamed: 5,5,4,False,Public Debt | Public debt  Until Q4 of FY 2024 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2024 Q4 (1445/ 1446 H)
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Appendix,2024,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Appendix,2024,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Appendix,2024,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2024__d9033a1e15__Quarterly_Budget_Performance_Report_Q4_2024.xlsx,Appendix,2024,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,T.CONTENT,2024,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1446/1445هـ (2024م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+للنصف الأول من السنة المالية 1446/1445هـ (2024م) | الإيرادات"
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,T.CONTENT,2024,,Unnamed: 1,10,10,False,"Subject | INTRODUCTION | The Government Budget 
+For FY 2024 | Summary of H1 Performance | Revenues"
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,INTRODUCTION,2024,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,INTRODUCTION,2024,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,INTRODUCTION,2024,,Unnamed: 15,1,1,False,INTRODUCTION
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,GOV.BUD,2024,,Unnamed: 0,8,8,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1445/ 1446هـ (2024م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,GOV.BUD,2024,,Unnamed: 1,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000 | 16000"
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,GOV.BUD,2024,,Unnamed: 2,5,5,True,"FY 2023
+Actual | النتائج الفعلية لميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1212289.600675252 | 1293236.0918411927 | -80946.49116594065"
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,GOV.BUD,2024,,Unnamed: 3,5,5,True,"FY 2024
+Budget | ميزانية
+السنة المالية 1446/1445هـ
+(2024م) | 1172000 | 1251000 | -79000"
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,GOV.BUD,2024,,Unnamed: 4,7,7,False,The Government Budget for FY 2024 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Summary,2024,,Unnamed: 0,8,7,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الثاني من السنة المالية 1445/ 1446هـ (2024م) | (مليون ريال) | أداء الميزانية العامة للدولة للربع الثاني من السنة المالية الحالية 1445/ 1446هـ (2024م) | النتائج الفعلية لأداء الميزانية للنصف الأول من السنة المالية 1446/1445هـ (2024م)
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Summary,2024,,Unnamed: 14,2,1,False,Quarterly Budget Performance Report of FY 2024 Q2 (1445/1446 H) | Quarterly Budget Performance Report of FY 2024 Q2 (1445/1446 H)
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Summary,2024,,Unnamed: 16,6,5,False,Summary of Q2 Performance | Actual performance in Q2 of FY 2024 |  (SAR Million) | Summary of H1 Performance | Actual performance in H1 of FY 2024
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Summary,2024,,Unnamed: 17,1,1,False,* Figures are rounded up to the nearest decimal point
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Revenues,2024,,Unnamed: 0,44,20,False,الإيرادات | الإيرادات الفعلية للنصف الأول من السنة المالية 1445/ 1446هـ (2024م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Revenues,2024,,Unnamed: 1,9,9,True,Total | 394911.374668312 | 19395.10471973 | 140027.95813615 | 11491.63074415
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Revenues,2024,,Unnamed: 2,30,28,True,Q2 | 2024 | 212989.76535168703 | 12850.34397943 | 70124.98776723
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Revenues,2024,,Unnamed: 3,30,28,True,Q1 | 2024 | 181921.609316625 | 6544.7607403 | 69902.97036892
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Revenues,2024,,Unnamed: 4,34,33,False,Revenues | Actual revenues in Q2 of FY 2024 |  (SAR Million) | Revenues* | Oil Revenues
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Revenues,2024,,Unnamed: 5,28,15,False,"Actual revenues in Q2 of FY 2024 Vs. Q2 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues | Taxes on Income, Profit and Capital Gains"
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures ,2024,,Unnamed: 0,62,38,False,المصروفات | المصروفات الفعلية للنصف الأول من السنة المالية 1445/ 1446هـ (2024م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures ,2024,,Unnamed: 1,44,42,True,Total | 277348.19175008 | 136264.99993735 | 20852.6533658 | 21306.74975001
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures ,2024,,Unnamed: 2,45,32,True,Q2 | 2024 | 139845.36172996 | 75561.02422941997 | 10783.586373380002
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures ,2024,,Unnamed: 3,45,44,True,Q1 | 2024 | 137502.83002012 | 60703.97570793001 | 10069.06699242
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures ,2024,,Unnamed: 4,55,29,False,Expenditures | Actual expenditures in H1 of FY 2024 |  (SAR Million) | Expenditures* | Compensation of Employees
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures ,2024,,Unnamed: 5,12,12,True,نسبة التغير للمنصرف الفعلي حتى النصف الأول مقارنة بالفترة المماثلة من العام السابق | Change  % | 0.2954986956346224 | -0.06285892834628626 | 0.10051070893063674
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures ,2024,,Unnamed: 6,17,17,False,Expenditures | Actual expenditures in H1 of FY 2024 Vs. H1 of FY 2023 |  (SAR Million) | Sector | Public Administration
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Deficit,2024,,Unnamed: 0,11,11,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل للنصف الأول للسنة المالية 1445 / 1446هـ  (2024م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Deficit,2024,,Unnamed: 1,5,4,True,Total | -27727.438160083024 | 0 | 27727 | 27727
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Deficit,2024,,Unnamed: 2,5,4,True,Q2 2024 | -15340.63705684495 | 0 | 15341 | 15341
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Deficit,2024,,Unnamed: 3,5,4,True,Q1 2024 | -12386.801103238016 | 0 | 12387 | 12387
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Deficit,2024,,Unnamed: 4,11,11,False,Financing | Budget Financing in H2 of FY 2024 |  (SAR Million) | Item | Surplus/(Deficit)
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Gov.Reserve,2024,,Unnamed: 0,11,10,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى نهاية النصف الأول من السنة المالية 1445/ 1446هـ (2024م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Gov.Reserve,2024,,Unnamed: 1,2,2,True,393918.26327905606 | 101413.71648648998
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Gov.Reserve,2024,,Unnamed: 2,7,6,False,Government Reserve and Current Account  | in H2 of FY 2024 |  (SAR Million) | End of Period Balance | End of Period Balance
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Debt,2024,,Unnamed: 0,6,6,False,الديــــن العــــام | الدين العام حتى نهاية النصف الأول للسنة المالية   1445/  1446هـ (2024م) | (مليون ريال) | الدين العام | *تم تقريب الأرقام إلى اقرب فاصلة عشرية
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Debt,2024,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Debt,2024,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 1050282 | 644405 | 103999.39088600001
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Debt,2024,,Unnamed: 3,7,7,False,الدين الخارجي | External Debt | 405877 | 67811.25 | 4770
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Debt,2024,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Debt,2024,,Unnamed: 5,6,5,False,Public Debt | Public debt in H2 of FY 2024 |  (SAR Million) | Public Debt | * Figures are rounded up to the nearest decimal point
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures,2024,,Unnamed: 0,42,36,False,المصروفات | المصروفات الفعلية للربع الأول من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures,2024,,Unnamed: 1,34,34,True,Q1 | 2023م | 134066.47103604002 | 54102.3365797025 | 9927.62927257
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures,2024,,Unnamed: 2,23,23,True,Q1 | 2023 | 134066.47103604002 | 54102.3365797025 | 9927.62927257
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures,2024,,Unnamed: 3,36,36,False,Expenditures | Actual expenditures in Q1 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures,2024,,Unnamed: 4,24,24,False,Actual expenditures in Q1 of FY 2023 Vs. Q1 of FY 2022 |  (SAR Million) | Expenditures* | Compensation of Employees | Use of Goods and Services
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures,2024,,Unnamed: 5,12,12,True,نسبة التغير للمنصرف الفعلي حتى الربع الحالي مقارنة بالفترة المماثلة من العام السابق | Change  % | 0.5255928360105564 | 0.3800746927430976 | 0.14998493859760686
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Expenditures,2024,,Unnamed: 6,16,16,False,Expenditures | Actual expenditures in Q1 of FY 2023 Vs. Q1 of FY 2022 |  (SAR Million) | Sector | Public Administration
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Appendix,2024,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Appendix,2024,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Appendix,2024,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+2024__e516a48435__Quarterly_Budget_Performance_Report_Q2_2024-all.xlsx,Appendix,2024,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+Q3-2023 Quarterly Budget Performance Tables.xlsx,T.CONTENT,2023,Q3,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1445/1444هـ (2023م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+حتى الربع الثالث من السنة المالية 1445/1444هـ (2023م) | الإيرادات"
+Q3-2023 Quarterly Budget Performance Tables.xlsx,T.CONTENT,2023,Q3,Unnamed: 1,10,10,False,"Subject | Introduction | The Government Budget 
+For FY 2023 | Summary of Until Q3 Performance | Revenues"
+Q3-2023 Quarterly Budget Performance Tables.xlsx,INTRODUCTION,2023,Q3,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام، بالاضافة إلى رصيد الاحتياطي العام للدولة والحساب الجاري. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+Q3-2023 Quarterly Budget Performance Tables.xlsx,INTRODUCTION,2023,Q3,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt, In addition to government reserve and current account. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+Q3-2023 Quarterly Budget Performance Tables.xlsx,INTRODUCTION,2023,Q3,Unnamed: 15,1,1,False,INTRODUCTION
+Q3-2023 Quarterly Budget Performance Tables.xlsx,GOV.BUD,2023,Q3,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1445/1444هـ (2023م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+Q3-2023 Quarterly Budget Performance Tables.xlsx,GOV.BUD,2023,Q3,Unnamed: 1,5,5,True,"FY 2022
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+Q3-2023 Quarterly Budget Performance Tables.xlsx,GOV.BUD,2023,Q3,Unnamed: 2,5,5,True,"FY 2022
+Actual | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1268163.723454302 | 1164308.8432161123 | 103854.8802381896"
+Q3-2023 Quarterly Budget Performance Tables.xlsx,GOV.BUD,2023,Q3,Unnamed: 3,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000.0000000002 | 15999.999999999767"
+Q3-2023 Quarterly Budget Performance Tables.xlsx,GOV.BUD,2023,Q3,Unnamed: 4,6,6,False,The Government Budget for FY 2023 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Summary,2023,Q3,Unnamed: 0,10,8,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الثالث من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | النتائج الفعلية لأداء الميزانية حتى الربع الثالث من السنة المالية 1445/1444هـ (2023م) | (مليون ريال)
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Summary,2023,Q3,Unnamed: 1,1,1,False,أداء الميزانية العامة للدولة للربع الثالث من السنة المالية الحالية 1444/ 1445هـ (2023م) 
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Summary,2023,Q3,Unnamed: 12,2,2,False,Until Q3 of FY 2023 Vs. Q3 2022 |  (SAR Million)
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Summary,2023,Q3,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2023 Q3 (1444/1445 H)
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Summary,2023,Q3,Unnamed: 16,6,5,False,Summary of Q3 Performance | Actual performance in Q3 of FY 2023 |  (SAR Million) | Summary Until Q3 Performance | Actual performance Until Q3 of FY 2023
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Summary,2023,Q3,Unnamed: 17,3,3,False,للربع الثالث من السنة المالية 2023م  | مقارنة بالفترة المماثلة من العام السابق | (مليون ريال)
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Summary,2023,Q3,Unnamed: 31,4,4,False,Actual Performance of Non-oil Revenues of FY 2023 | In Q3 of FY 2023 Vs. Q3 2022 |  (SAR Million) | Quarterly Budget Performance Report of FY 2023 Q3 (1444/1445 H)
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Revenues,2023,Q3,Unnamed: 0,38,19,False,الإيرادات | الإيرادات الفعلية حتى الربع الثالث من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Revenues,2023,Q3,Unnamed: 1,30,28,True,الإجمالي | Total | 505350.724649624 | 32078.877818189998 | 199474.512678
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Revenues,2023,Q3,Unnamed: 2,30,27,True,Q3 | 2023 | 147005.524443637 | 8210.252216149998 | 70257.65025667999
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Revenues,2023,Q3,Unnamed: 3,30,29,True,Q2 | 2023 | 179739.739495987 | 16680.38199858 | 66129.92651132001
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Revenues,2023,Q3,Unnamed: 4,34,24,False,Q1 | 2023 | 178605.46071 | 7188.2436034600005 | 63086.93591
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Revenues,2023,Q3,Unnamed: 6,12,12,False,Revenues | Actual revenues Until Q3 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Expenditures,2023,Q3,Unnamed: 0,55,37,False,المصروفات | المصروفات الفعلية حتى الربع الثالث من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Expenditures,2023,Q3,Unnamed: 1,44,41,True,Total | 396545 | 187890 | 28209 | 17501
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Expenditures,2023,Q3,Unnamed: 2,45,33,True,Q3 | 2023 | 130598 | 71727 | 9576
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Expenditures,2023,Q3,Unnamed: 3,45,44,True,Q2 | 2023 | 131881 | 62061 | 8705
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Expenditures,2023,Q3,Unnamed: 4,47,36,False,Q1 | 2023 | 134066 | 54102 | 9928
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Expenditures,2023,Q3,Unnamed: 5,25,25,False,Expenditures | Actual expenditures Until Q3 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Expenditures,2023,Q3,Unnamed: 6,15,15,False,Actual expenditures in Q3 of FY 2022 Vs. Q3 of FY 2023 |  (SAR Million) | Sector | Public Administration | Military 
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Financing,2023,Q3,Unnamed: 0,12,12,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل حتى الربع الثالث من السنة المالية 1444 / 1445هـ  (2023م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Financing,2023,Q3,Unnamed: 1,8,5,True,الإجمالي | Total | -43951 | 0 | 0
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Financing,2023,Q3,Unnamed: 2,7,4,True,Q3 2023 | -35772 | 0 | 0 | 0
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Financing,2023,Q3,Unnamed: 3,7,4,True,Q2 2023 | -5269 | 0 | 0 | 0
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Financing,2023,Q3,Unnamed: 4,7,4,True,Q1 2023 | -2910.375343265536 | 0 | 0 | 0
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Financing,2023,Q3,Unnamed: 5,12,12,False,Financing | Financing Until Q3 of FY 2023 |  (SAR Million) | Item | Surplus/(Deficit)
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Gov.Reserve,2023,Q3,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى نهاية الربع الثالث من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Gov.Reserve,2023,Q3,Unnamed: 1,2,2,True,407743.14841240004 | 14511.0
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Gov.Reserve,2023,Q3,Unnamed: 2,6,5,False,Government Reserve and Current Account  | Until Q3 of FY 2023 |  (SAR Million) | End of Period Balance | End of Period Balance
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Debt,2023,Q3,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام حتى نهاية الربع الثالث للسنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الثالث من السنة المالية الحالية 1444/ 1445هـ (2023م) 
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Debt,2023,Q3,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Debt,2023,Q3,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 990084 | 614956 | 69284
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Debt,2023,Q3,Unnamed: 3,7,7,True,الدين الخارجي | External Debt | 375128 | 60000 | 69505
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Debt,2023,Q3,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Debt,2023,Q3,Unnamed: 5,5,4,False,Public Debt | Public debt until Q3 of FY 2023 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2023 Q3 (1444/1445 H)
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Appendix,2023,Q3,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Appendix,2023,Q3,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Appendix,2023,Q3,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+Q3-2023 Quarterly Budget Performance Tables.xlsx,Appendix,2023,Q3,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,T.CONTENT,2023,Q4,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1445/1444هـ (2023م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+حتى الربع الرابع من السنة المالية 1445/1444هـ (2023م) | الإيرادات"
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,T.CONTENT,2023,Q4,Unnamed: 1,10,10,False,"Subject | Introduction | The Government Budget 
+For FY 2023 | Summary of Until Q4 Performance | Revenues"
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,INTRODUCTION,2023,Q4,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام، بالاضافة إلى رصيد الاحتياطي العام للدولة والحساب الجاري. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,INTRODUCTION,2023,Q4,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt, In addition to government reserve and current account. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,INTRODUCTION,2023,Q4,Unnamed: 15,1,1,False,INTRODUCTION
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,GOV.BUD,2023,Q4,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1445/1444هـ (2023م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,GOV.BUD,2023,Q4,Unnamed: 1,5,5,True,"FY 2022
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,GOV.BUD,2023,Q4,Unnamed: 2,5,5,True,"FY 2022
+Actual | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1268163.723454302 | 1164308.8432161123 | 103854.8802381896"
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,GOV.BUD,2023,Q4,Unnamed: 3,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000.0000000002 | 15999.999999999767"
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,GOV.BUD,2023,Q4,Unnamed: 4,5,5,True,"FY 2023
+Actual | ميزانية
+السنة المالية 1444/1443هـ
+(2023م) | 1212290 | 1293236.0918411927 | -80946.49116594065"
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,GOV.BUD,2023,Q4,Unnamed: 5,6,6,False,The Government Budget for FY 2023 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Summary,2023,Q4,Unnamed: 0,10,8,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الرابع من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | النتائج الفعلية لأداء الميزانية حتى الربع الرابع من السنة المالية 1445/1444هـ (2023م) | (مليون ريال)
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Summary,2023,Q4,Unnamed: 1,1,1,False,أداء الميزانية العامة للدولة للربع الرابع من السنة المالية الحالية 1444/ 1445هـ (2023م) 
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Summary,2023,Q4,Unnamed: 12,2,2,False,Until Q4 of FY 2023 Vs. Q4 2022 |  (SAR Million)
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Summary,2023,Q4,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2023 Q4 (1444/1445 H)
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Summary,2023,Q4,Unnamed: 16,6,5,False,Summary of Q4 Performance | Actual performance in Q4 of FY 2023 |  (SAR Million) | Summary Until Q4 Performance | Actual performance Until Q4 of FY 2023
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Summary,2023,Q4,Unnamed: 17,3,3,False,للربع الرابع من السنة المالية 2023م  | مقارنة بالفترة المماثلة من العام السابق | (مليون ريال)
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Summary,2023,Q4,Unnamed: 31,4,4,False,Actual Performance of Non-oil Revenues of FY 2023 | In Q4 of FY 2023 Vs. Q4 2022 |  (SAR Million) | Quarterly Budget Performance Report of FY 2023 Q4 (1444/1445 H)
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Revenues,2023,Q4,Unnamed: 0,38,19,False,الإيرادات | الإيرادات الفعلية حتى الربع الرابع من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Revenues,2023,Q4,Unnamed: 1,30,28,True,الإجمالي | Total | 754561.766128312 | 38638.4443062 | 262475.98294007
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Revenues,2023,Q4,Unnamed: 2,30,19,True,Q4 | 2023 | 249211.04147868796 | 6559.566488010001 | 63001.47026206998
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Revenues,2023,Q4,Unnamed: 3,30,29,True,Q3 | 2023 | 147005.524443637 | 8210.252216149998 | 70257.65025667999
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Revenues,2023,Q4,Unnamed: 4,34,24,False,Q2 | 2023 | 179739.739495987 | 16680.38199858 | 66129.92651132001
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Revenues,2023,Q4,Unnamed: 5,10,10,True,Q1 | 2023 | 178605.46071 | 7188.2436034600005 | 63086.93591
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Revenues,2023,Q4,Unnamed: 6,12,12,False,Revenues | Actual revenues Until Q4 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Expenditures,2023,Q4,Unnamed: 0,55,37,False,المصروفات | المصروفات الفعلية حتى الربع الرابع من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Expenditures,2023,Q4,Unnamed: 1,44,42,True,Total | 537318.4877703399 | 303390.3673186425 | 37789.20368825 | 20904.802248779997
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Expenditures,2023,Q4,Unnamed: 2,45,34,True,Q4 | 2023 | 140773.35956634994 | 115500.05954054001 | 9580.542311420002
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Expenditures,2023,Q4,Unnamed: 3,45,44,True,Q3 | 2023 | 130598 | 71727 | 9576
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Expenditures,2023,Q4,Unnamed: 4,47,36,False,Q2 | 2023 | 131881 | 62061 | 8705
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Expenditures,2023,Q4,Unnamed: 5,23,23,True,Q1 | 2023 | 134066 | 54102 | 9928
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Expenditures,2023,Q4,Unnamed: 6,28,26,False,Expenditures | Actual expenditures Until Q4 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Financing,2023,Q4,Unnamed: 0,11,11,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل حتى الربع الرابع من السنة المالية 1444 / 1445هـ  (2023م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Financing,2023,Q4,Unnamed: 1,7,7,True,الإجمالي | Total | -80946.49116594065 | 0 | 20946.491165940606
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Financing,2023,Q4,Unnamed: 2,6,6,True,Q4 2023 | -36995.28913409496 | 0 | 20946.491165940606 | 16049
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Financing,2023,Q4,Unnamed: 3,6,4,True,Q3 2023 | -35772 | 0 | 0 | 35772.423012893
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Financing,2023,Q4,Unnamed: 4,7,5,True,Q2 2023 | -5269 | Financing Sources | 0 | 0
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Financing,2023,Q4,Unnamed: 5,6,4,True,Q1 2023 | -2910.375343265536 | 0 | 0 | 2910.37534326554
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Financing,2023,Q4,Unnamed: 6,10,10,False,Financing | Financing Until Q4 of FY 2023 |  (SAR Million) | Item | Surplus/(Deficit)
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Gov.Reserve,2023,Q4,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى نهاية الربع الرابع من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Gov.Reserve,2023,Q4,Unnamed: 1,2,2,True,390027.8257496781 | 46281.83600735503
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Gov.Reserve,2023,Q4,Unnamed: 2,6,5,False,Government Reserve and Current Account  | Until Q4 of FY 2023 |  (SAR Million) | End of Period Balance | End of Period Balance
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Debt,2023,Q4,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام حتى نهاية الربع الرابع للسنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الرابع من السنة المالية الحالية 1444/ 1445هـ (2023م) 
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Debt,2023,Q4,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Debt,2023,Q4,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 990084 | 614956 | 87982.51632691
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Debt,2023,Q4,Unnamed: 3,7,7,True,الدين الخارجي | External Debt | 375128 | 101250 | 70131
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Debt,2023,Q4,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Debt,2023,Q4,Unnamed: 5,5,4,False,Public Debt | Public debt until Q4 of FY 2023 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2023 Q4 (1444/1445 H)
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Appendix,2023,Q4,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Appendix,2023,Q4,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Appendix,2023,Q4,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+Q4-2023 Quarterly Budget Performance Table_Final.xlsx,Appendix,2023,Q4,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+Quarterly Budget Performance Report_Q1_2023.xlsx,T.CONTENT,2023,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1445/1444هـ (2023م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+للربع الأول من السنة المالية 1445/1444هـ (2023م) | الإيرادات"
+Quarterly Budget Performance Report_Q1_2023.xlsx,T.CONTENT,2023,,Unnamed: 1,10,10,False,"Subject | INTRODUCTION | The Government Budget 
+For FY 2023 | Summary of Q1 Performance | Revenues"
+Quarterly Budget Performance Report_Q1_2023.xlsx,INTRODUCTION,2023,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+Quarterly Budget Performance Report_Q1_2023.xlsx,INTRODUCTION,2023,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+Quarterly Budget Performance Report_Q1_2023.xlsx,INTRODUCTION,2023,,Unnamed: 15,1,1,False,INTRODUCTION
+Quarterly Budget Performance Report_Q1_2023.xlsx,GOV.BUD,2023,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+Quarterly Budget Performance Report_Q1_2023.xlsx,GOV.BUD,2023,,Unnamed: 1,5,5,True,"FY 2022
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+Quarterly Budget Performance Report_Q1_2023.xlsx,GOV.BUD,2023,,Unnamed: 2,5,5,True,"FY 2022
+Actual | النتائج الفعلية لميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1268163.723454302 | 1164308.8432161123 | 103854.8802381896"
+Quarterly Budget Performance Report_Q1_2023.xlsx,GOV.BUD,2023,,Unnamed: 3,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000.0000000002 | 15999.999999999767"
+Quarterly Budget Performance Report_Q1_2023.xlsx,GOV.BUD,2023,,Unnamed: 4,6,6,False,The Government Budget for FY 2023 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+Quarterly Budget Performance Report_Q1_2023.xlsx,Summary,2023,,Unnamed: 0,4,4,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الأول من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | أداء الميزانية العامة للدولة للربع الأول من السنة المالية الحالية 1444/ 1445هـ (2023م)
+Quarterly Budget Performance Report_Q1_2023.xlsx,Summary,2023,,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2023 Q1 (1444/1445 H)
+Quarterly Budget Performance Report_Q1_2023.xlsx,Summary,2023,,Unnamed: 16,3,3,False,Summary of Q1 Performance | Actual performance in Q1 of FY 2023 |  (SAR Million)
+Quarterly Budget Performance Report_Q1_2023.xlsx,Revenues,2023,,Unnamed: 0,26,18,False,الإيرادات | الإيرادات الفعلية للربع الأول من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+Quarterly Budget Performance Report_Q1_2023.xlsx,Revenues,2023,,Unnamed: 1,20,20,True,Q1 | 2023م | 178605.46071 | 7188.2436034600005 | 63086.93591
+Quarterly Budget Performance Report_Q1_2023.xlsx,Revenues,2023,,Unnamed: 2,10,10,True,Q1 | 2023 | 178605.46071 | 7188.2436034600005 | 63086.93591
+Quarterly Budget Performance Report_Q1_2023.xlsx,Revenues,2023,,Unnamed: 3,22,22,False,Revenues | Actual revenues in Q1 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues
+Quarterly Budget Performance Report_Q1_2023.xlsx,Revenues,2023,,Unnamed: 4,13,13,False,"Actual revenues in Q1 of FY 2022 Vs. Q1 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues | Taxes on Income, Profit and Capital Gains"
+Quarterly Budget Performance Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 0,42,36,False,المصروفات | المصروفات الفعلية للربع الأول من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+Quarterly Budget Performance Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 1,34,34,True,Q1 | 2023م | 134066.47103604002 | 54102.3365797025 | 9927.62927257
+Quarterly Budget Performance Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 2,23,23,True,Q1 | 2023 | 134066.47103604002 | 54102.3365797025 | 9927.62927257
+Quarterly Budget Performance Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 3,36,36,False,Expenditures | Actual expenditures in Q1 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees
+Quarterly Budget Performance Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 4,24,24,False,Actual expenditures in Q1 of FY 2022 Vs. Q1 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees | Use of Goods and Services
+Quarterly Budget Performance Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 5,12,12,True,نسبة التغير للمنصرف الفعلي حتى الربع الحالي مقارنة بالفترة المماثلة من العام السابق | Change  % | 0.5255928360105564 | 0.3800746927430976 | 0.14998493859760686
+Quarterly Budget Performance Report_Q1_2023.xlsx,Expenditures,2023,,Unnamed: 6,16,16,False,Expenditures | Actual expenditures in Q1 of FY 2022 Vs. Q1 of FY 2023 |  (SAR Million) | Sector | Public Administration
+Quarterly Budget Performance Report_Q1_2023.xlsx,Surplus - (Deficit),2023,,Unnamed: 0,12,12,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل للربع الأول للسنة المالية 1444 / 1445هـ  (2023م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+Quarterly Budget Performance Report_Q1_2023.xlsx,Surplus - (Deficit),2023,,Unnamed: 1,7,4,True,Q1 2023 | -2910.375343265536 | 0 | 0 | 0
+Quarterly Budget Performance Report_Q1_2023.xlsx,Surplus - (Deficit),2023,,Unnamed: 2,12,12,False,Financing | Budget Financing in Q1 of FY 2023 |  (SAR Million) | Item | Surplus/(Deficit)
+Quarterly Budget Performance Report_Q1_2023.xlsx,Gov.Reserve,2023,,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | للربع الأول من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+Quarterly Budget Performance Report_Q1_2023.xlsx,Gov.Reserve,2023,,Unnamed: 1,2,2,True,415050.07257003 | 35388.82352787748
+Quarterly Budget Performance Report_Q1_2023.xlsx,Gov.Reserve,2023,,Unnamed: 2,6,5,False,Government Reserve and Current Account  |  in Q1 of FY 2023 |  (SAR Million) | End of Period Balance | End of Period Balance
+Quarterly Budget Performance Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام للربع الأول للسنة المالية   1444/ 1445هـ (2023م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الأول من السنة المالية الحالية   1444/ 1445هـ (2023م) 
+Quarterly Budget Performance Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+Quarterly Budget Performance Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 990084 | 614956 | 12412.26855091
+Quarterly Budget Performance Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 3,7,7,True,الدين الخارجي | External Debt | 375128 | 37500 | 68878
+Quarterly Budget Performance Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+Quarterly Budget Performance Report_Q1_2023.xlsx,Debt,2023,,Unnamed: 5,5,4,False,Public Debt | Public debt in Q1 of FY 2023 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2023 Q1 (1444 / 1445 H)
+Quarterly Budget Performance Report_Q1_2023.xlsx,Appendix,2023,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+Quarterly Budget Performance Report_Q1_2023.xlsx,Appendix,2023,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+Quarterly Budget Performance Report_Q1_2023.xlsx,Appendix,2023,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+Quarterly Budget Performance Report_Q1_2023.xlsx,Appendix,2023,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,T.CONTENT,2023,,Unnamed: 0,10,10,False,"العنوان | مقدمة | الميزانيـــــة العامـــــة للدولــــــة
+للسنة المالية 1445/1444هـ (2023م) | الملخص التنفيذي لأداء الميزانيـــــة العامـــــة للدولــــــة
+للنصف الأول من السنة المالية 1445/1444هـ (2023م) | الإيرادات"
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,T.CONTENT,2023,,Unnamed: 1,10,10,False,"Subject | Introduction | The Government Budget 
+For FY 2023 | Summary of H1 Performance | Revenues"
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,INTRODUCTION,2023,,Unnamed: 1,2,2,False,مقدمة | تم إعداد هذا التقرير الربع سنوي من قبل وزارة المالية، ويحتوي على بيانات تفصيلية لحركة الإيرادات والمصروفات خلال الربع المحدد بالتقرير، إضافة إلى الفائض (أو العجز) المحقق وآلية تمويله والدين العام، بالاضافة إلى رصيد الاحتياطي العام للدولة والحساب الجاري. وتسعى وزارة المالية من خلال نشر هذا التقرير - بشكل دوري - إلى إعطاء مزيد من الشفافية حول أداء المالية العامة وفق معايير الإفصاح المالي. كما تجدر الإشارة إلى أن إعداد الميزانية العامة للدولة يتم على الأساس المحاسبي النقدي، مع العلم أن البيانات المالية الواردة في التقرير مبوبة حسب دليل إحصاءات مالية الحكومة (GFSM 2014)، الذي يُصدره صندوق النقد الدولي كتصنيف عالمي موحد. كما يتضمن التقرير قائمة بالمصطلحات وشروحاتها.
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,INTRODUCTION,2023,,Unnamed: 10,1,1,False,"This quarterly report is published by the Ministry of Finance (MoF) to provide detailed fiscal data covering performance during the specified quarter including revenues, expenditures, it’s funding sources and the change in public debt, In addition to government reserve and current account. Through the periodical publication of this report, budget deficit, MoF seeks to enhance transparency in accordance with financial disclosure standards. 
+It should be noted that fiscal accounts as presented in this report are based on cash basis of accounting and are classified according to the Government Finance Statistics Manual (GFSM 2014), published by the International Monetary Fund (IMF). A glossary section is provided at the end of this report. "
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,INTRODUCTION,2023,,Unnamed: 15,1,1,False,INTRODUCTION
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,GOV.BUD,2023,,Unnamed: 0,7,7,False,"الميزانية العامة للدولة 
+ | للسنة المالية 1445/1444هـ (2023م) | (مليون ريال) | البيان | إجمالي الإيرادات"
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,GOV.BUD,2023,,Unnamed: 1,5,5,True,"FY 2022
+Budget | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1045090 | 955000 | 90090"
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,GOV.BUD,2023,,Unnamed: 2,5,5,True,"FY 2022
+Actual | ميزانية
+السنة المالية 1444/1443هـ
+(2022م) | 1268163.723454302 | 1164308.8432161123 | 103854.8802381896"
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,GOV.BUD,2023,,Unnamed: 3,5,5,True,"FY 2023
+Budget | ميزانية
+السنة المالية 1445/1444هـ
+(2023م) | 1130000 | 1114000.0000000002 | 15999.999999999767"
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,GOV.BUD,2023,,Unnamed: 4,6,6,False,The Government Budget for FY 2023 |  (SAR Million) | Items | Total Revenues | Total Expenditures
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Summary,2023,,Unnamed: 0,6,5,False,الملخص التنفيذي | النتائج الفعلية لأداء الميزانية للربع الثاني من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | النتائج الفعلية لأداء الميزانية للنصف الأول من السنة المالية 1445/1444هـ (2023م) | (مليون ريال)
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Summary,2023,,Unnamed: 14,1,1,False,Quarterly Budget Performance Report of FY 2023 Q2 (1444/1445 H)
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Summary,2023,,Unnamed: 16,6,5,False,Summary of Q2 Performance | Actual performance in Q2 of FY 2023 |  (SAR Million) | Summary of H1 Performance | Actual performance in H1 of FY 2023
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 0,38,19,False,الإيرادات | الإيرادات الفعلية للنصف الأول من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | الإيرادات* | الإيرادات النفطية
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 1,20,18,True,Change  | % | -0.28208632432783065 | 0.629739325703957 | 0.02974036922018075
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 2,30,22,True,الإجمالي | Total | 358345.200205987 | 23868.62560204 | 129216.86242132001
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 3,30,28,True,Q2 | 2023 | 179739.739495987 | 16680.38199858 | 66129.92651132001
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 4,34,24,False,Q1 | 2023 | 178605.46071 | 7188.2436034600005 | 63086.93591
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Revenues,2023,,Unnamed: 6,12,12,False,Revenues | Actual revenues in H1 of FY 2023 |  (SAR Million) | Revenues* | Oil Revenues
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 0,55,37,False,المصروفات | المصروفات الفعلية للنصف الأول من السنة المالية 1444/ 1445هـ (2023م)  | (مليون ريال) | المصروفات* |  تعويضات العاملين
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 1,44,42,True,Total | 265947.26027357 | 116163.4493912025 | 18633.073100939997 | 13776.678323940001
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 2,45,32,True,Q2 | 2023 | 131880.78923753 | 62061.1128115 | 8705.443828369996
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 3,45,44,True,Q1 | 2023 | 134066.47103604002 | 54102.3365797025 | 9927.62927257
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 4,49,27,False,Expenditures | Actual expenditures in H1 of FY 2023 |  (SAR Million) | Expenditures* | Compensation of Employees
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 5,12,12,True,نسبة التغير للمنصرف الفعلي للنصف الحالي مقارنة بالفترة المماثلة من العام السابق | Change  % | 0.22685470045320288 | 0.05830053720868977 | 0.09840670681263086
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Expenditures,2023,,Unnamed: 6,15,15,False,Actual expenditures in H1 of FY 2022 Vs. H1 of FY 2023 |  (SAR Million) | Sector | Public Administration | Military 
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Financing,2023,,Unnamed: 0,12,12,False,التمويـــل | نتائج الفائض/(العجز) ومصادر التمويـــل للنصف الأول من السنة المالية 1444 / 1445هـ  (2023م) | (مليون ريال) | البيان | فائض/(عجز) الفترة
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Financing,2023,,Unnamed: 1,8,5,True,الإجمالي | Total | -8179.375343265536 | 0 | 0
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Financing,2023,,Unnamed: 2,7,4,True,Q2 2023 | -5269 | 0 | 0 | 0
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Financing,2023,,Unnamed: 3,7,4,True,Q1 2023 | -2910.375343265536 | 0 | 0 | 0
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Financing,2023,,Unnamed: 4,12,12,False,Financing | Budget Financing in H1 of FY 2023 |  (SAR Million) | Item | Surplus/(Deficit)
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Gov.Reserve,2023,,Unnamed: 0,10,9,False,رصيد الاحتياطي العام للدولة والحساب الجاري  | حتى نهاية النصف الأول من السنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | رصيد الاحتياطي العام للدولة | Government Reserve
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Gov.Reserve,2023,,Unnamed: 1,2,2,True,409840.62353698 | 52291.0
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Gov.Reserve,2023,,Unnamed: 2,6,5,False,Government Reserve and Current Account  | H1 of FY 2023 |  (SAR Million) | End of Period Balance | End of Period Balance
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 0,5,5,False,الديــــن العــــام | الدين العام حتى نهاية النصف الأول للسنة المالية 1444/ 1445هـ (2023م) | (مليون ريال) | الدين العام | أداء الميزانية العامة للدولة للربع الثاني من السنة المالية الحالية 1444/ 1445هـ (2023م) 
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 1,6,6,False,البيان | الرصيد أول الفترة | الإصدارات أو الاقتراض  | سداد أصل الدين  | إطفاء سندات حكومية
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 2,9,9,True,الدين الداخلي | Domestic Debt | 990084 | 614956 | 22597
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 3,7,7,True,الدين الخارجي | External Debt | 375128 | 60000 | 69505
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 4,6,6,False,Item | Beginning of Period Balance | Issuances or Borrowings | Principal Repayment | Amortization of Government Bonds
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Debt,2023,,Unnamed: 5,5,4,False,Public Debt | Public debt in H1 of FY 2023 |  (SAR Million) | Public Debt | Quarterly Budget Performance Report of FY 2023 Q2 (1444/1445 H)
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Appendix,2023,,Unnamed: 0,16,16,False,ملحق تعريف بنود الإيرادات والمصروفات  | حسب دليل إحصاءات مالية الحكومة (GFSM 2014) | البند | الضرائب على الدخل والأرباح والمكاسب الرأسمالية  | الضرائب على السلع والخدمات
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Appendix,2023,,Unnamed: 1,14,14,False,مكوناته | ضريبة دخل الشركات و المنشآت وضريبة الاستقطاع لغير المقيمين. | ضرائب السلع أو مزاولة أنشطة معينة (ضريبة القيمة المضافة والضريبة الانتقائية والمقابل المالي على الوافدين). | هي رسوم على السلع لأنها تدخل البلد المعني أو على خدمات، لأنها مقدمة من غير مقيمين إلى مقيمين. وقد تفرض هذه الرسوم لأغراض جباية الإيرادات أو لأغراض الحماية، وقد تحدد على أساس معين أو حسب القيمة. | الضرائب الأخرى المدفوعة من شركات الأعمال فقط (زكاة الشركات والمنشآت) والضرائب غير المصنفة. 
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Appendix,2023,,Unnamed: 2,14,14,False,"Definition | Consists of taxes assessed on the actual or presumed incomes of institutional units. | taxes on the production, activities (Excise Tax, VAT and Expat Levy). | Taxes that are payable when goods or services cross the national or customs frontiers of the economic territory, provided from nonresidents to residents. These fees might be imposed for revenue collection or protection purposes and may be determined on a certain criteria or by value. | Other taxes paid by businesses only (corporate Zakat) and unidentified taxes."
+Quarterly_Budget _Performance_Report_Q2_2023.xlsx,Appendix,2023,,Unnamed: 3,16,16,False,"The Definition of revenues and Expenses  | as Outlined in IMF (GFSM 2014) | Item | Taxes on Income, Profits, and capital Gains | Taxes on Goods and Services"
